@@ -1,0 +1,3315 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "body": "Akt haqqında yazılanlardan biri doğru deyil:",
+      "wrong": [
+        "Akt imzalanmalıdır.",
+        "Tərtib olunarkən “Akt” sözü vərəqin yuxarı hissəsində böyük hərflərlə yazılmalıdır.",
+        "Hər bir akt təşkilat tərəfindən ayrılmış komissiyanın iştirakı ilə tərtib olunur.",
+        "Yoxlanılan hadisə haqqında dəqiq məlumat verilməlidir."
+      ],
+      "correct": "Tərtib edənlərin imzasının olması zəruri deyildir."
+    },
+    {
+      "number": 2,
+      "body": "Akta aid olan xüsusiyyətləri göstərin:",
+      "wrong": ["3, 4, 5", "2, 4, 5", "2, 3, 4", "1, 2, 3"],
+      "correct": "1, 3, 5"
+    },
+    {
+      "number": 3,
+      "body": "Hansı sənədi hazırlayarkən bu tələblər yerinə yetirilməlidir?",
+      "wrong": ["əqd", "arayış", "izahat", "tərcümeyi-hal"],
+      "correct": "akt"
+    },
+    {
+      "number": 4,
+      "body": "Aktın mətni hansı tərkib hissələrindən ibarətdir?",
+      "wrong": [
+        "giriş və sərəncam",
+        "şərh və sərəncam",
+        "şərh və nəticə",
+        "nəticə və sərəncam"
+      ],
+      "correct": "giriş və şərh"
+    },
+    {
+      "number": 5,
+      "body": "Akt kim tərəfindən imzalanmalıdır?",
+      "wrong": [
+        "baş mühasib",
+        "sədr",
+        "komissiyanın bir neçə üzvü",
+        "komissiyanın üzvlərindən biri"
+      ],
+      "correct": "aktın tərtibində iştirak edən bütün şəxslər"
+    },
+    {
+      "number": 6,
+      "body": "Aşağıdakı fikirlərdən hansı akta aid deyil?",
+      "wrong": [
+        "Sonda tərtib edənlərin imzası qoyulur.",
+        "Yoxlanılan hadisə haqqında dəqiq məlumat verilir.",
+        "Əksər hallarda xüsusi təftiş komissiyasının iştirakı ilə tərtib olunur.",
+        "Bir neçə faktı əks etdirə bilər."
+      ],
+      "correct": "Şikayət və ya xahiş etmək məqsədilə yazılır."
+    },
+    {
+      "number": 7,
+      "body": "Hər hansı bir təşkilat və ya müəssisədə aparılan yoxlamanın nəticələrini əks etdirən sənəd növü hansıdır?",
+      "wrong": ["protokol", "rəsmi məktub", "zəmanət", "izahat"],
+      "correct": "akt"
+    },
+    {
+      "number": 8,
+      "body": "“Anar, Ramiz və Tahir bilmədən auditoriyanın pəncərəsini sındırmışlar”. Baş vermiş hadisəni rəsmiləşdirmək üçün hansı sənəd yazılmalıdır?",
+      "wrong": ["rəy", "qəbz", "arayış", "məktub"],
+      "correct": "akt"
+    },
+    {
+      "number": 9,
+      "body": "“Müəyyən bir təşkilat tərəfindən ayrılmış komissiyanın iştirakı ilə tərtib olunur. Yoxlanılan hadisə haqqında dəqiq məlumat verilir. Burada hadisənin gedişi, materialın qiyməti, kəmiyyəti öz əksini tapır”. Verilənlər rəsmi-işgüzar üslubun hansı növünə aiddir?",
+      "wrong": ["zəmanət", "rəsmi məktub", "protokol", "izahat"],
+      "correct": "akt"
+    },
+    {
+      "number": 10,
+      "body": "Bunlardan hansı məzmunca akt növü deyil?",
+      "wrong": [
+        "hər hansı bir faktı aşkarlayan akt",
+        "Azadlıq haqqında Konstitusiya aktı",
+        "cinayət aktı",
+        "dövlət aktı"
+      ],
+      "correct": "ictimai akt"
+    },
+    {
+      "number": 11,
+      "body": "Bir neçə nəfərin iştirakı ilə tərtib edilib imzalanan sənəd necə adlanır?",
+      "wrong": ["məlumat", "təqdimat", "qaimə", "izahat"],
+      "correct": "akt"
+    },
+    {
+      "number": 12,
+      "body": "Akt neçə hissədən ibarətdir?",
+      "wrong": ["1", "5", "4", "3"],
+      "correct": "2"
+    },
+    {
+      "number": 13,
+      "body": "Verilən fikirlərdən biri akta aid deyil:",
+      "wrong": [
+        "Mətni giriş və şərh hissələrindən ibarət olmalıdır.",
+        "İmzaları ilə təsdiq edilən bir neçə nəfər tərəfindən tərtib edilir.",
+        "Yoxlamanın müddəti həm rəqəm, həm də hərflə qeyd olunur.",
+        "Aktın xüsusi tərtib edilmə forması var."
+      ],
+      "correct": "Şərh və sərəncam hissələrindən ibarət olur."
+    },
+    {
+      "number": 14,
+      "body": "Töhmət barədə yürüdülən fikirlərdən biri yanlışdır:",
+      "wrong": [
+        "“Töhmət” ərəb sözü olub, mənası məzəmmət, danlaq deməkdir.",
+        "Töhmət hər hansı bir müəssisə və ya təşkilatın iclasında müzakirə olunduqdan sonra verilə bilər.",
+        "Töhmət intizam tənbehlərindən biridir.",
+        "Töhmət idarə, təşkilat və müəssisələrdə əmr kitabına, işçilərin şəxsi işinə yazılmaqla rəsmiləşdirilir."
+      ],
+      "correct": "Töhmət yalnız yazılı formada verilir."
+    },
+    {
+      "number": 15,
+      "body": "İşgüzar sənədi göstərin:",
+      "wrong": ["bəyanat", "fərman", "sərəncam", "nota"],
+      "correct": "xəbərdarlıq"
+    },
+    {
+      "number": 16,
+      "body": "Xəbərdarlıq formalarından biri səhv göstərilib:",
+      "wrong": ["inzibati", "yazılı", "epistolyar", "diplomatik"],
+      "correct": "fiziki"
+    },
+    {
+      "number": 17,
+      "body": "Diplomatik xəbərdarlıq nədir?",
+      "wrong": [
+        "Adətən, idarə və müəssisə rəhbəri tərəfindən verilir.",
+        "Qeyri-rəsmi xarakter daşıyır.",
+        "İdarə, təşkilat və müəssisələrdə əmr kitabına, işçilərin şəxsi işinə yazılmaqla rəsmiləşdirilir.",
+        "İşində nöqsana yol vermiş şəxsə ciddi inzibati cəza vermək istəməyən müəssisə rəhbəri ona yazılı, ya da şifahi formada xəbərdarlıq edir."
+      ],
+      "correct": "Dövlət mənafeyi və dövlət siyasəti ilə bağlı olur."
+    },
+    {
+      "number": 18,
+      "body": "“Təşəkkür” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["türk", "fars", "latın", "yunan"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 19,
+      "body": "Verilənlərdən biri diplomatik xəbərdarlığa aid deyil:",
+      "wrong": [
+        "Notadan fərqli olaraq, nisbətən yumşaq xarakterdə olur.",
+        "Bir neçə dəfə təkrar oluna bilər.",
+        "Dövlət mənafeyi və dövlət siyasəti ilə bağlı olur.",
+        "Hər hansı bir dövlət öz hərəkəti ilə başqa bir dövlətin mənafeyinə toxunduqda ya ölkə başçısı, ya da Xarici İşlər Nazirliyi verir."
+      ],
+      "correct": "Yüksək gərginlikli elektrik cərəyanı olmasını bildirən işarələrdir."
+    },
+    {
+      "number": 20,
+      "body": "Verilmiş xüsusiyyətlərin aid olduğu əməli yazı növünü göstərin: 1. Mənşəyinə görə ərəb dilinə aiddir. 2. Hüquqi sənəd deyil. 3. Müxtəsər və müfəssəl olur. 4. Forması ərizəyə oxşayır.",
+      "wrong": ["akt", "protokol", "nota", "etiket"],
+      "correct": "izahat"
+    },
+    {
+      "number": 21,
+      "body": "Ərəb sözü olub “məzəmmət, danlaq” mənalarını verir. Söhbət hansı sənəddən gedir?",
+      "wrong": ["izahat", "təqdimat", "təşəkkür", "bəyanat"],
+      "correct": "töhmət"
+    },
+    {
+      "number": 22,
+      "body": "Verilmiş nümunə hansı əməli yazı növünə aiddir? “Xəstə olduğum üçün may ayının 3-dən 15-nə kimi işdə olmamışam. Ona görə də həmin günlərdə baş vermiş hadisə haqqında heç bir məlumatım yoxdur...”",
+      "wrong": ["xasiyyətnamə", "zəmanət", "protokol", "müqavilə"],
+      "correct": "izahat"
+    },
+    {
+      "number": 23,
+      "body": "“17.11.2021-ci il tarixində yollarda yaranmış tıxaclar səbəbindən işə 15 dəqiqə gecikməyimi üzürlü hesab etməyinizi Sizdən xahiş edirəm”. Göstərilən nümunə hansı sənədə aiddir?",
+      "wrong": ["əqd", "təqdimat", "ərizə", "vəsatət"],
+      "correct": "izahat"
+    },
+    {
+      "number": 24,
+      "body": "Verilənlərdən biri işgüzar sənəddir:",
+      "wrong": ["bəyanat", "fərman", "sərəncam", "nota"],
+      "correct": "izahat"
+    },
+    {
+      "number": 25,
+      "body": "“Təşəkkür” sözü hansı məqamda işlənir? Doğru cavabı tapın:",
+      "wrong": [
+        "inzibati xəta törətdikdə",
+        "bir şəxsin digər şəxsə söz vasitəsilə təsir göstərməsi",
+        "vəzifəli şəxslərə işgüzar məktub ünvanlandıqda",
+        "mülki şəxslərə cəza verdikdə"
+      ],
+      "correct": "bir işə görə razılıq, minnətdarlıq"
+    },
+    {
+      "number": 26,
+      "body": "“Ərəb sözü olub, məzəmmət, danlaq mənalarını verir. Bu, idarə və müəssisələrdə yazılı şəkildə əmr kitabçasına, işçilərin şəxsi işinə yazılmaqla rəsmiləşdirilir”. Verilmiş fikirlər hansı sənədi səciyyələndirir?",
+      "wrong": ["arayış", "zəmanət", "xəbərdarlıq", "protokol"],
+      "correct": "töhmət"
+    },
+    {
+      "number": 27,
+      "body": "Verilənlərdən hansı formaca ərizə ilə eynidir?",
+      "wrong": ["təliqə", "reklam", "müqavilə", "zəmanət"],
+      "correct": "izahat"
+    },
+    {
+      "number": 28,
+      "body": "Verilmiş xüsusiyyətlər hansı əməli yazı növünə aiddir? 1. Ərəbcə “ətraflı surətdə anlatma, ifadəetmə” deməkdir. 2. Müxtəsər və müfəssəl olur. 3. Forması ərizəyə oxşayır.",
+      "wrong": ["arayış", "protokol", "hesabat", "akt"],
+      "correct": "izahat"
+    },
+    {
+      "number": 29,
+      "body": "Tələbə dərsə gəlməyibsə bu halda hansı əməli yazı növü ilə dekanlığa müraciət etməlidir?",
+      "wrong": ["protokol", "xasiyyətnamə", "akt", "məktub"],
+      "correct": "izahat"
+    },
+    {
+      "number": 30,
+      "body": "Töhmətin formaca növlərindən biri səhvdir:",
+      "wrong": [
+        "yazılı töhmət",
+        "yazılı və şifahi töhmət",
+        "şiddətli töhmət",
+        "şifahi töhmət"
+      ],
+      "correct": "mürəkkəb töhmət"
+    },
+    {
+      "number": 31,
+      "body": "Bunlardan hansı əmək kitabçasında qeyd edilir?",
+      "wrong": ["ərizə", "izahat", "dərkənar", "xəbərdarlıq"],
+      "correct": "şiddətli töhmət"
+    },
+    {
+      "number": 32,
+      "body": "Bunlardan hansı intizam tənbehi deyil?",
+      "wrong": [
+        "şiddətli töhmət",
+        "töhmət və cərimə",
+        "yazılı töhmət",
+        "şifahi töhmət"
+      ],
+      "correct": "xəbərdarlıq"
+    },
+    {
+      "number": 33,
+      "body": "Töhmətin neçə növü vardır?",
+      "wrong": ["4", "5", "1", "3"],
+      "correct": "2"
+    },
+    {
+      "number": 34,
+      "body": "Forma etibarilə izahatın neçə növü var?",
+      "wrong": ["1", "5", "4", "3"],
+      "correct": "2"
+    },
+    {
+      "number": 35,
+      "body": "Bunlardan hansı əmək kitabçasında qeyd edilir?",
+      "wrong": ["arayış", "izahat", "ərizə", "akt"],
+      "correct": "təşəkkür"
+    },
+    {
+      "number": 36,
+      "body": "Verilən xüsusiyyət hansı əməli yazı növünə aiddir? “Əsasən, idarə, təşkilat və müəssisələrdə qəbahət edənə həmin qəbahəti bir daha təkrar etməməsi üçün verilən yazılı və şifahi göstəriş deməkdir.”",
+      "wrong": ["qəbz", "rəy", "ərizə", "annotasiya"],
+      "correct": "xəbərdarlıq"
+    },
+    {
+      "number": 37,
+      "body": "“Avropa oyunlarında könüllü kimi iştirak etmişəm. Bu səbəbdən imtahanlara gəlməmişəm. Bunu üzürlü hesab etməyinizi Sizdən xahiş edirəm”. Nümunə hansı əməli yazı növünə aiddir?",
+      "wrong": ["töhmət", "xəbərdarlıq", "akt", "təqdimat"],
+      "correct": "izahat"
+    },
+    {
+      "number": 38,
+      "body": "İşçi əmək funksiyalarını tam və ya qismən yerinə yetirmədikdə, yaxud keyfiyyətsiz yerinə yetirdikdə, həmçinin müəssisədaxili intizam qaydalarını pozduqda və əvvəlki xəbərdarlıqlardan nəticə çıxarmadıqda işəgötürən ona ....... verə bilər. Nöqtələrin yerinə hansı əməli yazı nümunəsi olmalıdır?",
+      "wrong": ["nota", "izahat", "bəyanat", "zəmanət"],
+      "correct": "töhmət"
+    },
+    {
+      "number": 39,
+      "body": "“12.05.2020-ci il tarixində yollarda yaranmış tıxaclar səbəbindən dərsə 20 dəqiqə gecikməyimi üzürlü hesab etməyinizi Sizdən xahiş edirəm”. Göstərilən nümunə hansı əməli yazı növünə aiddir?",
+      "wrong": ["etibarnamə", "bildiriş", "rəy", "arayış"],
+      "correct": "izahat"
+    },
+    {
+      "number": 40,
+      "body": "“Əziz həmvətənlər Hörmətli soydaşlar Mən Sizə bütün dünya azərbaycanlılarının kədər və hüznlə qeyd etdiyi soyqırımı qurbanlarının anım günü 31 mart münasibətilə müraciət edirəm”. Verilmiş hissə rəsmi-işgüzar üslubun hansı növünə aiddir və burada hansı durğu işarələri qoyulmamışdır?",
+      "wrong": [
+        "fərman (nida, vergül)",
+        "məqalə (nöqtəli vergül, iki nida)",
+        "təliqə (tire, sual, vergül)",
+        "sərəncam (vergül, iki nöqtə)"
+      ],
+      "correct": "bəyanat (nida, tire)"
+    },
+    {
+      "number": 41,
+      "body": "Əmrin hazırlanması və tətbiqinə dair verilən tələblərdən biri yanlışdır:",
+      "wrong": [
+        "Təqvim ili boyunca nömrələnir və müvafiq kitabda qeydə alınır.",
+        "Əmr, bir qayda olaraq, şərh və sərəncam hissələrindən ibarət olur.",
+        "Şərh hissəsində əmr verilməsi üçün əsas götürülən faktlar ifadə edilir, sərəncam hissəsində isə görülməli tədbirlər sadalanır.",
+        "Əmrin sərəncam hissəsi «əmr edirəm» sözləri ilə başlanır."
+      ],
+      "correct": "Əmr nömrələnmir."
+    },
+    {
+      "number": 42,
+      "body": "Əmrin sərəncam hissəsi haqqında deyilənlərdən biri səhvdir:",
+      "wrong": [
+        "Hər bənd struktur bölməsinin konkret icrasının və ya vəzifəli şəxsin adının göstərilməsi ilə başlanır.",
+        "Müddət göstərilmir.",
+        "«Əmr edirəm» sözləri ilə başlanır.",
+        "Nəzərdə tutulan fikirlər ərəb rəqəmləri ilə nömrələnən bəndlər üzrə yerləşdirilir."
+      ],
+      "correct": "Qüvvədəqalma müddəti göstərilir."
+    },
+    {
+      "number": 43,
+      "body": "Rəsmi sənədlər olan cərgəni göstərin:",
+      "wrong": [
+        "vəkalətnamə, ərizə",
+        "protokol, izahat",
+        "akt, zəmanət",
+        "arayış, hesabat"
+      ],
+      "correct": "sərəncam, bəyanat"
+    },
+    {
+      "number": 44,
+      "body": "1. Bu rəsmi sənədin xüsusi forması yoxdur. 2. Formaca fərmandan və qərardan fərqləndirmək çətindir. Söhbət hansı əməli yazı növündən gedir?",
+      "wrong": ["bəyanat", "nota", "müqavilə", "zəmanət"],
+      "correct": "sərəncam"
+    },
+    {
+      "number": 45,
+      "body": "“Azərbaycan Respublikası Konstitusiyasının 109-cu maddəsinin 32-ci bəndini rəhbər tutaraq qərara alıram: Nizami Qulu oğlu Cəfərov Azərbaycanda Atatürk mərkəzinin müdiri təyin edilsin”. Göstərilən nümunə hansı əməli yazı növünə aiddir:",
+      "wrong": ["etibarnamə", "raport", "müqavilə", "xasiyyətnamə"],
+      "correct": "sərəncam"
+    },
+    {
+      "number": 46,
+      "body": "Hansı sıra rəsmi sənədlərdən ibarətdir?",
+      "wrong": [
+        "ərizə, təşəkkür",
+        "tərcümeyi-hal, izahat",
+        "reklam, hesabat",
+        "arayış, əqd"
+      ],
+      "correct": "sərəncam, fərman"
+    },
+    {
+      "number": 47,
+      "body": "“Qeyd, işarə” mənasını verən və bir hökumətin başqa hökumətə rəsmi yazılı müraciətini özündə əks etdirən sənəd növünü göstərin:",
+      "wrong": ["fərman", "işgüzar məktub", "protokol", "əmr"],
+      "correct": "nota"
+    },
+    {
+      "number": 48,
+      "body": "Ərəb sözü olub “anlatma, izahetmə, şərhetmə, aydınlaşdırma, bildirmə” mənalarında işlənir. Söhbət hansı rəsmi sənəddən gedir?",
+      "wrong": ["fərman", "nota", "sərəncam", "qanun"],
+      "correct": "bəyanat"
+    },
+    {
+      "number": 49,
+      "body": "“Fəlsəfə kafedrasının müəllimlərindən Lalə Səmədova, Günay Həsənova 1 iyul 2020-ci il tarixindən məzuniyyətə buraxılsınlar” cümləsi hansı sənədin tərkib hissəsidir?",
+      "wrong": ["akt", "arayış", "ərizə", "elan"],
+      "correct": "əmr"
+    },
+    {
+      "number": 50,
+      "body": "“Nota” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["fransız", "ərəb", "fars", "yunan"],
+      "correct": "latın"
+    },
+    {
+      "number": 51,
+      "body": "Hansılar daha rəsmi xarakter daşıyır?",
+      "wrong": [
+        "məktub və sifarişlər",
+        "ərizə və izahatlar",
+        "anons və afişalar",
+        "zəmanət və elanlar"
+      ],
+      "correct": "əmr və sərəncamlar"
+    },
+    {
+      "number": 52,
+      "body": "Şəxsin öz xətti ilə yazılmayan əməli yazı nümunəsi hansıdır?",
+      "wrong": ["izahat", "tərcümeyi-hal", "məktub", "ərizə"],
+      "correct": "əmr"
+    },
+    {
+      "number": 53,
+      "body": "... yazılı sənəd kimi, əsasən, hökumət orqanlarının, idarə, müəssisə, təşkilat və s. rəhbərlərinin rəsmi sərəncamı hesab olunur:",
+      "wrong": ["bəyanat", "təqdimat", "izahat", "nota"],
+      "correct": "əmr"
+    },
+    {
+      "number": 54,
+      "body": "Təqvim ili boyunca nömrələnən və qeydə alınan sənəd növlərindən biridir:",
+      "wrong": ["tərcümeyi-hal", "təqdimat", "ərizə", "hesabat"],
+      "correct": "əmr"
+    },
+    {
+      "number": 55,
+      "body": "Verilən fikir hansı rəsmi sənədə aiddir? “Dövlət və inzibati hüquqda dövlət idarəetmə orqanının aktıdır. Hüquqi xarakter daşımaqla, vəzifəli şəxsə, dövlət orqanına verilmiş səlahiyyət daxilində çıxarılır, müvafiq vətəndaşlar və şəxslər üçün məcburi qüvvəyə malikdir”.",
+      "wrong": ["bəyanat", "əmr", "müraciət", "nota"],
+      "correct": "sərəncam"
+    },
+    {
+      "number": 56,
+      "body": "Biri rəsmi sənəddir:",
+      "wrong": ["töhmət", "reklam", "arayış", "izahat"],
+      "correct": "sərəncam"
+    },
+    {
+      "number": 57,
+      "body": "Sərəncamlar məzmunca neçə yerə bölünür:",
+      "wrong": ["6", "3", "4", "5"],
+      "correct": "2"
+    },
+    {
+      "number": 58,
+      "body": "“Birinə üz tutub söylənilən söz, çağırış (istər şifahi, istər yazılı) mənalarındadır”. Söhbət hansı rəsmi sənəddən gedir?",
+      "wrong": ["fərman", "konstitusiya", "sərəncam", "bəyanat"],
+      "correct": "müraciət"
+    },
+    {
+      "number": 59,
+      "body": "“Diplomatik akt növüdür. Hər hansı bir hüquq və ya tələb, digər dövlətin düzgün olmayan aktlarına qarşı etiraz bildirilir”. Verilən xüsusiyyətlər hansı sənədə aiddir?",
+      "wrong": ["hesabat", "məktub", "etiket", "reklam"],
+      "correct": "nota"
+    },
+    {
+      "number": 60,
+      "body": "Rəsmi sənədlər olan cərgəni göstərin:",
+      "wrong": [
+        "izahat, ərizə",
+        "məktub, təqdimat",
+        "arayış, etibarnamə",
+        "hesabat, izahat"
+      ],
+      "correct": "nota, fərman"
+    },
+    {
+      "number": 61,
+      "body": "Latın sözü olub, “qeyd, işarə” mənasını verir və bir hökumətin başqa hökumətə rəsmi yazılı müraciətini (etibarını) özündə əks etdirir. Söhbət hansı sənəddən gedir?",
+      "wrong": ["bəyanat", "təqdimat", "təlimat", "raport"],
+      "correct": "nota"
+    },
+    {
+      "number": 62,
+      "body": "Verilən xüsusiyyət hansı əməli yazı növünə aiddir: “Bu rəsmi sənədin xüsusi forması yoxdur. Formaca fərmandan və qərardan fərqləndirmək çətindir”.",
+      "wrong": ["nota", "müraciət", "bəyanat", "konstitusiya"],
+      "correct": "sərəncam"
+    },
+    {
+      "number": 63,
+      "body": "Aşağıda verilmiş mətn hansı sənədin tərkib hissəsidir? “İdarənin işçilərindən Əli Həsən oğlu İsayev və Elşən Telman oğlu Musayev 8 avqust 2021-ci il tarixindən məzuniyyətə buraxılsınlar.”",
+      "wrong": ["bildiriş", "protokol", "reklam", "müqavilə"],
+      "correct": "əmr"
+    },
+    {
+      "number": 64,
+      "body": "1) Bir işin görülməsi üçün verilən hökm və göstərişi özündə ehtiva edir. 2) Bir qayda olaraq şərh və sərəncam hissələrindən ibarət olur. 3) Təqvim ili boyunca nömrələnir və müvafiq kitabda qeydə alınır. Verilmiş xüsusiyyətlər hansı əməli yazı növünə aiddir?",
+      "wrong": ["xasiyyətnamə", "zəmanət", "nota", "protokol"],
+      "correct": "əmr"
+    },
+    {
+      "number": 65,
+      "body": "Nöqtələrin yerinə uyğun gələn sənədi göstərin: ... yazılı sənəd kimi, əsasən, hökumət orqanlarının idarə, müəssisə, təşkilat və s. rəhbərlərinin rəsmi sərəncamı hesab olunur.",
+      "wrong": ["hesabat", "məktub", "protokol", "arayış"],
+      "correct": "əmr"
+    },
+    {
+      "number": 66,
+      "body": "Göstərilən variantlardan biri əmrin dil xüsusiyyətini əks etdirir:",
+      "wrong": [
+        "Əmrdə subyektiv münasibət bildirən ifadələr yazılır.",
+        "Əmrdə bədii təsvir və obrazlılıq işlədilir.",
+        "Əmr rəsmi-işgüzar üsluba əsaslanmır.",
+        "Əmrin dili rəsmi olmur."
+      ],
+      "correct": "Əmr sırf ədəbi dildə verilir."
+    },
+    {
+      "number": 67,
+      "body": "“Əmr” sözü hansı dilə məxsusdur?",
+      "wrong": ["türk", "rus", "latın", "fars"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 68,
+      "body": "Verilmiş fikirlərdən yalnız biri protokola aiddir:",
+      "wrong": [
+        "Şikayət və ya xahiş etmək məqsədilə yazılır.",
+        "Faktlar (oxuduğu, işlədiyi yerlər, nailiyyətləri və s.) ardıcıl sadalanmalıdır.",
+        "Şəxsin kimliyini təsdiq etmək məqsədilə bu və ya digər təşkilat tərəfindən verilir.",
+        "Yoxlamanın müddəti həm rəqəm, həm də hərflərlə qeyd olunur."
+      ],
+      "correct": "Təşkilatın adı, tarix və yığıncağın keçirildiyi yer, çıxışlar və qərarlar qeyd olunur."
+    },
+    {
+      "number": 69,
+      "body": "Protokolla bağlı verilmiş fikirlərdən biri səhvdir:",
+      "wrong": [
+        "Dövlətlərarası saziş, müqavilə və s. bağlanan zaman keçirilən yığıncaqlarda da yazılır.",
+        "İclaslarda söylənilən çıxışları və qərarları təzahür etdirmək üçün yazılır.",
+        "Təşkilatın adı, tarix və yığıncağın keçirildiyi yer qeyd olunmalıdır.",
+        "Sədr və katib tərəfindən imzalanır."
+      ],
+      "correct": "Faktlar (oxuduğu, işlədiyi yerlər, nailiyyətləri və s.) ardıcıl sadalanmalıdır."
+    },
+    {
+      "number": 70,
+      "body": "Protokol haqqında yazılanlardan biri doğru deyil:",
+      "wrong": [
+        "Əməli yazı nümunəsidir, rəsmi-işgüzar sənəd formasıdır.",
+        "Yunan sözüdür- ``protok``-ilk, ``kolos``-yapışdırmaq deməkdir.",
+        "Dövlət qanunu, qayda pozulubsa, akta əlavə olaraq yazılır.",
+        "Bir neçə aktual məsələni özündə əks etdirə bilər."
+      ],
+      "correct": "Protokol bir şəxs tərəfindən imzalanır."
+    },
+    {
+      "number": 71,
+      "body": "Protokol nə vaxt yazılır?",
+      "wrong": [
+        "hər hansı faktı aşkarlamaq məqsədilə",
+        "hər hansı idarə və ya şəxsin adından iş görən zaman",
+        "qiymətli bir əşyanı müəyyən təşkilatdan almaq məqsədilə",
+        "ezamiyyətə göndərilən zaman"
+      ],
+      "correct": "konfrans, iclas, qurultayda söylənilən çıxışları qeyd etmək məqsədilə"
+    },
+    {
+      "number": 72,
+      "body": "Müşavirə, konfrans və iclaslarda söylənilən çıxışları, qəbul edilən qərarları özündə təzahür etdirmək, həmçinin hər hansı bir qaydanın, yaxud qanunun pozulması zamanı tərtib olunan akta əlavə etmək üçün yazılır:",
+      "wrong": ["annotasiya", "rəy", "qaimə", "vəkalətnamə"],
+      "correct": "protokol"
+    },
+    {
+      "number": 73,
+      "body": "Bunlardan biri protokolda öz əksini tapmır:",
+      "wrong": [
+        "gündəlik məsələlər",
+        "sədr və katibin imzası",
+        "çıxışların qısa məzmunu",
+        "qərar"
+      ],
+      "correct": "xülasə"
+    },
+    {
+      "number": 74,
+      "body": "Protokol kimlər tərəfindən imzalanır?",
+      "wrong": [
+        "yalnız katib",
+        "iclasda iştirak edən bütün şəxslər",
+        "məruzəçi",
+        "yalnız sədr"
+      ],
+      "correct": "sədr və katib"
+    },
+    {
+      "number": 75,
+      "body": "Sənəd formalarından hansı təqvim ili boyunca nömrələnir və kitabda qeydə alınır?",
+      "wrong": [
+        "hesabat və izahatlar",
+        "tərcümeyi-hal və xasiyyətnamələr",
+        "bildiriş və zəmanətlər",
+        "ərizə və arayışlar"
+      ],
+      "correct": "əmr və protokollar"
+    },
+    {
+      "number": 76,
+      "body": "Verilənlərdən biri protokolun dil xüsusiyyəti sayıla bilməz:",
+      "wrong": [
+        "Sədr və katib tərəfindən imzalanır.",
+        "Elmi yığıncaq və iclaslarda tərtib olunan protokollarda terminlərdən istifadəyə yol verilir.",
+        "Rəsmi-işgüzar üslubda yazılan sənəd formasıdır.",
+        "Ədəbi dildə yazılır."
+      ],
+      "correct": "Sinonim sözlərə, bədii təsvir vasitələrindən istifadəyə icazə verilir."
+    },
+    {
+      "number": 77,
+      "body": "Aşağıdakı xüsusiyyətlər hansı sənədə aiddir? 1. İclasın gündəliyi 2. Eşidildi 3. Çıxışlar 4. Qərar",
+      "wrong": ["elan", "arayış", "ərizə", "akt"],
+      "correct": "protokol"
+    },
+    {
+      "number": 78,
+      "body": "Ərəbcədən götürülmüş bu söz verilən tapşırığın yerinə yetirilməsi, görülmüş işin nəticəsi haqqında məsul şəxsə, təşkilata, ictimaiyyətə yazılı şəkildə verilən rəsmi məlumatdır:",
+      "wrong": ["töhmət", "xasiyyətnamə", "etibarnamə", "protokol"],
+      "correct": "hesabat"
+    },
+    {
+      "number": 79,
+      "body": "Protokola aid verilənlərdən yalnız biri doğrudur:",
+      "wrong": [
+        "Protokol ədəbi dildə yazılmır.",
+        "Protokolu yalnız iclasın sədri imzalayır.",
+        "Protokolda yalnız bir məsələ əks oluna bilər.",
+        "Təşkilatın adı, tarix və yığıncağın keçirildiyi yer göstərilmir."
+      ],
+      "correct": "İclasda neçə nəfərin iştirak etməsi qeyd olunur."
+    },
+    {
+      "number": 80,
+      "body": "Bu əməli yazı növünün “Gündəlik”, “Çıxışlar” və “Qərar” hissələri olur. Söhbət hansı əməli yazı növündən gedir?",
+      "wrong": ["əqd", "nizamnamə", "məktub", "teleqram"],
+      "correct": "protokol"
+    },
+    {
+      "number": 81,
+      "body": "Bu əməli yazı nümunəsində iclasın keçirilməsi, orada müzakirə olunan məsələlər, söylənilən mülahizələr və çıxarılan qərarlar əks olunur. Sonda sədr və katib tərəfindən imzalanır. Söhbət hansı əməli yazıdan gedir?",
+      "wrong": ["annotasiya", "etibarnamə", "vəsatət", "müraciət"],
+      "correct": "protokol"
+    },
+    {
+      "number": 82,
+      "body": "“Hesabat” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["türk", "fransız", "rus", "yunan"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 83,
+      "body": "Verilmiş xüsusiyyətlər hansı sənədi səciyyələndirir? “Cavabdeh müəssisə və ya şəxs qarşısında məsul olduğu idarə və şəxsə verir. Görülən işlər dolğun şəkildə, ardıcıl olaraq şərh edilməlidir”.",
+      "wrong": ["elan", "protokol", "bəyanat", "xəbərdarlıq"],
+      "correct": "hesabat"
+    },
+    {
+      "number": 84,
+      "body": "... idarə və təşkilatın, habelə mülki şəxslərin yuxarı təşkilatlar qarşısında və ya vəzifəli şəxslər qarşısında götürdükləri cari, illik və beşillik iş haqqında məlumat verməsidir. Verilmiş fikir hansı əməli yazı nümunəsinə aiddir?",
+      "wrong": ["arayış", "zəmanət", "təqdimat", "əmr"],
+      "correct": "hesabat"
+    },
+    {
+      "number": 85,
+      "body": "“Müşavirə, konfrans, iclas və plenumda söylənilən çıxışları və çıxarılan qərarı təzahür etdirmək üçün yazılır”. Verilmiş fikir hansı əməli yazı nümunəsinə aiddir?",
+      "wrong": ["arayış", "rəy", "reklam", "hesabat"],
+      "correct": "protokol"
+    },
+    {
+      "number": 86,
+      "body": "Azərbaycan Dövlət İqtisad Universitetinin dissertantı Ayla Həsən qızı Vəkilovanın 2021-ci ilin sentyabr-dekabr ayları üçün fərdi iş planının yerinə yetirilməsi üzrə verdiyi məlumat necə adlanır?",
+      "wrong": ["protokol", "akt", "müqavilə", "zəmanət"],
+      "correct": "hesabat"
+    },
+    {
+      "number": 87,
+      "body": "“Protokol” sözü mənşəyinə görə hansı dilə aiddir?",
+      "wrong": ["fars", "türk", "ərəb", "fransız"],
+      "correct": "yunan"
+    },
+    {
+      "number": 88,
+      "body": "Qeyd edilənlər hansı əməli yazı növünü özünə aiddir: Yunancadan götürülüb “protok”-ilk, birinci vərəq, “kolos” – yapışdırmaq mənasını daşıyır. İclas, müşavirə, hadisə və diplomatik səfərləri özündə əks etdirən sənəddir.",
+      "wrong": ["xəbərdarlıq", "rəy", "hesabat", "təqdimat"],
+      "correct": "protokol"
+    },
+    {
+      "number": 89,
+      "body": "Hansı işgüzar sənəd növündə “Gündəlik məsələlər” ayrı-ayrı bəndlər üzrə müzakirə olunur? Doğru cavabı göstərin:",
+      "wrong": ["akt", "müqavilə", "hesabat", "təqdimat"],
+      "correct": "protokol"
+    },
+    {
+      "number": 90,
+      "body": "Verilmiş xüsusiyyətlərdən biri məktuba aid deyil:",
+      "wrong": [
+        "Ərəb mənşəlidir.",
+        "Müraciət, ümumi, fərqləndirici və yekunlaşdırıcı hissələrdən ibarətdir.",
+        "Rəsmi-işgüzar üslubun ən sərbəst formasıdır.",
+        "Müraciət hissəsi xitabla başlayır."
+      ],
+      "correct": "Türk mənşəli sözdür, “arama, axtarma” mənasındadır."
+    },
+    {
+      "number": 91,
+      "body": "Verilənlərən biri təliqəyə aid deyil:",
+      "wrong": [
+        "Rəhbər, idarəetmə orqanlarından onlara aidiyyatı olan təşkilatların ünvanına göndərilir.",
+        "Ərəb mənşəli sözdür.",
+        "Rəsmi məktubların geniş işlənən növlərindən biridir.",
+        "Məyyən məsələ haqqında hazırlanmış rəsmi məktub mənasını ehtiva edir."
+      ],
+      "correct": "Hər hansı bir şəxsin kimliyini təsdiq etmək məqsədilə verilir."
+    },
+    {
+      "number": 92,
+      "body": "“Təliqə” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["yunan", "rus", "latın", "türk"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 93,
+      "body": "“Bu hissə məktubun əsasını, məzmununu əhatə edir. Burada yazılanlara aid olan xarakterik əlamətlər açıq şəkildə şərh edilir”. Verilən fikir məktubun hansı hissəsinə aiddir?",
+      "wrong": [
+        "ümumi və yekunlaşdırıcı hissə",
+        "müraciət hissəsi",
+        "ümumi hissə",
+        "yekunlaşdırıcı hissə"
+      ],
+      "correct": "fərqləndirici hissə"
+    },
+    {
+      "number": 94,
+      "body": "Məktub haqqında verilənlərdən biri doğrudur:",
+      "wrong": [
+        "Məktub 5 hissədən ibarətdir.",
+        "“Məktub” sözü fars mənşəlidir.",
+        "Məktub birtərəfli olur.",
+        "Məktub yazışmanın ən müasir formasıdır."
+      ],
+      "correct": "Müraciət hissəsi xitabla başlayır."
+    },
+    {
+      "number": 95,
+      "body": "Aşağıdakı xüsusiyyətlərdən biri məktuba aid deyil:",
+      "wrong": [
+        "Yazışmanın ən qədim növlərindəndir.",
+        "Müraciət, ümumi, fərqləndirici və yekunlaşdırıcı hissələrdən ibarətdir.",
+        "Rəsmi-işgüzar üslubun ən sərbəst formasıdır.",
+        "Müraciət hissəsi xitabla başlayır."
+      ],
+      "correct": "Hər hansı bir şəxsin kimliyini müəyyən edən sənəddir."
+    },
+    {
+      "number": 96,
+      "body": "Verilmiş nümunə hansı əməli yazı növünə aiddir? “Əziz bacım, yaz görüm, dərslərin necə gedir? Dərs ilini hansı qiymətlərlə başa vuracaqsan? Məndən narahat olma. Çalışıram ki, bütün qiymətlərim əla olsun və s.”",
+      "wrong": ["ərizə", "tərcümeyi-hal", "protokol", "arayış"],
+      "correct": "məktub"
+    },
+    {
+      "number": 97,
+      "body": "“Yazının bu hissəsində şəxsin adı, sənəti və hörmət əlaməti olaraq ona verilən təxəllüs göstərilməlidir”. Verilən fikir məktubun hansı hissəsinə aiddir?",
+      "wrong": [
+        "fərqləndirici hissə",
+        "ümumi hissə",
+        "yekunlaşdırıcı hissə",
+        "ümumi və fərqləndirici hissə"
+      ],
+      "correct": "müraciət hissəsi"
+    },
+    {
+      "number": 98,
+      "body": "Verilənlərdən biri işgüzar sənəddir:",
+      "wrong": ["bəyanat", "fərman", "nota", "sərəncam"],
+      "correct": "məktub"
+    },
+    {
+      "number": 99,
+      "body": "“Mətbuat və digər vasitələrlə ayrı-ayrı insanların, tanınmış şəxslərin bir-birinə ünvanladıqları genişhəcmli məktublardır”. Verilən fikir məktubun hansı növünə aiddir?",
+      "wrong": [
+        "ədəbi məktublar",
+        "rəsmi məktublar",
+        "işgüzar məktublar",
+        "məişət məktubları"
+      ],
+      "correct": "açıq məktublar"
+    },
+    {
+      "number": 100,
+      "body": "Reklam məktubu üçün xarakterik olmayan cəhət hansıdır?",
+      "wrong": [
+        "bezdirici olmamaq",
+        "qəti tərtibat",
+        "dəqiqlik",
+        "müxtəsərlik"
+      ],
+      "correct": "səmərəsiz üslubi tərtibat"
+    },
+    {
+      "number": 101,
+      "body": "Əməli yazıların ən geniş yayılmış növlərindən biridir. Bu yazı növünə təhsilindən asılı olmayaraq, hər bir insanın gündəlik həyatında daha çox təsadüf edilir. Verilmiş fikir hansı əməli yazı növünə aiddir?",
+      "wrong": ["əqd", "sərəncam", "akt", "müqavilə"],
+      "correct": "məktub"
+    },
+    {
+      "number": 102,
+      "body": "Aşağıdakılardan hansı məktubun növlərinə aid deyil?",
+      "wrong": [
+        "işgüzar məktublar",
+        "rəsmi məktublar",
+        "ədəbi məktublar",
+        "açıq məktublar"
+      ],
+      "correct": "qapalı məktublar"
+    },
+    {
+      "number": 103,
+      "body": "Məktub yazarkən gözlənilən sistemə aşağıdakılardan hansı aid deyil?",
+      "wrong": [
+        "müraciət hissəsi",
+        "ümumi hissə",
+        "yekunlaşdırıcı hissə",
+        "fərqləndirici hissə"
+      ],
+      "correct": "normativ hissə"
+    },
+    {
+      "number": 104,
+      "body": "Məktubların növlərindən biri səhvdir:",
+      "wrong": [
+        "yuxarı təşkilatlardan hər hansı bir idarə və müəssisələrə daxil olan məktublar",
+        "işgüzar məktublar",
+        "ayrı-ayrı şəxslərdən gələn məktublar",
+        "aşağı təşkilatlardan daxil olan məktublar"
+      ],
+      "correct": "şəxsi məktublar"
+    },
+    {
+      "number": 105,
+      "body": "“Hörmətli cənab! Sizin sadaladığınız əmtəə məhsullarını bu gün almalıydıq. Təəssüf ki, indiyədək nə malın növü, nə də yüklənmə haqqında bildiriş almamışıq...” Belə bir müraciət hansı əməli yazı nümunəsinə aiddir?",
+      "wrong": ["arayış", "əqd", "qəbz", "elan"],
+      "correct": "məktub"
+    },
+    {
+      "number": 106,
+      "body": "İşgüzar məktuba verilən tələblərdən biri yanlışdır:",
+      "wrong": ["obyektivlik", "əsaslandırma", "aktuallıq", "rəsmilik"],
+      "correct": "sinonimlərdən istifadə"
+    },
+    {
+      "number": 107,
+      "body": "“Diqqətinizə çatdırıram ki,..” “Diqqətinizə çatdırmağı vacib hesab edirik ki,..” və s. açar ifadələr hansı məktub növünə aiddir?",
+      "wrong": [
+        "dəvət məktubu",
+        "reklam məktubu",
+        "təklif məktubu",
+        "bildiriş məktubu"
+      ],
+      "correct": "məlumat məktubu"
+    },
+    {
+      "number": 108,
+      "body": "“Məktub” sözü hansı mənşəlidir?",
+      "wrong": ["fars", "yunan", "tatar", "türk"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 109,
+      "body": "Aşağıdakılardan birini rəsmi-işgüzar üslubun ən sərbəst forması hesab etmək olar:",
+      "wrong": ["ərizə", "akt", "bildiriş", "arayış"],
+      "correct": "məktub"
+    },
+    {
+      "number": 110,
+      "body": "Bunlardan biri elan növünə aid deyil:",
+      "wrong": ["reklam", "bildiriş", "anons", "afişa"],
+      "correct": "açıq məktub"
+    },
+    {
+      "number": 111,
+      "body": "“Salam, əziz dostum. Bu, mənim sənə əsgərlikdən göndərdiyim sonuncu ...” – verilmiş bu sözlərlə hansı əməli yazı nümunəsi başlayır?",
+      "wrong": ["ərizə", "elan", "reklam", "akt"],
+      "correct": "məktub"
+    },
+    {
+      "number": 112,
+      "body": "“Diqqətinizə çatdırıram ki,..” “Məlumat verirəm ki,.. ” “Diqqətinizə çatdırmağı vacib hesab edirik ki,..” Verilən nümunə hansı işgüzar məktub növünə aiddir?",
+      "wrong": ["reklam", "xəbərdarlıq", "təklif", "dəvət"],
+      "correct": "məlumat"
+    },
+    {
+      "number": 113,
+      "body": "Ərəb mənşəli sözdür və bir neçə anlamda işlənir: 1. irəli sürmə, irəli çəkmə; 2. bir şəxsin hüzuruna bir şeyi, bir nəfəri gətirmə; 3. bir adamı başqasının hüzuruna çıxararaq onları görüşdürmə. Söhbət hansı əməli yazı növündən gedir?",
+      "wrong": ["arayış", "annotasiya", "rəy", "etibarnamə"],
+      "correct": "təqdimat"
+    },
+    {
+      "number": 114,
+      "body": "Verilmiş nümunə hansı əməli yazı növünə aiddir? “Bu ilin mart-aprel aylarında respublika ali məktəbləri arasında keçirilən idman yarışlarında universitetimizin tələbələri də iştirak etmiş və yüksək nəticələr əldə etmişlər. Həmin tələbələrə əmrlə təşəkkür elan etməyinizi Sizdən xahiş edirəm”.",
+      "wrong": ["qaimə", "etiket", "reklam", "protokol"],
+      "correct": "təqdimat"
+    },
+    {
+      "number": 115,
+      "body": "Verilənlərdən biri təqdimatın tərtibatına qoyulan tələblərə aid deyil:",
+      "wrong": [
+        "Ərizədən yuxarı, tələbnamədən aşağıda dayanan xahişnamədir.",
+        "Yuxarı instansiyaya göndərilir.",
+        "Forması təxminən ərizəyə oxşayır.",
+        "Yalnız xoş niyyətlər üçün yazılmır."
+      ],
+      "correct": "Ərəb mənşəli sözdür, “arama, axtarma” mənasındadır."
+    },
+    {
+      "number": 116,
+      "body": "Təqdimata aiddir:",
+      "wrong": [
+        "“Təqdim” sözü təkmənalıdır.",
+        "Təqdimat yalnız xoş niyyətlər üçün yazılır.",
+        "Yuxarı qurumun iclasında müzakirə edildikdə, təqdimatın tam mətni gizli saxlanılır.",
+        "«Təqdimat» sözü fars mənşəli olub, “təqdim” sözündəndir."
+      ],
+      "correct": "Təqdimat ərizədən yuxarı, tələbnamədən aşağıda dayanan bir xahişnamədir."
+    },
+    {
+      "number": 117,
+      "body": "Təqdimata aid deyil:",
+      "wrong": [
+        "«Təqdimat» sözü ərəb mənşəli olub, “təqdim” sözündəndir.",
+        "Hər hansı bir səbəbdən işçi yuxarı qurumun rəhbəri qarşısında məsələ qaldırır – təqdimat yazır.",
+        "Təqdimat rəsmi sənəd olaraq, aşağı vəzifəli şəxsin yuxarı vəzifəli şəxs qarşısında hər hansı bir məsələni qaldırması, irəli sürməsi, xahiş etməsi zərurətində yazılır.",
+        "Təqdimat yalnız xoş niyyətlər üçün yazılmır."
+      ],
+      "correct": "Rəsmi-işgüzar üslubun ən sərbəst formasıdır."
+    },
+    {
+      "number": 118,
+      "body": "Biri xasiyyətnamənin yazılmasına verilən tələblərə aid deyil:",
+      "wrong": [
+        "Dövlət əhəmiyyətli bəzi xasiyyətnamələr müzakirə olunur.",
+        "Xasiyyətnamələr vahid formada yazılır.",
+        "Xasiyyətnaməni ən azı iki məsul şəxs imzalayır.",
+        "Xasiyyətnamənin həcmi 1-2 səhifədən artıq olmur."
+      ],
+      "correct": "Tərtib edən öz xətti ilə yazıb imza qoyur."
+    },
+    {
+      "number": 119,
+      "body": "Xasiyyətnamənin yazılmasına verilən tələblərə aiddir:",
+      "wrong": [
+        "Həcmi 2-3 səhifədən çox olur.",
+        "Bir məsul şəxs imzalayır və müəssisənin möhürü vurulmur.",
+        "Haraya təqdim olunması göstərilmir.",
+        "Dövlət sənədi kimi xasiyyətnaməni şəxsin özü yazır."
+      ],
+      "correct": "Bu və ya digər şəxsin ictimai fəaliyyəti, əxlaqi və siyasi keyfiyyətləri obyektiv şəkildə ardıcıl sadalanır."
+    },
+    {
+      "number": 120,
+      "body": "Verilmiş xüsusiyyətlərin aid olduğu əməli yazı növü hansıdır? 1. Hər hansı bir şəxsin kimliyini təsdiq etmək məqsədi ilə bu və ya digər təşkilat tərəfindən verilir. 2. Bir və ya bir neçə şəxs haqqında da məlumat vermək mümkündür.",
+      "wrong": ["etiket", "akt", "protokol", "əqd"],
+      "correct": "arayış"
+    },
+    {
+      "number": 121,
+      "body": "Verilmiş xüsusiyyətlərin aid olduğu əməli yazı növü hansıdır? 1. Hər hansı bir şəxsin kimliyini təsdiq etmək məqsədilə verilir. 2. Sonunda sənədin hara təqdim olunması göstərilir. 3. Çox vaxt xüsusi blankda yazılır.",
+      "wrong": ["qəbz", "reklam", "hesabat", "tərcümeyi-hal"],
+      "correct": "arayış"
+    },
+    {
+      "number": 122,
+      "body": "Verilmiş xüsusiyyətlər hansı sənədə aiddir? 1. Həcmi 1-2 səhifədən artıq olmamalıdır. 2. Dövlət sənədi kimi idarə rəhbəri verir. 3. Sənəddə şəxsin ictimai fəaliyyəti, əxlaqi və siyasi keyfiyyətləri obyektiv şəkildə ardıcıl sadalanır.",
+      "wrong": ["hesabat", "məktub", "protokol", "tərcümeyi-hal"],
+      "correct": "xasiyyətnamə"
+    },
+    {
+      "number": 123,
+      "body": "Verilmiş xüsusiyyətlərin aid olduğu əməli yazı növü hansıdır? 1) Şəxsin doğulduğu il, ay və gün dəqiq göstərilir. 2) Tərtib edən öz xətti ilə yazıb imza qoyur. 3) Həyatının mərhələləri ilə bağlı faktlar ardıcıl sadalanır.",
+      "wrong": ["izahat", "hesabat", "arayış", "təqdimat"],
+      "correct": "tərcümeyi-hal"
+    },
+    {
+      "number": 124,
+      "body": "İşə, rəhbər vəzifəyə seçildikdə və ya dövlət orqanları tərəfindən tələb olunduqda hər hansı şəxs haqqında ... verilir. Nöqtələrin yerinə yazılmalıdır:",
+      "wrong": ["zəmanət", "raport", "etibarnamə", "hesabat"],
+      "correct": "xasiyyətnamə"
+    },
+    {
+      "number": 125,
+      "body": "Təqdimata aid olan xüsusiyyətlərdən biri səhv xarakterizə edilib:",
+      "wrong": [
+        "Yuxarı qurumun iclasında müzakirə edildikdə, təqdimatın tam mətni oxunur.",
+        "“Təqdimat” ərəb sözüdür.",
+        "Təqdimatın forması təxminən ərizə forması kimidir.",
+        "Təqdimat aşağı vəzifəli şəxsin yuxarı vəzifəli şəxs qarşısında hər hansı bir məsələni qaldırması, xahiş etməsi zərurətində yazılır."
+      ],
+      "correct": "Tərtib edən öz xətti ilə yazıb imza qoyur."
+    },
+    {
+      "number": 126,
+      "body": "Bioqrafiya nədir?",
+      "wrong": [
+        "bir şəxsin öz əli ilə yazdığı tərcümeyi-hal",
+        "bir şəxsin əmək fəaliyyətini təsvir edən rəsmi sənəd",
+        "bir şəxsin özü haqqında yazdığı ətraflı məlumat",
+        "dövlətin hər bir vətəndaşa verdiyi hüquqi sənəd"
+      ],
+      "correct": "kiminsə tərcümeyi-halının başqası tərəfindən yazılması"
+    },
+    {
+      "number": 127,
+      "body": "Fikirlərdən biri səhvdir:",
+      "wrong": [
+        "Rəsmi sənədlərə dövlət, yaxud hökumət təşkilatlarının tərtib etdiyi və xüsusi qaydada təsdiq olunan sənədlər aid edilir.",
+        "Tərcümeyi- hal elmi və publisistik üslubda da ola bilər.",
+        "Rəsmi – işgüzar sənədlərdə qaralamaya, mətn üzərində qaralayaraq düzəliş etməyə icazə verilmir.",
+        "Rəsmi-işgüzar sənədlərin bəzi növlərində rəsmi üslubla bərabər, obrazlılıq elementlərinə də rast gəlmək mümkündür."
+      ],
+      "correct": "İşgüzar sənədlər həcmcə, adətən, rəsmi sənədlərə nisbətən böyük olur."
+    },
+    {
+      "number": 128,
+      "body": "Tərtibedilmə formasına görə hansı sənədlər oxşardır?",
+      "wrong": [
+        "teleqram –qəbz",
+        "protokol- akt",
+        "tərcümeyi-hal - annotasiya",
+        "reklam – etiket"
+      ],
+      "correct": "ərizə - təqdimat"
+    },
+    {
+      "number": 129,
+      "body": "Verilmiş əməli yazı nümunələrindən hansılar yalnız şəxsin öz xətti ilə yazılmalıdır?",
+      "wrong": [
+        "zəmanət və arayış",
+        "protokol və əmr",
+        "fərman və təqdimat",
+        "məktub və xasiyyətnamə"
+      ],
+      "correct": "tərcümeyi-hal və ərizə"
+    },
+    {
+      "number": 130,
+      "body": "Məzmunca bir-birinə oxşayan və eyni zamanda müəyyən xüsusiyyətlərə görə bir-birindən fərqlənən sənədlər hansılardır?",
+      "wrong": [
+        "protokol, bildiriş",
+        "töhmət, ərizə",
+        "teleqram, izahat",
+        "arayış, reklam"
+      ],
+      "correct": "tərcümeyi-hal, xasiyyətnamə"
+    },
+    {
+      "number": 131,
+      "body": "“...... hər hansı bir şəxsin kimliyini təsdiq etmək məqsədi ilə bu və ya digər təşkilat tərəfindən verilən sənəddir”. Söhbət hansı sənəddən gedir?",
+      "wrong": ["protokol", "vəkalətnamə", "elan", "ərizə"],
+      "correct": "arayış"
+    },
+    {
+      "number": 132,
+      "body": "Tərcümeyi-halı xasiyyətnamədən fərqləndirən əsas əlamət hansıdır?",
+      "wrong": [
+        "1-ci sənəd hər hansı şəxs barəsində başqası tərəfindən, 2-ci sənəd isə şəxsin özü tərəfindən yazılır.",
+        "Tərcümeyi-halı ən azı iki məsul şəxs imzalayır.",
+        "Xasiyyətnaməni yalnız idarə rəhbəri imzalayır.",
+        "Xasiyyətnamələrin heç biri dövlət əhəmiyyəti daşımır."
+      ],
+      "correct": "1-ci sənəd şəxsin özü tərəfindən, 2-ci sənəd isə müəyyən şəxs barəsində rəhbərlik tərəfindən yazılır."
+    },
+    {
+      "number": 133,
+      "body": "İşgüzar sənədi seçin:",
+      "wrong": ["nota", "fərman", "sərəncam", "bəyanat"],
+      "correct": "təqdimat"
+    },
+    {
+      "number": 134,
+      "body": "Yeni işə qəbul olunduqda, rəhbər vəzifəyə seçildikdə və ya dövlət orqanları tərəfindən tələb olunduqda hər hansı şəxs haqqında verilir. Verilən xüsusiyyət hansı sənədə aiddir:",
+      "wrong": ["vəkalətnamə", "qəbz", "elan", "protokol"],
+      "correct": "xasiyyətnamə"
+    },
+    {
+      "number": 135,
+      "body": "Verilən sənədlərdən hansı imzalanır?",
+      "wrong": ["reklam", "bildiriş", "elan", "annotasiya"],
+      "correct": "təqdimat"
+    },
+    {
+      "number": 136,
+      "body": "Hansı sənədi təşkilat rəhbəri hazırlayır və möhür vurur?",
+      "wrong": ["aktı", "annotasiyanı", "tərcümeyi-halı", "anonsu"],
+      "correct": "arayışı"
+    },
+    {
+      "number": 137,
+      "body": "Verilmiş sənəd növünü müəyyənləşdirin: “Əli Ramazan oğlu Məmmədov həqiqətən, Bakı şəhər 158 saylı məktəbin IX sinif şagirdidir”.",
+      "wrong": ["ərizə", "bildiriş", "protokol", "akt"],
+      "correct": "arayış"
+    },
+    {
+      "number": 138,
+      "body": "İctimai həyatın müxtəlif sahələrində istifadə edilən və şəxsin özü haqda ətraflı məlumat verməsi məqsədi ilə yazılan sənəd necə adlanır?",
+      "wrong": ["akt", "xasiyyətnamə", "annotasiya", "protokol"],
+      "correct": "tərcümeyi-hal"
+    },
+    {
+      "number": 139,
+      "body": "Tərcümeyi-halın 1-ci cümləsində hansı durğu işarələrindən istifadə olunur?",
+      "wrong": [
+        "nöqtəli vergül",
+        "iki nöqtə",
+        "nida və tire",
+        "sual və vergül"
+      ],
+      "correct": "vergül və nöqtə"
+    },
+    {
+      "number": 140,
+      "body": "İşgüzar sənədlərə verilən tələblər hansılardır? 1) Artıq sözlər və ifadələr işlədilmir. 2) İşgüzar sənədlər xüsusi dövlət əhəmiyyəti daşıyır. 3) Ayrı-ayrı vətəndaşlara aid edilir. 4) Mütəxəssislər tərəfindən tərtib edilir.",
+      "wrong": ["2, 4", "3.40", "2.30", "1.20"],
+      "correct": "1.30"
+    },
+    {
+      "number": 141,
+      "body": "Verilənlərdən biri ərizəyə aid deyil:",
+      "wrong": [
+        "Məzmunu qısa, faktlar konkret olmalıdır.",
+        "Kimə və kimdən yazılması dəqiq olmalıdır.",
+        "Sonda imza qoyulmalı və yazılma tarixi göstərilməlidir.",
+        "Vərəqin ortasında “ƏRİZƏ” sözü yazılmalıdır."
+      ],
+      "correct": "Müəssisə rəhbəri tərəfindən imzalanmalıdır."
+    },
+    {
+      "number": 142,
+      "body": "Ərizənin yazılış formasına qoyulan tələblər hansı sırada səhv göstərilmişdir?",
+      "wrong": [
+        "Vərəqin ilk sətrinin ortasından sağa doğru ərizənin başlığı, yəni kimə və kimdən yazıldığı qeyd olunmalıdır.",
+        "Ərizəni ərizəçi öz xətti ilə yazmalıdır.",
+        "Ərizənin məzmunu qısa, faktlar isə konkret olmalıdır.",
+        "Vərəqin ortasında “ƏRİZƏ” sözü yazılmalıdır."
+      ],
+      "correct": "Təşkilat rəhbəri hazırlayır və möhür vurur."
+    },
+    {
+      "number": 143,
+      "body": "Verilmiş fikirlərdən hansı səhvdir? Ərizənin sonunda:",
+      "wrong": [
+        "Yazılma tarixi göstərilir.",
+        "Ərizəni yazan şəxsin adı və soyadı qeyd olunur.",
+        "Ərizə mütləq imzalanmalıdır.",
+        "Möhür vurulmur."
+      ],
+      "correct": "İmza qoyulmur."
+    },
+    {
+      "number": 144,
+      "body": "Aşağıdakılardan biri ərizəyə aid deyil:",
+      "wrong": [
+        "Başlıq hissədə ərizəçinin adı, soyadı göstərilməlidir.",
+        "Ərizə mütləq imzalanmalıdır.",
+        "Xahiş və şikayət xarakterli ərizələr vardır.",
+        "Ərizəçinin öz xətti ilə yazılmalıdır."
+      ],
+      "correct": "Kimə və kimdən yazılması göstərilməsə də olar."
+    },
+    {
+      "number": 145,
+      "body": "Bunlardan biri ərizəyə verilən tələblərə aid deyil:",
+      "wrong": [
+        "Məzmunu qısa, faktlar konkret olmalıdır.",
+        "Başlığı, yəni kimə və kimdən yazılması dəqiq olmalıdır.",
+        "Ərizəçi ərizəni öz xətti ilə yazmalıdır.",
+        "Ərizə konkret şəxsə ünvanlanmalıdır."
+      ],
+      "correct": "Yazılma tarixi göstərilmir."
+    },
+    {
+      "number": 146,
+      "body": "\"İcra edilsin\", \"məsələyə baxılsın\", \"müzakirə edilsin\" və s. kimi ifadələr nəyə aiddir?",
+      "wrong": ["reklama", "anonsa", "elana", "tərcümeyi-hala"],
+      "correct": "dərkənara"
+    },
+    {
+      "number": 147,
+      "body": "Rəsmi-işgüzar sənədlərə aid edilmiş xüsusiyyətlərdən biri yanlışdır:",
+      "wrong": ["konkretlik", "yığcamlıq", "dəqiqlik", "birmənalılıq"],
+      "correct": "çoxmənalılıq"
+    },
+    {
+      "number": 148,
+      "body": "Hansı sənəd dövlət əhəmiyyəti daşımır?",
+      "wrong": ["konstitusiya", "fərman", "müraciət", "qanun"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 149,
+      "body": "Əməli yazılar ədəbi dilin hansı üslubuna aiddir?",
+      "wrong": ["elmi", "fərdi", "publisistik", "bədii"],
+      "correct": "rəsmi-işgüzar"
+    },
+    {
+      "number": 150,
+      "body": "Aşağıda verilənlərdən yalnız biri işgüzar sənəddir:",
+      "wrong": ["sərəncam", "konstitusiya", "prezidentin fərmanı", "bəyanat"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 151,
+      "body": "Hansı əməli yazı növündən bəhs edilir? 1. Kimə və kimdən yazılması göstərilir. 2. Şikayət və xahiş məqsədilə yazılır. 3. Məzmunu qısa, faktlar isə konkret olur.",
+      "wrong": ["tərcümeyi-hal", "elan", "protokol", "reklam"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 152,
+      "body": "...Universitetin təsərrüfat şöbəsində müvafiq işlə təmin edilməyimə köməklik göstərməyinizi Sizdən xahiş edirəm. İmza: Namiq Həsənov 17.11.2021 Verilmiş nümunə hansı əməli yazı növünə aiddir?",
+      "wrong": ["xəbərdarlıq", "arayış", "akt", "tərcümeyi-hal"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 153,
+      "body": "\"Ərəbcə “ərz” sözündəndir. Bu söz ərəb dilində çoxmənalıdır: şikayətetmə, dərdini söyləmə, xahiş, istək və s.\" Verilən fikir aiddir:",
+      "wrong": ["akt", "tərcümeyi-hal", "hesabat", "reklam"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 154,
+      "body": "Məzmununa görə ərizənin neçə növü var?",
+      "wrong": ["3", "1", "4", "5"],
+      "correct": "2"
+    },
+    {
+      "number": 155,
+      "body": "Ərizənin tərtibinə aid deyil:",
+      "wrong": [
+        "Ərizə vərəqin sol tərəfindən 4-5 sm buraxılmaqla ortadan başlanır.",
+        "İlk cümlədə müraciət olunan şəxsin vəzifəsi, titulu, adının və atasının adının baş hərfləri və soyadı yazılır.",
+        "Ərizə verən öz kimliyini, (vəzifəsini) adını, atasının adını və soyadını bütövlükdə yazır.",
+        "Müraciətdən sonra vərəqin ortasında “ƏRİZƏ” sözü yazılır."
+      ],
+      "correct": "Ərizədə ailə üzvləri haqqında məlumatlar mütləqdir."
+    },
+    {
+      "number": 156,
+      "body": "Verilmiş nümunə hansı əməli yazı növünə aiddir? ...18 yanvar 2021-ci il tarixindən məni növbəti məzuniyyətə buraxmağınızı Sizdən xahiş edirəm. İmza: S.Rəhimova 15.01.2021",
+      "wrong": ["protokol", "raport", "vəkalətnamə", "xəbərdarlıq"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 157,
+      "body": "Aşağıda verilənlərdən yalnız biri işgüzar sənəddir:",
+      "wrong": ["fərman", "nota", "qərar", "bəyanat"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 158,
+      "body": "Hansı əməli yazı növündən bəhs olunur? 1. Kimə və kimdən yazılması göstərilir. 2. Şikayət və xahiş məqsədilə yazılır. 3. Məzmunu qısa, faktlar isə konkret olur.",
+      "wrong": ["rəy", "hesabat", "zəmanət", "xasiyyətnamə"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 159,
+      "body": "Verilən ifadələrin aid olduğu sənəd növünü göstərin: “Müafatlandırılsın”, \"etiraz etmirəm\", \"hesabat hazırlayın\", \"sənədləşdirilsin\", \"yenidən yoxlanılsın\" və s.",
+      "wrong": ["məktub", "izahat", "hesabat", "protokol"],
+      "correct": "dərkənar"
+    },
+    {
+      "number": 160,
+      "body": "İşə qəbul olunmaq məqsədilə vətəndaşın rəsmi quruma müraciəti zamanı istifadə etdiyi əməli yazı növünü müəyyən edin:",
+      "wrong": ["reklam", "akt", "hesabat", "arayış"],
+      "correct": "ərizə"
+    },
+    {
+      "number": 161,
+      "body": "Standart forma və şablonlardan daha çox istifadə olunan üslub hansıdır?",
+      "wrong": ["publisistik", "bədii", "məişət", "epistolyar"],
+      "correct": "rəsmi-işgüzar"
+    },
+    {
+      "number": 162,
+      "body": "İşgüzar sənədlərə verilən tələblərdən biri düzgündür:",
+      "wrong": [
+        "Mütəxəssislər tərəfindən tərtib edilir.",
+        "Dövlət əhəmiyyəti daşıyır.",
+        "İşgüzar sənəddə artıq söz və ifadələr işlədilir.",
+        "İşgüzar sənədlərin hazır formaları olmur."
+      ],
+      "correct": "Ayrı-ayrı vətəndaşlara aid olur."
+    },
+    {
+      "number": 163,
+      "body": "Rəsmi – işgüzar üsluba aid deyil:",
+      "wrong": [
+        "Rəsmi- işgüzar üslub iki yerə ayrılır.",
+        "Fikir mümkün qədər yığcam, konkret şəkildə çatdırılır.",
+        "Rəsmi və işgüzar sənədlərin dilidir.",
+        "Rəsmi – işgüzar üslub hamı üçün eynidir – standartdır."
+      ],
+      "correct": "Burada obrazlı ifadələrə, fərdi nitq xüsusiyyətlərinə rast gəlinir."
+    },
+    {
+      "number": 164,
+      "body": "Verilən xüsusiyyətlərdən biri rəsmi üslubun əsas əlamətlərinə aiddir:",
+      "wrong": [
+        "sinonimliyə, çoxmənalılığa geniş yer verilməsi",
+        "kütləvi xarakter daşıması, sitatlardan geniş istifadə",
+        "mürəkkəb cümlə və modal sözlərdən istifadə",
+        "ictimai və siyasi məsələlərin asan və anlaşıqlı izahı"
+      ],
+      "correct": "fikrin daha çox standart formalarla ifadəsi"
+    },
+    {
+      "number": 165,
+      "body": "Dilin dövlət dili olması hansı üslubda müəyyən edilir?",
+      "wrong": ["bədii", "məişət", "elmi", "publisistik"],
+      "correct": "rəsmi –işgüzar"
+    },
+    {
+      "number": 166,
+      "body": "Əsasən, mütəxəssislər və işçi qrupları tərəfindən hazırlanır və hüquqi məzmuna malik olur:",
+      "wrong": [
+        "bədii əsərlər",
+        "işgüzar sənədlər",
+        "bədii-publisistik əsərlər",
+        "publisistik məqalələr"
+      ],
+      "correct": "rəsmi sənədlər"
+    },
+    {
+      "number": 167,
+      "body": "Verilən xüsusiyyətlərdən biri işgüzar sənədlərə aid deyil:",
+      "wrong": [
+        "Haqqında bəhs olunan məsələ barəsində daha konkret, aydın məlumat verir.",
+        "Çox zaman hazır formaları olur, konkret göstəricilər həmin formalara yazılır.",
+        "Xüsusi, dövlət əhəmiyyəti daşımır.",
+        "Adətən, həcmcə kiçik olur."
+      ],
+      "correct": "Mütəxəssislər tərəfindən hazırlanır."
+    },
+    {
+      "number": 168,
+      "body": "Verilmiş xüsusiyyət hansı imic tipinə aiddir? “Hər hansı ayrı-ayrı bölmələrin deyil, bütövlükdə təşkilatın imicidir\".",
+      "wrong": [
+        "çoxcəhətli imic tipinə",
+        "imicin güzgü tipinə",
+        "imicin mövcud (cari) tipinə",
+        "arzu edilən imic tipinə"
+      ],
+      "correct": "korporativ imic tipinə"
+    },
+    {
+      "number": 169,
+      "body": "\"Vətəndaşın və yaxud təşkilatın mülki hüquq və vəzifələrini müəyyən edən rəsmi-kargüzarlıq üslubunda ən geniş yayılmış sənədlərdən biridir\". Verilən xüsusiyyət hansı işgüzar sənədə aiddir?",
+      "wrong": ["protokol", "qəbz", "fərman", "hesabat"],
+      "correct": "əqd"
+    },
+    {
+      "number": 170,
+      "body": "Bu sənəd növü təkcə idarə və ya təşkilatın etibar etdiyi müəyyən şəxsə deyil, başqa bir təşkilata da verilə bilər. Söhbət hansı əməli yazı növündən gedir?",
+      "wrong": ["arayış", "təqdimat", "izahat", "protokol"],
+      "correct": "vəkalətnamə"
+    },
+    {
+      "number": 171,
+      "body": "Hansı sənəddə şəxsiyyət vəsiqəsinin seriya nömrəsi qeyd olunur?",
+      "wrong": ["ərizə", "rəy", "elan", "məktub"],
+      "correct": "vəkalətnamə"
+    },
+    {
+      "number": 172,
+      "body": "Ərəb mənşəli sözdür, \"aydın, aşkar, bilinən\" mənasındadır. Söhbət hansı sənəddən gedir?",
+      "wrong": ["qəbz", "zəmanət", "hesabat", "qaimə"],
+      "correct": "məlumat"
+    },
+    {
+      "number": 173,
+      "body": "Biri əqdin mahiyyətini əks etdirmir:",
+      "wrong": ["tərtibetmə", "təşkiletmə", "nikah haqqında əqd", "kəbinkəsmə"],
+      "correct": "ayrılma haqqında əqd"
+    },
+    {
+      "number": 174,
+      "body": "Verilən nümunə hansı sənədə aiddir?",
+      "wrong": ["etibarnamə", "nizamnamə", "vəkalətnamə", "xasiyyətnamə"],
+      "correct": "tələbnamə"
+    },
+    {
+      "number": 175,
+      "body": "Verilmiş nümunə hansı sənədə aiddir?",
+      "wrong": ["müqavilə", "məktub", "xasiyyətnamə", "zəmanət"],
+      "correct": "vəkalətnamə"
+    },
+    {
+      "number": 176,
+      "body": "\"Nizamnamə\" ilə bağlı deyilən fikirlərdən biri yanlışdır:",
+      "wrong": [
+        "Partiya nizamnaməsi, Gənc Müəllimlər Birliyinin nizamnaməsi və s. kimi növləri var.",
+        "Hər bir idarənin nizam-intizam qaydaları toplusunu özündə cəmləşdirir.",
+        "Hər hansı bir şeyin icrası, tətbiqi üçün düşünülmüş qayda, qanun, hökm kimi mənalar verir.",
+        "Hər hansı təşkilatın fəaliyyətini, quruluşunu müəyyən edən qanunlar toplusudur."
+      ],
+      "correct": "Hər hansı bir iş və hadisəni qanuniləşdirib, hüquqi sənəd statusu verməkdir."
+    },
+    {
+      "number": 177,
+      "body": "Annotasiyanın planında öz əksini tapmır:",
+      "wrong": [
+        "kitabın müəllifinin adı və soyadı",
+        "kitabın adı, nəşriyyatın adı, harada nəşr edilməsi, həcmi",
+        "kitabın nə məqsədlə, kimin üçün yazılması",
+        "kitabda nələrdən bəhs olunması, ideya məzmunu"
+      ],
+      "correct": "kitabın müəllifinin hiss və həyəcanı"
+    },
+    {
+      "number": 178,
+      "body": "Vəsatətlə bağlı verilən fikirlərdən biri yanlışdır:",
+      "wrong": [
+        "Hərfi mənada, hər hansı bir işin yerinə yetirilməsi üçün vasitəçilik etmək deməkdir.",
+        "Ərəb mənşəli olub, “araya girmə, vasitəçilik etmə” deməkdir.",
+        "Növlərindən biri professional üslubla tərtib edilir.",
+        "2 növü vardır."
+      ],
+      "correct": "Hər bir idarənin nizam-intizam qaydaları toplusunu özündə cəmləşdirir."
+    },
+    {
+      "number": 179,
+      "body": "Verilənlərdən biri imicin təbii xüsusiyyətlərinə aid deyil:",
+      "wrong": ["intellekt", "empatiklik", "xarizma", "intuisiya"],
+      "correct": "şəxsi aksesuarlar"
+    },
+    {
+      "number": 180,
+      "body": "Verilənlərdən biri xarakterin müxtəlif təzahürlərinə aid deyil:",
+      "wrong": [
+        "iradi tənzimləmənin xüsusiyyətləri",
+        "fərdin yönümü, cəmiyyətdəki münasibətlər sistemi",
+        "emosional xüsusiyyətlər",
+        "intellektual xüsusiyyətlər"
+      ],
+      "correct": "xarakterin möhkəmliyi"
+    },
+    {
+      "number": 181,
+      "body": "Verilənlərdən biri xarakterə aiddir:",
+      "wrong": [
+        "Öz hisslərini cilovlamaq bacarığını formalaşdırmaqdır.",
+        "İşgüzar tərəfdaşın temperament xüsusiyyətlərini nəzərə almaqdır.",
+        "Qeyri-ixtiyari reaksiyaları tənzimləmək bacarığına yiyələnmək.",
+        "İşgüzar kommunikasiyanı çətinləşdirən təzahürlərə açıq-aydın reaksiya verməmək."
+      ],
+      "correct": "İnsanın bütün hərəkətlərinə və davranışına iz qoyan, həyatın çətinliklərinə qarşı onun tipik reakisya üsullarını müəyyən edən əsas psixi xassədir."
+    },
+    {
+      "number": 182,
+      "body": "Xarakterin mütəvaziliyi nədir?",
+      "wrong": [
+        "İnsanın enerjili olmasında, mürəkkəb situasiyalarda uzun müddət gərginliyə, çətinliklərin dəf edilməsinə dözmək bacarığının olmasındadır.",
+        "Müxtəlif situasiyalarda mövqe və baxışların sabitliyidir.",
+        "Şəxsiyyətin prinsipiallığı ilə xarakterin gücünün bir araya gəlməsidir.",
+        "Söz və əməlin bir-biri ilə uzlaşmasıdır."
+      ],
+      "correct": "Davranışın düzgünlüyü, təmkinliliyidir, şəxsiyyətin emosional-iradi dözümlülüyüdür."
+    },
+    {
+      "number": 183,
+      "body": "Xarakterin möhkəmliyi nədir?",
+      "wrong": [
+        "İnsanın enerjili olmasında, mürəkkəb situasiyalarda uzun müddət gərginliyə, çətinliklərin dəf edilməsinə dözmək bacarığının olmasındadır.",
+        "Şəxsiyyətin emosional-iradi dözümlülüyüdür.",
+        "Davranışın düzgünlüyü, təmkinliliyidir.",
+        "Müxtəlif situasiyalarda mövqe və baxışların sabitliyi, söz və əməlin bir-biri ilə uzlaşmasıdır."
+      ],
+      "correct": "Şəxsiyyətin prinsipiallığı ilə xarakterin gücünün bir araya gəlməsidir."
+    },
+    {
+      "number": 184,
+      "body": "Xarakterin gücü nədir?",
+      "wrong": [
+        "Davranışın düzgünlüyü, təmkinliliyidir.",
+        "Şəxsiyyətin emosional-iradi dözümlülüyüdür.",
+        "Müxtəlif situasiyalarda mövqe və baxışların sabitliyi, söz və əməlin bir-biri ilə uzlaşmasıdır.",
+        "Şəxsiyyətin prinsipiallığı ilə xarakterin gücünün bir araya gəlməsidir."
+      ],
+      "correct": "İnsanın enerjili olmasında, mürəkkəb situasiyalarda uzun müddət gərginliyə, çətinliklərin dəf edilməsinə dözmək bacarığının olmasındadır."
+    },
+    {
+      "number": 185,
+      "body": "Xarakterin tamlığı nədir?",
+      "wrong": [
+        "Davranışın düzgünlüyü, təmkinliliyidir.",
+        "Şəxsiyyətin emosional-iradi dözümlülüyüdür.",
+        "İnsanın enerjili olmasında, mürəkkəb situasiyalarda uzun müddət gərginliyə, çətinliklərin dəf edilməsinə dözmək bacarığının olmasındadır.",
+        "Şəxsiyyətin prinsipiallığı ilə xarakterin gücünün bir araya gəlməsidir."
+      ],
+      "correct": "Müxtəlif situasiyalarda mövqe və baxışların sabitliyi, söz və əməlin bir-biri ilə uzlaşmasıdır."
+    },
+    {
+      "number": 186,
+      "body": "Kommunikasiya prosesində bunları etmək çox vacibdir. Aşağıdakılardan biri yanlışdır:",
+      "wrong": [
+        "öz hisslərini cilovlamaq bacarığını formalaşdırmaq",
+        "qeyri-ixtiyari reaksiyaları tənzimləmək bacarığına yiyələnmək",
+        "öz temperamentinin xüsusiyyətlərini, onun güclü və zəif tərəflərini müəyyənləşdirmək",
+        "işgüzar tərəfdaşın temperament xüsusiyyətlərini nəzərə almaq"
+      ],
+      "correct": "işgüzar tərəfdaşın temperament xüsusiyyətlərini nəzərə almamaq"
+    },
+    {
+      "number": 187,
+      "body": "Şəxsiyyətin işgüzar kommunikasiyada əhəmiyyət kəsb edən iradi keyfiyyətlərindən biri yanlışdır:",
+      "wrong": ["məqsədyönlülük", "dözümlülük", "inadkarlıq", "qətiyyətlilik"],
+      "correct": "tələskənlik"
+    },
+    {
+      "number": 188,
+      "body": "Şəxsiyyət kimdir? Yanlış cavabı göstərin:",
+      "wrong": [
+        "Başqalarını qavrayıb qiymətləndirməklə bərabər, öz mənliyini də dərk edib qiymətləndirsin.",
+        "Cəmiyyəti dəyişə bilir, təkmilləşdirə bilir, özünü də təkmilləşdirir, özünə nəzarət edir.",
+        "Özünün əqidəsi, sərvət meyli var.",
+        "Mühitə aydın dərk olunmuş münasibəti olsun."
+      ],
+      "correct": "Cəmiyyəti təşkil edən insanlara münasibəti zəifdir."
+    },
+    {
+      "number": 189,
+      "body": "Xarakterin müxtəlif təzahürləri neçə qrupa bölünür?",
+      "wrong": ["3", "2", "5", "6"],
+      "correct": "4"
+    },
+    {
+      "number": 190,
+      "body": "\"Xarakter\" sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["latın", "türk", "ərəb", "ingilis"],
+      "correct": "yunan"
+    },
+    {
+      "number": 191,
+      "body": "Nitq kommunikasiyası nədir?",
+      "wrong": [
+        "Dil vasitəsilə insanların ünsiyyət (kommunikasiya) formasıdır.",
+        "İnsanın ünsiyyət və zehni fəaliyyət vasitəsi kimi xidmət edən əlamətlər sistemidir.",
+        "Sırf qrammatik və sintaktik kateqoriyadır.",
+        "Eyni bir dil kollektivinin üzvləri ilə əlaqə üçün danışanların dildən istifadə etməsidir."
+      ],
+      "correct": "Məlumatın dil vasitəsilə ötürülməsi və qavranılmasını özündə ehtiva edən bir fəaliyyətdir."
+    },
+    {
+      "number": 192,
+      "body": "\"Varımı talan edin, bircə dilimə toxunmayın. Çox keçməz yenə hər şeyi özümə qaytararam\". Verilən fikir kimə məxsusdur?",
+      "wrong": ["J.Büffon", "Zino Stoik", "De Yager", "Sokrat"],
+      "correct": "C.Uebster"
+    },
+    {
+      "number": 193,
+      "body": "“Danışıq əsnasında bu tipli dinləyicilər öz ağlına gələnləri unutmaqdan ehtiyatlanan olurlar”. Söhbət hansı çətin dinləyicidən gedir?",
+      "wrong": ["xəyalpərəst", "asılı", "yalançı", "məntiqli"],
+      "correct": "sözkəsən"
+    },
+    {
+      "number": 194,
+      "body": "\"Bəyanat reallığın məntiqini, düşüncə məntiqini əks etdirməlidir və nitq ifadəsinin məntiqi ilə xarakterizə olunmalıdır\". Göstərilən xüsusiyyətlər kommunikasiya mədəniyyətinin hansı meyarına aiddir?",
+      "wrong": [
+        "kommunikativ estetika",
+        "bəyanatın düzgünlüyü",
+        "kommunikativ məqsədəuyğunluq",
+        "uyğunluq"
+      ],
+      "correct": "təqdimatın ardıcıllığı"
+    },
+    {
+      "number": 195,
+      "body": "Aşağıdakılardan biri çətin dinləyicilər qrupuna aid deyil:",
+      "wrong": ["məntiqli", "sözkəsən", "yalançı", "xəyalpərəst"],
+      "correct": "sərbəst"
+    },
+    {
+      "number": 196,
+      "body": "Dinləmənin neçə forması var?",
+      "wrong": ["4", "3", "5", "6"],
+      "correct": "2"
+    },
+    {
+      "number": 197,
+      "body": "Alimlər müəyyənləşdirmişlər ki, insanın vaxtının .... faizini kommunikasiya (ünsiyyət) təşkil edir:",
+      "wrong": ["60.00%", "50.00%", "80.00%", "90.00%"],
+      "correct": "70.00%"
+    },
+    {
+      "number": 198,
+      "body": "Səhv fikri göstərin:",
+      "wrong": [
+        "Ədəbi dilin əsas xüsusiyyəti standartlaşdırmadır.",
+        "Ədəbi norma çərçivəsində seçimlər mövcuddur.",
+        "Nitq normasının formalaşmasında həm spontan, həm də şüurlu proseslər gedir.",
+        "Normanın əsas mənbələrinə yazıçıların əsərləri, dilçilərin elmi araşdırmaları və s. daxildir."
+      ],
+      "correct": "Normalar ədəbi dilin bütövlüyünü və anlayışını qorumağa mane olur."
+    },
+    {
+      "number": 199,
+      "body": "Kommunikativ motiv neçə formada təzahür edir?",
+      "wrong": ["3", "4", "6", "5"],
+      "correct": "2"
+    },
+    {
+      "number": 200,
+      "body": "Kommunikasiya mədəniyyətinin əsas meyarlarına daxildir: 1. kommunikativ məqsədəuyğunluq 2. bəyanatın qarışıqlığı 3. təqdimatın ardıcıllığı 4. kommunikativ estetika 5. uyğunsuzluq",
+      "wrong": ["1, 2, 5", "1, 3, 5", "2, 4, 5", "1, 2, 3"],
+      "correct": "1, 3, 4"
+    },
+    {
+      "number": 201,
+      "body": "Kommunikasiya mədəniyyətinin əsasını təşkil edir:",
+      "wrong": [
+        "eyni bir dil kollektivinin üzvləri ilə əlaqə üçün danışanların dildən istifadə etməsi",
+        "səviyyələr üzrə təşkil olunması",
+        "konkret məqamlara nitq fəaliyyəti ilə müdaxilə etmək",
+        "məlumatın dil vasitəsilə ötürülməsi və qavranılması"
+      ],
+      "correct": "danışıq standartlarını bilmək və ünsiyyət məqsədəuyğunluğu prinsipinə riayət etmək"
+    },
+    {
+      "number": 202,
+      "body": "Uğurlu ünsiyyətin açarıdır: 1. Danışıq qabiliyyəti 2. Dinləmə 3. Yazma 4. Davranış 5. Oxuma",
+      "wrong": ["4, 5", "1, 5", "2, 3", "3, 4"],
+      "correct": "1.20"
+    },
+    {
+      "number": 203,
+      "body": "Nitq fəaliyyətinnin növlərinə daxil deyil:",
+      "wrong": ["yazı", "oxu", "danışma", "dinləmə"],
+      "correct": "hərəkət"
+    },
+    {
+      "number": 204,
+      "body": "Verilənlərdən biri dilə aid deyil:",
+      "wrong": [
+        "Abstraktdır.",
+        "Səviyyələr üzrə təşkil olunur.",
+        "Obyektivdir.",
+        "Daimidir."
+      ],
+      "correct": "Xətt üzrə təşkil olunur."
+    },
+    {
+      "number": 205,
+      "body": "1. İnsan sosial varlıq kimi ünsiyyətə möhtacdır. 2. Konkret məqamlara nitq fəaliyyəti ilə müdaxilə etmək tələb olunur. Verilənlər aiddir:",
+      "wrong": [
+        "nitq mədəniyyəti",
+        "nitq etiketi",
+        "şifahi nitq",
+        "akademik kommunikasiya"
+      ],
+      "correct": "kommunikativ motiv"
+    },
+    {
+      "number": 206,
+      "body": "Qeyd edilən xüsusiyyət kommunikasiya mədəniyyətinin hansı meyarına aiddir? Düzgün danışmaq və ya yazmaq kifayət deyil, müvafiq kommunikativ situasiyalarda onlardan istifadə edə bilmək üçün söz və ifadələrin stilistik dərəcələri haqqında məlumatlı olmaq vacibdir.",
+      "wrong": [
+        "təqdimatın ardıcıllığı",
+        "uyğunluq",
+        "bəyanatın düzgünlüyü",
+        "kommunikativ estetika"
+      ],
+      "correct": "kommunikativ məqsədəuyğunluq"
+    },
+    {
+      "number": 207,
+      "body": "Biri etiket növünə aid deyil:",
+      "wrong": [
+        "peşəkar etiket",
+        "etnoetiket",
+        "işgüzar etiket",
+        "diplomatik etiket"
+      ],
+      "correct": "ümumi etiket"
+    },
+    {
+      "number": 208,
+      "body": "Biri insanlara münasibətin zahiri göstəricilərinə aid deyil:",
+      "wrong": [
+        "geyim",
+        "manera",
+        "ictimai yerlərdə davranma qaydaları",
+        "müraciət formaları"
+      ],
+      "correct": "dünyagörüşü"
+    },
+    {
+      "number": 209,
+      "body": "Etiketin əsasını nə təşkil edir?",
+      "wrong": [
+        "yersiz ifadələr",
+        "stilistik qaydalara riayət etmək",
+        "düzgün qrammatik qaydalar",
+        "vulqar sözlərdən istifadə"
+      ],
+      "correct": "sadə davranış qaydaları"
+    },
+    {
+      "number": 210,
+      "body": "Aşağıdakılardan biri dəvət nitq etiketlərinə aid deyil:",
+      "wrong": [
+        "Bayram tədbirində sizi də görmək istərdim.",
+        "Sizi...dəvət edirəm.",
+        "İcazə verin sizi ... dəvət edim.",
+        "Bayrama gəlin, sizi orada görməkdən çox məmnun olarıq."
+      ],
+      "correct": "İcazə verin, sizinlə tanış olum."
+    },
+    {
+      "number": 211,
+      "body": "Aşağıdakılardan biri salamlaşma nitq etiketinin forması deyil:",
+      "wrong": [
+        "Sabahınız xeyir.",
+        "Salam.",
+        "Günortanız xeyir.",
+        "Axşamınız xeyir."
+      ],
+      "correct": "İşləriniz xeyirli olsun."
+    },
+    {
+      "number": 212,
+      "body": "Aşağıdakılardan biri işgüzar etiketin prinsiplərinə aid deyil:",
+      "wrong": ["məxfilik", "savadlılıq", "dəqiqlik", "zahiri görünüş"],
+      "correct": "ətrafdakılara diqqətsizlik"
+    },
+    {
+      "number": 213,
+      "body": "Biri etiketin növünə aid deyil:",
+      "wrong": [
+        "işgüzar etiket",
+        "peşəkar etiket",
+        "diplomatik etiket",
+        "etnoetiket"
+      ],
+      "correct": "universal etiket"
+    },
+    {
+      "number": 214,
+      "body": "Biri işgüzar ünsiyyətdə komplimentdən istifadə qaydalarına aid deyil:",
+      "wrong": [
+        "Kompliment demək mütləqdir.",
+        "Kompliment həqiqətə uyğun olmalıdır.",
+        "Komplimenti qəbul etməyi bacarmaq lazımdır.",
+        "Kompliment səmimi səslənməlidir."
+      ],
+      "correct": "Kübar komplimentdən rəsmi şəraitdə geniş istifadə edilir."
+    },
+    {
+      "number": 215,
+      "body": "İşgüzar ünsiyyət başa çatdıqdan sonra hansı vidalaşma etiketindən istifadə edilmir?",
+      "wrong": ["Salamat qalın.", "Görüşənədək.", "Xudahafiz.", "Sağ olun."],
+      "correct": "Ən səmimi arzularımı bildirirəm."
+    },
+    {
+      "number": 216,
+      "body": "İstənilən ünsiyyət aktı neçə hissədən ibarətdir?",
+      "wrong": ["2", "6", "5", "4"],
+      "correct": "3"
+    },
+    {
+      "number": 217,
+      "body": "“İdentifikasiya” sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["yunan", "ərəb", "fars", "fransız"],
+      "correct": "latın"
+    },
+    {
+      "number": 218,
+      "body": "Etiketin neçə tərkib hissəsi var?",
+      "wrong": ["5", "6", "2", "4"],
+      "correct": "3"
+    },
+    {
+      "number": 219,
+      "body": "“Etiket” sözü Azərbaycan dilinə neçənci əsrdə daxil olmuşdur?",
+      "wrong": ["XVI", "XVII", "XVIII", "XIX"],
+      "correct": "XX"
+    },
+    {
+      "number": 220,
+      "body": "“Etiket” sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["ərəb", "latın", "fars", "ingilis"],
+      "correct": "fransız"
+    },
+    {
+      "number": 221,
+      "body": "Verilənlərdən biri nitq etiketinin formalarına aid deyil:",
+      "wrong": ["müraciət", "vidalaşma", "tanışlıq", "salamlaşma"],
+      "correct": "təlqin"
+    },
+    {
+      "number": 222,
+      "body": "“…həmsöhbətin müsbət keyfiyyətləri barədə bir qədər şişirdilmiş xoş sözlərdir ki, bundan ona zövq vermək, özünə və ya müzakirə olunan məsələyə diqqət çəkmək məqsədilə istifadə edilir”. Verilən fikir aiddir:",
+      "wrong": ["təlqinə", "identifikasiyaya", "empatiyaya", "yoluxmaya"],
+      "correct": "komplimentə"
+    },
+    {
+      "number": 223,
+      "body": "Verilənlərdən biri təqlidə aiddir:",
+      "wrong": [
+        "Bir insanın digərinə məqsədyönlü təsiridir.",
+        "Başqa insanın emosional vəziyyətini dərk edə bilmək qabiliyyətidir.",
+        "Qeyri-tənqidi qavrayışa əsaslanan informasiya ötürülməsi prosesidir.",
+        "Məntiqi əsaslandırmanın köməyi ilə informasiyanı qəbul edən insanın razılığını almağa nail olmaqdır."
+      ],
+      "correct": "Başqasının nümayiş edirdiyi davranışın eynilə təkrar edilməsidir."
+    },
+    {
+      "number": 224,
+      "body": "Latın dilindən tərcümədə “...” sözü “eyniləşmə”, “oxşatma” mənalarını bildirir. Nöqtələrin yerinə uyğun gələni göstərin:",
+      "wrong": ["təlqin", "təqlid", "inandırma", "yoluxma"],
+      "correct": "identifikasıya"
+    },
+    {
+      "number": 225,
+      "body": "Etiketin tərkib hissələri hansılardır?",
+      "wrong": [
+        "hörmət,nəzakət və etibarlılıq",
+        "səmimiyyət,nizam və məxfilik",
+        "davranış etiketi, zahiri görünüş və identifikasiya",
+        "nitq etiketi, səliqəlilik və savadlılıq"
+      ],
+      "correct": "xarici görünüş,nitq və davranış etiketi"
+    },
+    {
+      "number": 226,
+      "body": "“İnsanın zahiri görünüşü və məziyyətləri barədə söylənən xoş sözlərdir.” Verilən fikir komplimentin hansı növünə aiddir?",
+      "wrong": [
+        "işgüzar kompliment",
+        "adi kompliment",
+        "qeyri-rəsmi kompliment",
+        "xüsusi kompliment"
+      ],
+      "correct": "kübar kompliment"
+    },
+    {
+      "number": 227,
+      "body": "Verilən fikir işgüzar etiketin hansı prinsipinə aiddir? Müəssisənin, korporasiyanın və ya konkret sazişin sirlərini öz şəxsi sirriniz kimi qayğı və ehtiyatla qoruyub-saxlamaq vacibdir.",
+      "wrong": [
+        "dəqiqlik",
+        "ətrafınızdakılara diqqət",
+        "zahiri görünüş",
+        "savadlılıq"
+      ],
+      "correct": "məxfilik"
+    },
+    {
+      "number": 228,
+      "body": "Xarici görünüş etiketinə nələr daxildir?",
+      "wrong": [
+        "mədəni ünsiyyət və nitq davranışını tənzimləyən etik qaydalar",
+        "nəzakətli rəftar, hərəkət və davranışlar",
+        "səlis və aydın nitq",
+        "nümunəvi hesab edilən hərəkətlər"
+      ],
+      "correct": "səliqəli, zövqlü geyim tərzi, saç düzümü"
+    },
+    {
+      "number": 229,
+      "body": "“. . . hər bir xalqın dilində onun milli təfəkkürünə, etnoqrafiyasına uyğun olaraq işlədilən ifadələrdir” cümləsində nöqtələrin yerinə hansı ifadə yazılmalıdır?",
+      "wrong": [
+        "ədəbi dil",
+        "nitq fəaliyyəti",
+        "işgüzar ünsiyyət",
+        "danışıq mədəniyyəti"
+      ],
+      "correct": "nitq etiketləri"
+    },
+    {
+      "number": 230,
+      "body": "“Xüdahafiz”, “Sağ olun”, “Salamat qalın”, “Yaxşı yol”, “Görüşənədək” və s. kimi ifadələr nitq etiketinin hansı formasına daxildir?",
+      "wrong": ["salamlaşma", "davranış", "tanışlıq", "müraciət"],
+      "correct": "vidalaşma"
+    },
+    {
+      "number": 231,
+      "body": "İnandırma nədir?",
+      "wrong": [
+        "Bir insanın digərinə məqsədyönlü təsiridir.",
+        "İnsanın istəmədən, qeyri-ixtiyari olaraq, müəyyən psixi vəziyyətlərə düşməsinə meyilliliyidir.",
+        "Başqasının nümayiş edirdiyi davranışın eynilə təkrar edilməsidir.",
+        "Qeyri-tənqidi qavrayışa əsaslanan informasiya ötürülməsi prosesidir."
+      ],
+      "correct": "Məntiqi əsaslandırmanın köməyi ilə informasiyanı qəbul edən insanın razılığını almağa nail olmaq deməkdir."
+    },
+    {
+      "number": 232,
+      "body": "Təqlid nədir?",
+      "wrong": [
+        "Qeyri-tənqidi qavrayışa əsaslanan informasiya ötürülməsi prosesidir.",
+        "Şəxsiyyətin şüuruna onun öz tənqidi düşüncəsinə istinadən intellektual təsir göstərməkdir.",
+        "Bir insanın digərinə məqsədyönlü təsiridir",
+        "Məntiqi əsaslandırmanın köməyi ilə informasiyanı qəbul edən insanın razılığını almağa nail olmaq deməkdir."
+      ],
+      "correct": "Başqasının nümayiş edirdiyi davranışın eynilə təkrar edilməsidir."
+    },
+    {
+      "number": 233,
+      "body": "Biri işgüzar etiketin əsas prinsipinə aid deyil:",
+      "wrong": [
+        "nəzakət və səmimiyyət",
+        "məxfilik",
+        "zahiri görünüş",
+        "ətrafınızdakılara diqqət"
+      ],
+      "correct": "xidməti fəaliyyət"
+    },
+    {
+      "number": 234,
+      "body": "“İş yoldaşlarını, rəisləri və tabelilikdə olanları əhatə edir“. Verilən fikir işgüzar etiketin hansı prinsipinə aiddir?",
+      "wrong": [
+        "savadlılıq",
+        "xeyirxahlıq və səmimiyyət",
+        "məxfilik",
+        "zahiri görünüş"
+      ],
+      "correct": "ətrafınızdakılara diqqət"
+    },
+    {
+      "number": 235,
+      "body": "Verilən fikir komplimentin hansı növünə aiddir? “Tərəfdaşlar arasında iltifat mübadiləsidir”.",
+      "wrong": [
+        "xüsusi kompliment",
+        "qeyri-rəsmi kompliment",
+        "kübar kompliment",
+        "adi kompliment"
+      ],
+      "correct": "işgüzar kompliment"
+    },
+    {
+      "number": 236,
+      "body": "Müraciət etiketlərini göstərin:",
+      "wrong": [
+        "Oğlum, uğur olsun, sağ olun",
+        "Xoş gördük",
+        "Salam, bağışlayın, gecəniz xeyrə qalsın",
+        "Təbrik edirəm, qızım, cənab"
+      ],
+      "correct": "Buyurun, əyləşin, xanım, cənab"
+    },
+    {
+      "number": 237,
+      "body": "Etika hansı elmin tədqiqat sahəsidir?",
+      "wrong": ["estetika", "dilçilik", "psixologiya", "pedaqogika"],
+      "correct": "fəlsəfə"
+    },
+    {
+      "number": 238,
+      "body": "“Daxili sənədlər və müəssisədən kənara göndərilən məktublar savadlı şəkildə, səlis dillə, səhvsiz tərtib edilməlidir”. Verilən fikir işgüzar etiketin hansı prinsipinə aiddir?",
+      "wrong": [
+        "zahiri görünüş",
+        "ətrafınızdakılara diqqət",
+        "dəqiqlik",
+        "məxfilik"
+      ],
+      "correct": "savadlılıq"
+    },
+    {
+      "number": 239,
+      "body": "De Yagerin formalaşdırdığı işgüzar etiketin neçə əsas prinsipi var?",
+      "wrong": ["5", "4", "2", "3"],
+      "correct": "6"
+    },
+    {
+      "number": 240,
+      "body": "Etiketin hansı funksiyaları qeyd edilir: 1. tənzimləyici funksiya, 2. tanışlıq funksiyası, 3. mövqe funksiyası, 4. kommunikativ funksiya, 5. simvolik funksiya",
+      "wrong": ["1, 2, 3", "2, 3, 5", "1, 3, 4", "3, 4, 5"],
+      "correct": "1, 4, 5"
+    },
+    {
+      "number": 241,
+      "body": "\"Etiket\" sözünü kimin adı ilə bağlayırlar?",
+      "wrong": [
+        "Napoleon Bonapartın",
+        "Almaniya kralı I Otto",
+        "İspaniya kralı II Filipp",
+        "Frank kralı Xlodviq"
+      ],
+      "correct": "Fransa kralı XIV Lüdoviqin"
+    },
+    {
+      "number": 242,
+      "body": "Danışıqlara hazırlığın əsas elementlərindən biri yanlışdır:",
+      "wrong": [
+        "problemlərin həlli üçün tərəfdaşların axtarılması",
+        "danışıqların predmetinin müəyyənləşdirilməsi",
+        "danışıqların planının və proqramının hazırlanması",
+        "nümayəndə heyətinin tərkibinə mütəxəssislərin seçilməsi"
+      ],
+      "correct": "tərəfdaşın nəzər-nöqtəsinə diqqətsizlik"
+    },
+    {
+      "number": 243,
+      "body": "Telefonla işgüzar söhbətə hazırlıq zamanı siz aşağıdakıları bacarmalı və yerinə yetirməlisiniz. Səhv cavabı göstərin:",
+      "wrong": [
+        "danışığın məqsədini və onun aparılma taktikasını dəqiq müəyyənləşdirmək",
+        "işə aidiyyəti olan zəruri sənədləri, həmçinin təqvim və qeyd kitabçasını hazırlamaq",
+        "sualları və onların təqdim olunmasını dəqiqliklə düşünüb müəyyənləşdirmək",
+        "danışığın planını tərtib etmək"
+      ],
+      "correct": "telefon danışığını kobud, sərt tonda aparmaq"
+    },
+    {
+      "number": 244,
+      "body": "Aşağıdakılardan biri işgüzar söhbətin əsas funksiyalarına aid deyil:",
+      "wrong": [
+        "innovativ tədbir və proseslərin başlanılması",
+        "başlanmış tədbir və proseslərə nəzarət və onların koordinasiyası",
+        "xarici mühitdəki tərəfdaşlarla işgüzar əlaqələrin yaradılması",
+        "informasiya mübadiləsi"
+      ],
+      "correct": "əsaslandırma"
+    },
+    {
+      "number": 245,
+      "body": "“Dəvət olunan mütəxəssislər yarımdairə şəklində üzü auditoriyaya, aparıcı isə ortada oturur”. Göstərilən xüsusiyyət aiddir:",
+      "wrong": [
+        "işgüzar danışıqlara",
+        "işgüzar iclasa",
+        "telefon söhbətinə",
+        "işgüzar söhbətə"
+      ],
+      "correct": "işgüzar diskussiyaya"
+    },
+    {
+      "number": 246,
+      "body": "Aşağıdakılardan biri mətbuat konfransının strukturuna və quruluşuna aid deyil:",
+      "wrong": [
+        "tədbirin keçirilməsi səbəbinin izahı",
+        "görüşün proqramı",
+        "giriş hissə (davamı 3-4 dəqiqə)",
+        "salamlama"
+      ],
+      "correct": "özəl hissə"
+    },
+    {
+      "number": 247,
+      "body": "İşgüzar söhbət prosesində nəyi etmək olar?",
+      "wrong": [
+        "söhbətin tempini qəsdən sürətləndirmək",
+        "həmsöhbətin şəxsi zonasına müdaxilə etmək",
+        "həmsöhbətin sözünü kəsmək",
+        "özü ilə həmsöhbət arasındakı fərqi vurğulamaq"
+      ],
+      "correct": "söhbət zamanı tərəfdaşın psixi vəziyyətini anlamaq"
+    },
+    {
+      "number": 248,
+      "body": "İşgüzar söhbətin ümumi strukturuna aşağıdakılardan biri aid deyil:",
+      "wrong": [
+        "problemin irəli sürülməsi və informasiyanın ötürülməsi",
+        "söhbətin nəticələrinin və ünsiyyət taktikasının təhlili",
+        "işgüzar söhbətə hazırlıq: görüşün yerinin və vaxtının müəyyənləşdirilməsi",
+        "söhbətin başlanğıcı: əlaqəyaratma"
+      ],
+      "correct": "xarici mühitdəki tərəfdaşlarla işgüzar əlaqələrin yaradılması"
+    },
+    {
+      "number": 249,
+      "body": "Güclü arqumentə aid deyil:",
+      "wrong": [
+        "real həyatda istifadə edilən qanunlar",
+        "yoxlanılmış statistik informasiyalar",
+        "tanınmış mənbələrdən gətirilən sitatlar",
+        "rəhbər sənədlər"
+      ],
+      "correct": "saxta sənədlərdən çıxarılan nəticələr"
+    },
+    {
+      "number": 250,
+      "body": "Aşağıdakılardan biri işgüzar söhbətin uğurlu olmasına yardım edən faktorlardan deyil:",
+      "wrong": [
+        "professional biliklər",
+        "əsas müddəaların və fikirlərin təkrarı",
+        "əyanilik",
+        "fikir aydınlığı"
+      ],
+      "correct": "qeyri-müəyyən ritm"
+    },
+    {
+      "number": 251,
+      "body": "“Söhbətin əvvəlində istənilən halda tərəfdaşla təmas yaratmaq lazımdır”. Verilən fikir işgüzar söhbətin strukturunun hansı məqamına aiddir?",
+      "wrong": [
+        "əsaslandırma",
+        "problemin irəli sürülməsi və informasiyanın ötürülməsi",
+        "işgüzar söhbətə hazırlıq",
+        "həmsöhbətin fikirlərinin təkzib edilməsi"
+      ],
+      "correct": "söhbətin başlanğıcı: əlaqəyaratma"
+    },
+    {
+      "number": 252,
+      "body": "Biri işgüzar danışıqların məqsədinə aid deyil:",
+      "wrong": [
+        "qərarların qəbul edilməsi",
+        "zəif tərəflərini müəyyənləşdirmək",
+        "tədbirlər keçirilməsinin razılaşdırılması",
+        "əməkdaşlığın koordinasiyası",
+        "müştərək fəaliyyət"
+      ],
+      "correct": "konfliktlərin yaradılması"
+    },
+    {
+      "number": 253,
+      "body": "“... işgüzar kommunikasiyanın elə bir spesifik formasıdır ki, özünəməxsus qaydalar və qanunauyğunluqlar əsasında həyata keçirilir”. Nöqtələrin yerinə uyğun gələni seçin:",
+      "wrong": ["mühazirə", "işgüzar diskussiyalar", "təqdimat", "monoloq"],
+      "correct": "işgüzar danışıqlar"
+    },
+    {
+      "number": 254,
+      "body": "İşgüzar söhbətin uğurlu olmasına yardım edən faktorlardan səhv olanı göstərin:",
+      "wrong": [
+        "gözlənilməzlik elementi",
+        "müəyyən ritm",
+        "yumor və ironiya",
+        "professional biliklər"
+      ],
+      "correct": "informasiya mübadiləsi"
+    },
+    {
+      "number": 255,
+      "body": "Verilənlərdən biri danışıqlara hazırlığın əsas elementlərinə aid deyil:",
+      "wrong": [
+        "özünün və tərəfdaşların maraqlarının aydınlaşdırılması",
+        "nümayəndə heyətinin tərkibinə mütəxəssislərin seçilməsi",
+        "danışıqların predmetinin müəyyənləşdirilməsi",
+        "problemlərin həlli üçün tərəfdaşların axtarılması"
+      ],
+      "correct": "danışıqların plan və proqramının olmaması"
+    },
+    {
+      "number": 256,
+      "body": "Aşağıdakılardan hansı şifahi işgüzar ünsiyyətin dioloji növlərinə aid deyil?",
+      "wrong": [
+        "işgüzar söhbət",
+        "işgüzar danışıqlar",
+        "müşavirələr",
+        "isgüzar iclas"
+      ],
+      "correct": "məruzə"
+    },
+    {
+      "number": 257,
+      "body": "\"Burada yeni ideyalardan istifadə, fəaliyyətin perspektiv istiqamətlərinin hazırlanması məsələləri araşdırılır\". Verilən fikir aiddir:",
+      "wrong": [
+        "işgüzar danışıqlar",
+        "işgüzar iclas",
+        "mətbuat konfransı",
+        "diskussiya"
+      ],
+      "correct": "yaradıcı müşavirə"
+    },
+    {
+      "number": 258,
+      "body": "Verilənlərdən biri işgüzar söhbətə hazırlıq prosesine aiddir:",
+      "wrong": [
+        "həmsöhbətin şəxsi zonasına müdaxilə etmək",
+        "söhbətin tempini qəsdən sürətləndirmək",
+        "özü ilə həmsöhbəti arasındakı fərqi vurğulamaq",
+        "həmsöhbətin sözünü kəsmək"
+      ],
+      "correct": "həmsöhbətə veriləcək zəruri sualları düşünmək"
+    },
+    {
+      "number": 259,
+      "body": "İşgüzar söhbət prosesində bunları etmək olmaz: 1. həmsöhbətin sözünü kəsmək; 2. həmsöhbətin həyəcanlanmasına əhəmiyyət vermək; 3. söhbətin tempini qəsdən sürətləndirmək; 4. özü ilə həmsöhbəti arasındakı fərqi vurğulamaq; 5. söhbət zamanı tərəfdaşın psixi vəziyyətini anlamaq.",
+      "wrong": ["2, 3, 5", "3, 4, 5", "2, 3, 4", "1, 2, 5"],
+      "correct": "1, 3, 4"
+    },
+    {
+      "number": 260,
+      "body": "Əsassız arqumentlərə aiddir: 1. Saxta faktlara söykənən fikirlər 2. şübhəli, yoxlanılmamış mənbələrə istinadetmə 3. qanuni qüvvəsini itirmiş qərarlar 4. dəqiq müəyyənləşdirilmiş və təsdiqlənmiş faktlar və fikirlər 5. şəxsi xarakterli mülahizələr",
+      "wrong": ["3, 4, 5", "2, 3, 4", "1, 2, 4", "1, 4, 5"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 261,
+      "body": "Güclü arqumentlərə aiddir: 1. dəqiq müəyyənləşdirilmiş və təsdiqlənmiş faktlar və fikirlər 2. real həyatda istifadə edilən qanunlar, nizamnamələr, rəhbər sənədlər 3. tanınmış ekspertlərin gəldiyi nəticələr, tanınmış mənbələrdən gətirilmiş sitatlar 4. natamam və yoxlanılmamış statistik məlumatlardan çıxarılan nəticələr 5. yalan bəyanatlar, saxta dəlillər",
+      "wrong": ["1, 2, 4", "2, 3, 4", "2, 4, 5", "3, 4, 5"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 262,
+      "body": "Verilənlərdən biri işgüzar kommunikasiyanın formalarına aid deyil:",
+      "wrong": [
+        "işgüzar diskussiya",
+        "işgüzar iclas",
+        "işgüzar söhbət",
+        "mətbuat konfransı"
+      ],
+      "correct": "kommunikativ niyyət"
+    },
+    {
+      "number": 263,
+      "body": "İşgüzar söhbətə hazırlıq prosesinə daxil deyil:",
+      "wrong": [
+        "söhbətin əsas məqsəd və vəzifələrini müəyyənləşdirmək",
+        "söhbətin mümkün nəticəsini qabaqcadan proqnozlaşdırmaq",
+        "vəzifələr əsasında söhbətin planını tərtib etmək və onların müvafiq həlli yollarını tapmaq",
+        "hazırlıq prosesində mübahisəli məsələlərin, konfliktlərin, sazişlərlə əlaqədar problemlərin və s. həllinə xüsusi diqqət yetirmək"
+      ],
+      "correct": "reqlament haqqında məlumat vermək"
+    },
+    {
+      "number": 264,
+      "body": "Verilənlərdən biri işgüzar söhbətin ümumi strukturuna aid deyil:",
+      "wrong": [
+        "problemin irəli sürülməsi və informasiyanın ötürülməsi",
+        "razılıqların əldə edilməsi",
+        "söhbətin başlanğıcı: əlaqəyaratma",
+        "görüşün yerini və vaxtını müəyyənləşdirmək"
+      ],
+      "correct": "həmsöhbətin sözünü kəsmək"
+    },
+    {
+      "number": 265,
+      "body": "Verilənlərdən biri işgüzar söhbətin əsas funksiyalarına aiddir:",
+      "wrong": [
+        "Söhbətin yekunlaşdırılması",
+        "Tərəfdaşın arqumentlərinin təkzib edilməsi.",
+        "Qərar qəbul edilməsi",
+        "Söhbətin başlanğıcı: əlaqə yaratma"
+      ],
+      "correct": "İnnovativ tədbir və proseslərin başlanılması"
+    },
+    {
+      "number": 266,
+      "body": "Zəif arqumentlərə aiddir: 1. az tanınan müəlliflərin fikirlərinə istinad 2. şəxsi xarakterli mülahizələr; 3. ehtimallar, hisslər əsasında formalaşdırılmış fikirlər, ümumiləşdirmələr 4. yoxlanılmış statistik informasiyalar; 5. saxta sənədlərdən çıxarılan nəticələr",
+      "wrong": ["1, 2, 5", "1, 3, 4", "2, 4, 5", "3, 4, 5"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 267,
+      "body": "Hansı işgüzar kommunikasiya formasında nəticə olaraq saziş, müqavilə, qərarların qəbul edilməsi tələb olunur?",
+      "wrong": [
+        "işgüzar diskussiya",
+        "işgüzar söhbət",
+        "mətbuat konfransı",
+        "telefon söhbətləri"
+      ],
+      "correct": "işgüzar danışıq"
+    },
+    {
+      "number": 268,
+      "body": "Əvvəlcədən planlaşdırılmış üz-üzə görüşdə aparılan işgüzar söhbət prosesində müəyyənləşdirilir: 1. söhbətin predmeti; 2. müzakirə ediləcək məsələlər; 3. həyata keçirilməsi zəruri olan əsas niyyətlər; 4. tərəfdaşlar 5. imzalar",
+      "wrong": ["1, 4, 5", "2, 3, 4", "1, 2, 5", "3, 4, 5"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 269,
+      "body": "Verilənlərdən biri şifahi işgüzar ünsiyyətin dialoji növlərinə aid deyil:",
+      "wrong": [
+        "işgüzar danışıqlar",
+        "işgüzar söhbət",
+        "mətbuat konfransı",
+        "diskussiya"
+      ],
+      "correct": "mühazirə"
+    },
+    {
+      "number": 270,
+      "body": "İşgüzar söhbətin əsas funksiyalarına daxildir: 1) İnnovativ tədbir və proseslərin başlanılması; 2) Başlanmış tədbir və proseslərə nəzarət və onların koordinasiyası; 3) İştirakçıların təlimatlandırılması informasiya mübadiləsi; 4) Kommunikativ niyyət (intensiya) 5) Xarici mühitdəki tərəfdaşlarla işgüzar əlaqələrin yaradılması;",
+      "wrong": ["1, 2, 4", "1, 2, 3", "1, 3, 4", "3, 4, 5"],
+      "correct": "1, 2, 5"
+    },
+    {
+      "number": 271,
+      "body": "İşgüzar ünsiyyət prosesində işgüzar söhbətin neçə əsas növü müəyyənləşdirilir?",
+      "wrong": ["6", "3", "4", "5"],
+      "correct": "2"
+    },
+    {
+      "number": 272,
+      "body": "Verilən xüsusiyyət şəxslərarası kommunikasiyanın hansı funksiyasına aiddir? “Kommunikasiya iştirakçılarının davranış və fəaliyyətlərini reqlamentləşdirməyə, onların birgə hərəkətlərini əlaqələndirməyə imkan verir”.",
+      "wrong": ["interpretativ", "sosial", "informativ", "ekspressiv"],
+      "correct": "praqmatik"
+    },
+    {
+      "number": 273,
+      "body": "Aşağıdakılardan biri şəxslərarası kommunikasiya prosesinin struktur modellərində mütləq komponent kimi qeyd olunmayıb:",
+      "wrong": [
+        "nə göndərilir (informasiyanın məzmunu)",
+        "informasiya necə göndərilir (kanal)",
+        "informasiya kimə göndərilir (alıcı)",
+        "informasiyanı kim göndərir (göndərən)"
+      ],
+      "correct": "informasiya prosesinə nəzarət (nəzarətçi)"
+    },
+    {
+      "number": 274,
+      "body": "\"Liderin əsas rolu bir qrupda kommunikativ davranış qaydalarını təmin etməsi ilə müəyyən edilir\". Verilənlərdən biri bu qaydalara aid deyil:",
+      "wrong": [
+        "Qrupun fikirləri, hərəkətləri və qərarları ilə razılığını bildirmək bacarığı",
+        "Başqalarının nailiyyətlərinin açıq şəkildə qiymətləndirilməsi",
+        "Qrup iştirakçılarının bir-birinin statuslarını qəbul etməsi",
+        "Vəziyyətdəki gƏrginliyi vaxtında aradan qaldırmaq bacarığı (zarafat, lƏtifƏ)"
+      ],
+      "correct": "Təşkilatda etibarlı ünsiyyət mühitinin yaradılmaması"
+    },
+    {
+      "number": 275,
+      "body": "Şəxslərarası ünsiyyətin xüsusiyyətlərinə aid deyil?",
+      "wrong": [
+        "transaksiya modeli",
+        "dairəvi model",
+        "interaktiv model",
+        "xətti model"
+      ],
+      "correct": "operativ model"
+    },
+    {
+      "number": 276,
+      "body": "İdarəetmə təşkilatında liderin funksiyalarına hansı aid deyil?",
+      "wrong": [
+        "komandanın formalaşması",
+        "fəaliyyətin təşkili",
+        "cəmiyyətlə qarşılıqlı əlaqə",
+        "münaqişələrin həlli"
+      ],
+      "correct": "kooperativ ünsiyyət normalarının pozulması"
+    },
+    {
+      "number": 277,
+      "body": "\"Bu model kommunikasiya kommunikantların eyni vaxtda mesajı göndərməsi və qəbul etməsi prosesi hesab edilir\". Verilən xüsusiyyət şəxslərarası kommunikasiyanın hansı modeliə aiddir?",
+      "wrong": [
+        "interaktiv model",
+        "dairəvi model",
+        "interaktiv və ya dairəvi model",
+        "xətti model"
+      ],
+      "correct": "transaksiya modeli"
+    },
+    {
+      "number": 278,
+      "body": "Verilənlər hansı liderlik tipinə aiddir: “... üç əsas liderlik üslubunun birləşməsindən istifadə edir ”.",
+      "wrong": [
+        "xarizmatik lider",
+        "rəylərin lideri",
+        "demokratik lider",
+        "nominal lider"
+      ],
+      "correct": "çevik lider"
+    },
+    {
+      "number": 279,
+      "body": "Verilənlər hansı liderlik tipinə aiddir: “......tabeçiliyində olanlara hörmət edir, başqalarının fikir söyləmək hüquqlarını qəbul edir, idarəetmə səlahiyyətlərini mərkəzləşdirir”.",
+      "wrong": [
+        "çevik lider",
+        "xarizmatik lider",
+        "bürokratik lider",
+        "situativ lider"
+      ],
+      "correct": "demokratik (kollegial) lider"
+    },
+    {
+      "number": 280,
+      "body": "Qrupşəkilli kommunikativ prosesin neçə əsas effektivlik meyarı var?",
+      "wrong": ["5", "6", "4", "2"],
+      "correct": "3"
+    },
+    {
+      "number": 281,
+      "body": "Şəxslərarası kommunikasiya funksiyalardan biri kommunikasiya tərəfdaşının niyyətlərini, münasibətlərini, hisslərini, vəziyyətini başa düşməyə xidmət edir. Söhbət hansı funksiyadan gedir?",
+      "wrong": ["sosial", "praqmatik", "ekspressiv", "informativ"],
+      "correct": "interpretativ"
+    },
+    {
+      "number": 282,
+      "body": "Verilənlərdən biri kiçik qrupların əsas əlamətlərini əks etdirmir:",
+      "wrong": [
+        "qrup üzvlərinin ümumi maraqları",
+        "üzvlər arasında kommunikasiya",
+        "ümumi fəaliyyət formaları",
+        "qrup rollarının bölüşdürülməsi"
+      ],
+      "correct": "dəyərlər və davranış normaları"
+    },
+    {
+      "number": 283,
+      "body": "Biri şəxslərarası kommunikasiyanın funksiyasına aid deyil:",
+      "wrong": [
+        "informativ funksiya",
+        "ekspressiv funksiya",
+        "praqmatik funksiya",
+        "interpretativ funksiya"
+      ],
+      "correct": "interaktiv funksiya"
+    },
+    {
+      "number": 284,
+      "body": "Qrupşəkilli kommunikativ prosesin əsas effektivlik meyarını göstərin: 1) səmərəlilik 2) qiymətləndirici 3) işin keyfiyyəti 4) qrupun fərdə müsbət təsiri 5) qarşılıqlı münasibət",
+      "wrong": ["1, 3, 5", "1, 2, 5", "2, 3, 4", "1, 4, 5"],
+      "correct": "1, 3, 4"
+    },
+    {
+      "number": 285,
+      "body": "Verilənlərdən biri bədən dilinin tərkib hissələrinə aid deyil?",
+      "wrong": ["bədənin duruşu", "jestlər", "proksemika", "mimika"],
+      "correct": "rollar"
+    },
+    {
+      "number": 286,
+      "body": "Şəxslərarası müqavimətin aradan qaldırılması, ümumi məsələlərin həlli qrupun formalaşmasında kommunikasiya prosesinin hansı mərhələsinə aiddir?",
+      "wrong": [
+        "normativ mövqelərin müəyyənləşdirilməsi mərhələsinə",
+        "formalaşma mərhələsinə",
+        "normallaşdırma mərhələsinə",
+        "etiraz mərhələsinə"
+      ],
+      "correct": "əməkdaşlıq mərhələsinə"
+    },
+    {
+      "number": 287,
+      "body": "Biri qrupun formalaşmasında kommunikasiya proseslərinin mərhələsinə aid deyil:",
+      "wrong": ["normallaşdırma", "əməkdaşlıq", "etiraz", "formalaşma"],
+      "correct": "rollar"
+    },
+    {
+      "number": 288,
+      "body": "Kiçik qrupların əsas əlamətlərinə aid deyil:",
+      "wrong": [
+        "ümumi qrup hissləri və münasibətləri",
+        "qrup üzvlərinin ümumi maraqları",
+        "üzvlər arasında kommunikasiya",
+        "ümumi fəaliyyət formaları"
+      ],
+      "correct": "könüllü qrup üzvlərinin maraqları"
+    },
+    {
+      "number": 289,
+      "body": "“Müəyyən bir mənbədən digər konkret hədəf obyektinə və ya identifikasiya edilə bilən bir qrupun üzvlərinə məlumat ötürülməsi prosesi başa düşülür”. Verilən fikir aiddir:",
+      "wrong": [
+        "fərdi kommunikasiyaya",
+        "qrupşəkilli kommunikasiyaya",
+        "social kommunikasiyaya",
+        "praqmatik kommunikasiyaya"
+      ],
+      "correct": "şəxslərarası kommunikasiyaya"
+    },
+    {
+      "number": 290,
+      "body": "“Asanlıqla söhbətə müdaxilə edir, bir mövzudan digər mövzuya keçir, maraqlı və böyük həvəslə danışır, tanımadığı bir ünsiyyət vəziyyətində özünü itirmir”. Verilən xüsusiyyət hansı kommunikanta aiddir?",
+      "wrong": ["sosial", "rigid", "introvert", "dominant"],
+      "correct": "mobil"
+    },
+    {
+      "number": 291,
+      "body": "\"Təmas qurmağın başlanğıc mərhələsində çətinliklər yaşayır, daha sonra fikirlərində dəqiq və məntiqlidir.\" Verilən xüsusiyyət hansı kommunikanta aiddir?",
+      "wrong": ["dominant", "introvert", "mobil", "introvert və mobil"],
+      "correct": "rigid"
+    },
+    {
+      "number": 292,
+      "body": "Verilənlərdən biri liderin kommunikativ davranış qaydalarına aid deyil:",
+      "wrong": [
+        "birgə fəaliyyət planını təklif etmək bacarığı",
+        "qrupa lazımlı məlumatları və fikirləri təqdim etmək bacarığı",
+        "qrupun fikirləri, hərəkətləri və s. ilə razılığını bildirmək bacarığı",
+        "müxtəlif fikir və məlumatları birləşdirmək bacarığı"
+      ],
+      "correct": "tək fəaliyyət planını qəbul etmək bacarığı"
+    },
+    {
+      "number": 293,
+      "body": "Liderlik tiplərini müəyyən edin: 1) kombinə edilmiş 2) bürokratik 3) introvert 4) dominant 5) avtoritar",
+      "wrong": ["1, 2, 4", "3, 2, 5", "1, 3, 5", "3, 4, 5"],
+      "correct": "1, 2, 5"
+    },
+    {
+      "number": 294,
+      "body": "“Əsas fəaliyyəti qrup təşkil edənlərin rifahına yönəlir”. Söhbət hansı liderlik tipindən gedir?",
+      "wrong": [
+        "xarizmatik lider",
+        "avtoritar lider",
+        "rəylərin lideri",
+        "çevik lider"
+      ],
+      "correct": "insanyönümlü lider"
+    },
+    {
+      "number": 295,
+      "body": "Verilən xüsusiyyətlərdən hansı liderlik tipinə aiddir? “Qrupun rəhbərliyində üç əsas liderlik üslubunun (avtoritar, demokratik, liberal) elementlərindən istifadə edən bir liderdir”.",
+      "wrong": [
+        "demokratik lider",
+        "situativ lider",
+        "avtoritar lider",
+        "nominal lider"
+      ],
+      "correct": "kombinə edilmiş lider"
+    },
+    {
+      "number": 296,
+      "body": "\"Yalnız formal şəkildə idarə edən, fikri nəzərə alınmayan lider.\" Söhbət hansı lider tipindən gedir?",
+      "wrong": ["liberal", "çevik", "xarizmatik", "avtoritar"],
+      "correct": "nominal"
+    },
+    {
+      "number": 297,
+      "body": "İnsanyönümlü liderin xüsusiyyətinə daxildir:",
+      "wrong": [
+        "Qrupa yalnız formal şəkildə rəhbərlik edən, fikri nəzərə alınmayan bir şəxsdir.",
+        "Yaranmış vəziyyətdən asılı olaraq, müvəqqəti liderə çevrilən bir şəxsdir.",
+        "Rəhbər tabeçiliyində olanlara tam hərəkət azadlığı verir, burada heç bir nəzarət müşahidə olunmur.",
+        "Formal-bürokratik rəhbərlik metoduna üstünlük verilir, yəni hakimiyyət və nüfuz bürokratik şəkildə dəstəklənir."
+      ],
+      "correct": "Əsas fəaliyyəti qrup təşkil edənlərin rifahına yönələn liderdir."
+    },
+    {
+      "number": 298,
+      "body": "Əsas liderlik üslublarına daxil deyil: 1. avtoritar 2. demokratik 3. liberal 4. kommunikativ 5. ekspressiv",
+      "wrong": ["1, 3", "1, 2", "2, 3", "3, 4"],
+      "correct": "4, 5"
+    },
+    {
+      "number": 299,
+      "body": "Əsas liderlik üslublarını göstərin: 1. avtoritar 2. demokratik 3. liberal 4. xarizmatik 5. situativ",
+      "wrong": ["2, 3, 4", "2, 4, 5", "1, 4, 5", "1, 3, 5"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 300,
+      "body": "\"İnsanlar arasında mədəni qarşılıqlı əlaqə vərdişlərinin formalaşması və inkişaf etdirilməsindən ibarətdir\". Verilən fikir şəxslərarası kommunikasiyanın hansı funksiyasına aiddir?",
+      "wrong": ["informativ", "ekspressiv", "interpretativ", "praqmatik"],
+      "correct": "sosial"
+    },
+    {
+      "number": 301,
+      "body": "Təşkilatda işgüzar kommunikasiya istiqamətinə görə hansı növlərə bölünür? 1. şaquli 2. formal 3. üfüqi 4. qeyri-formal 5. düz",
+      "wrong": ["3, 5", "4.50", "2, 4", "2.30"],
+      "correct": "1, 3"
+    },
+    {
+      "number": 302,
+      "body": "\"Verilən informasiyanın qəbuledicinin fəaliyyətinə təsiri və səmərəli istifadə edilməsi\". Qeyd edilən xüsusiyyət aiddir:",
+      "wrong": [
+        "semantik kommunikasiya",
+        "informasiya mübadiləsi",
+        "texniki kommunikasiya",
+        "informasiyanın ötürülməsi"
+      ],
+      "correct": "praqmatik kommunikasiya"
+    },
+    {
+      "number": 303,
+      "body": "Ritorik qanun sisteminin mərhələlərinin ardıcıllığı hansı sırada düzgün göstərilmişdir?",
+      "wrong": [
+        "Dispozisya, Yadda saxlama, Elokusiya, Tələffüz, İnvensiya",
+        "Tələffüz, Yadda saxlama, Elokusiya, Dispozisya, İnvensiya",
+        "Yadda saxlama, Tələffüz, İnvensiya, Elokusiya, Dispozisya",
+        "Elokusiya, Yadda saxlama, Dispozisya, İnvensiya, Tələffüz,"
+      ],
+      "correct": "İnvensiya, Dispozisya, Elokusiya, Yadda saxlama, Tələffüz"
+    },
+    {
+      "number": 304,
+      "body": "“... ritorik anlamında, nitq subyekti, kommunikativ niyyətin daşıyıcısı sayılır”. Nöqtələrin yerinə uyğun olanı seçin:",
+      "wrong": ["pafos", "adresat", "natiqin nitqi", "ritorik qan"],
+      "correct": "müəllifin obrazı"
+    },
+    {
+      "number": 305,
+      "body": "Akademik nitqdə etosa aid olanları seçin: 1. professional təşəbbüskarlıq 2. elm 3. tərəqqiyə inam 4. yaradıcılıq 5. məna 6. konsepsiyalar",
+      "wrong": ["3, 4, 5", "2, 3, 6", "1, 3, 4", "1, 2, 3"],
+      "correct": "2, 4, 5"
+    },
+    {
+      "number": 306,
+      "body": "Akademik nitqdə loqosa aid olanları seçin: 1.empirik əsas 2.yaradıcılıq 3. tərəqqiyə inam 4.anlayışlar 5. sosial ideallar 6.konsepsiyalar",
+      "wrong": ["2, 3, 5", "3, 4, 5", "2,4,3", "2, 5, 6"],
+      "correct": "1, 4, 6"
+    },
+    {
+      "number": 307,
+      "body": "Akademik nitqdə pafosa aid olanları seçin: 1. elmi düşüncəyə heyranlıq 2. mövzu sahəsinə maraq 3. təlim 4. yaradıcılıq 5. tərəqqiyə inam 6. sosial ideallar",
+      "wrong": ["2, 3, 6", "1, 4, 5", "4, 5, 6", "1, 3, 6"],
+      "correct": "1, 2, 5"
+    },
+    {
+      "number": 308,
+      "body": "Bir nöqtədən, qurğudan və şəxsdən digərinə müəyyən rabitə kanalı ilə məlumatın ötürülməsi hansı kommunikasiyanın xüsusiyyətidir?",
+      "wrong": ["təcrübi", "tətbiqi", "praqmatik", "semantik"],
+      "correct": "texniki"
+    },
+    {
+      "number": 309,
+      "body": "Kommunikativ situasiyanın komponentlərinə daxil olanları seçin: 1) kommunikativ niyyət 2) nitqin mövzusu 3) imic 4) nitq adresatının obrazı 5) akademik nailiyyət",
+      "wrong": ["3, 4, 5", "2, 3, 4", "1, 2, 3", "1, 2, 5"],
+      "correct": "1, 2, 4"
+    },
+    {
+      "number": 310,
+      "body": "Verilənlərdən biri imicin texnoloji funksiyalarına aid deyil:",
+      "wrong": [
+        "Ən yaxşı şəxsi-işgüzar keyfiyyətlərin qabardılması",
+        "Neqativ xüsusiyyətlərin kölgədə qoyulması",
+        "Diqqətin cəlb edilməsi.",
+        "Şəxsiyyətlərarası adaptasiya (uyğunlaşma)."
+      ],
+      "correct": "Psixoterapevtik funksiya."
+    },
+    {
+      "number": 311,
+      "body": "Verilənlərdən biri qazanılmış keyfiyyətlərin tərkibinə aiddir:",
+      "wrong": ["kommunikabellilik", "intellekt", "xarizma", "refleksivlik"],
+      "correct": "mənəvi dəyərlər və keyfiyyətlər"
+    },
+    {
+      "number": 312,
+      "body": "Verilənlərdən biri imicin tərkib hissələrini özündə əks etdirmir:",
+      "wrong": [
+        "insanın maddiləşmiş imici",
+        "verbal imic",
+        "kinetik imic",
+        "mental imic"
+      ],
+      "correct": "korporativ imic"
+    },
+    {
+      "number": 313,
+      "body": "\"Cansız əşyalara, əmtəəyə, ticarət markasına, dövri nəşrlərə, radio və televiziya proqramlarına və s.tətbiq edilən obrazdır\". Verilən xüsusiyyət obyektinə görə imicin hansı növünə aiddir?",
+      "wrong": ["Milli imic", "Korporativ imic", "Peşəkar imic", "Şəxsi imic"],
+      "correct": "Maddi imic"
+    },
+    {
+      "number": 314,
+      "body": "Hansılar imicin dəyər funksiyalarına aid deyil: 1) səxsiyyətin yüksəldilməsi 2) şəxslərarası münasibətlərin komfortlaşdırılması 3) şəxslərarası adaptasiya (uyğunlaşma) 4) diqqətin cəlb edilməsi 5) psixoterapevtik funksiya",
+      "wrong": ["1, 2", "2, 5", "1, 5", "1, 4"],
+      "correct": "3, 4"
+    },
+    {
+      "number": 315,
+      "body": "Hansılar imicin xarakterinə görə növləridir? 1) pozitiv imic; 2) kinetik imic; 3) mental imic; 4) neqativ imic; 5) verbal imic.",
+      "wrong": ["2, 3", "4, 5", "2, 5", "3, 5"],
+      "correct": "1, 4"
+    },
+    {
+      "number": 316,
+      "body": "İmicin zahiri görünüşə aid elementlərindən biri yanlışdır:",
+      "wrong": [
+        "saç düzümü, makiyaj, ümumi baxım",
+        "şəxsi aksesuarlar",
+        "zahiri və fizioloji xüsusiyyətlər",
+        "geyim və ayaqqabı"
+      ],
+      "correct": "xarizma"
+    },
+    {
+      "number": 317,
+      "body": "İmicin strukturuna aid olan elementlərdən biri yanlışdır:",
+      "wrong": [
+        "peşəkar xüsusiyyətlər",
+        "zahiri görünüş",
+        "qazanılmış keyfiyyətlər və davranış normaları",
+        "təbii xüsusiyyətlər"
+      ],
+      "correct": "şəxsi xüsusiyyətlər"
+    },
+    {
+      "number": 318,
+      "body": "Biri obyektinə görə imic növlərinə aid edilə bilməz:",
+      "wrong": ["peşəkar imic", "şəxsi imic", "milli imic", "korporativ imic"],
+      "correct": "pozitiv imic"
+    },
+    {
+      "number": 319,
+      "body": "Biri imicin təbii xüsusiyyətlərinə aid deyil:",
+      "wrong": ["intellekt", "xarizma", "kommunikabellilik", "intuisiya"],
+      "correct": "zahiri görünüş"
+    },
+    {
+      "number": 320,
+      "body": "İlk təəssürat dedikdə, nə başa düşülür? Yanlış cavabı göstərin:",
+      "wrong": ["qamət", "geyim", "vizual kontakt", "əlvermə"],
+      "correct": "səliqəsizlik"
+    },
+    {
+      "number": 321,
+      "body": "\"Kənardan baxış üçün xarakterik olan imic variantıdır\". Verilən xüsusiyyət imicin hansı tipinə aiddir?",
+      "wrong": [
+        "Arzu edilən imic tipi",
+        "Korporativ imic tipi",
+        "İmicin güzgü tipi",
+        "Çoxcəhətli imic tipi"
+      ],
+      "correct": "İmicin mövcud (cari) tipi"
+    },
+    {
+      "number": 322,
+      "body": "İmicin neçə ən vacib elementi var?",
+      "wrong": ["4", "3", "2", "5"],
+      "correct": "6"
+    },
+    {
+      "number": 323,
+      "body": "İmicin tərkib hissələrinə aid edilmir:",
+      "wrong": [
+        "kinetik imic",
+        "maddiləşmiş imic",
+        "verbal imic",
+        "zahiri imic"
+      ],
+      "correct": "qeyri-müəyyən imic"
+    },
+    {
+      "number": 324,
+      "body": "\"Vahid korporasiyanın əvəzinə bir sıra müstəqil strukturların mövcudluğunda formalaşan imic variantıdır\". Verilən fikir aiddir:",
+      "wrong": [
+        "imicin mövcud (cari) tipi",
+        "korporativ imic tipi",
+        "arzu edilən imic tipi",
+        "imicin güzgü tipi"
+      ],
+      "correct": "çoxcəhətli imic tipi"
+    },
+    {
+      "number": 325,
+      "body": "Biri imicin qazanılmış keyfiyyətlərinin tərkibinə aid deyil:",
+      "wrong": [
+        "nitq mədəniyyəti və nitq etiketi",
+        "psixi sağlamlıq",
+        "davranış tərzi və mədəniyyəti",
+        "mənəvi dəyərlər və keyfiyyətlər"
+      ],
+      "correct": "kommunikabellilik"
+    },
+    {
+      "number": 326,
+      "body": "“...şəxsiyyətin təhsil, tərbiyə və həyat təcrübəsi sayəsində qazandığı xüsusiyyətlərdir”. Göstərilən fikir aiddir:",
+      "wrong": [
+        "təbii xüsusiyyətlər",
+        "peşəkar xüsusiyyətlər",
+        "zahiri görünüş",
+        "korporativ imic"
+      ],
+      "correct": "qazanılmış keyfiyyətlər"
+    },
+    {
+      "number": 327,
+      "body": "Biri imicin tərkib hissəsi olan zahiri görünüş elementlərinə aid deyil:",
+      "wrong": [
+        "şəxsi aksesuarlar",
+        "zahiri və fizioloji xüsusiyyətlər",
+        "geyim və ayaqqabı",
+        "saç düzümü, makiyaj, ümumi baxım"
+      ],
+      "correct": "refleksivlik"
+    },
+    {
+      "number": 328,
+      "body": "Biri intonasiyanın funksiyalarına aid deyil:",
+      "wrong": [
+        "delimitativ (hüdudlandırıcı) funksiya",
+        "apelyativ funksiya",
+        "emosional-ekspressiv funksiya",
+        "kommunikativ funksiya"
+      ],
+      "correct": "fəlsəfi funksiya"
+    },
+    {
+      "number": 329,
+      "body": "Qeyri-verbal ünsiyyət vasitələrinin xüsusiyyətlərinə hansılar aid deyil?",
+      "wrong": [
+        "Verbal ünsiyyəti tamamlayır.",
+        "Ayrı-ayrı sözləri əvəzləyir.",
+        "Pauzaları əvəzləyir.",
+        "Nitqin məzmununu təsdiq və yaxud inkar edir."
+      ],
+      "correct": "Adresatla əlaqə qurulmasını çətinləşdirir."
+    },
+    {
+      "number": 330,
+      "body": "\"İntonasiya vasitəsi ilə danışanın emosional vəziyyəti əks olunmaqla yanaşı, habelə nitqin məzmununa və adresata münasibət öz ifadəsinə tapır\". Söhbət intonasiyanın hansı funksiyasından gedir?",
+      "wrong": [
+        "kommunikativ funksiya",
+        "delimitativ (hüdudlandırıcı) funksiya",
+        "kulminitiv (ayırıcı) funksiya",
+        "apelyativ funksiya"
+      ],
+      "correct": "emosional-ekspressiv funksiya"
+    },
+    {
+      "number": 331,
+      "body": "Sağ, sol, yuxarı, aşağı, irəli, geri mənalarını bildirən jestlər aiddir:",
+      "wrong": ["təsvirləyən", "simvolik", "ritmik", "emosional"],
+      "correct": "səmtləyici"
+    },
+    {
+      "number": 332,
+      "body": "Ünsiyyət vasitələri neçə qrupa ayrılır?",
+      "wrong": ["5", "6", "3", "4"],
+      "correct": "2"
+    },
+    {
+      "number": 333,
+      "body": "Hansı fikir səhvdir?",
+      "wrong": [
+        "Şifahi ədəbi dilin leksikasında hamıya aydın, ümumişlək sözlərə geniş yer verilir.",
+        "Ədəbi dilin şifahi formasında cümlələr, əsasən, qısa və quruluşca sadə olur.",
+        "Yazılı nitqin ifadə vasitələri hərf və yazı, şifahi nitqin ifadə vasitələri səs və sözdür.",
+        "Yazılı nitqdə həmsöhbətlə əks əlaqə olmur."
+      ],
+      "correct": "Yazılı ədəbi dilin tempi sürətli, şifahi ədəbi dilin tempi isə aşağıdır, zəifdir."
+    },
+    {
+      "number": 334,
+      "body": "Məruzənin əsas hissəsində nədən danışılır?",
+      "wrong": [
+        "Müvafiq təkliflər söylənilir.",
+        "Araşdırmalara yekun vurulur.",
+        "Qarşıya qoyulan məqsədə çatmaq üçün hansı yollardan, üsullardan istifadə edildiyi göstərilir.",
+        "Mövzunun aktuallığından danışılır."
+      ],
+      "correct": "Görülən işin məzmunundan bəhs olunur, münasibət bildirilir."
+    },
+    {
+      "number": 335,
+      "body": "Mühazirə nə zaman effektli olur?",
+      "wrong": [
+        "Auditoriyanın reaksiyasına əhəmiyyət verməsin.",
+        "Elmi xarakter daşımamalıdır.",
+        "Nitqi sürətli olsun.",
+        "Mimika və jestlərsiz danışsın."
+      ],
+      "correct": "Lektor ona yaxşı hazırlaşsın, nəyi, necə, harada deməyi bacarsın, şərhi auditoriyanın səviyyəsinə uyğun qurulsun."
+    },
+    {
+      "number": 336,
+      "body": "Monoloji nitqin növlərinə daxil deyil:",
+      "wrong": ["çıxış", "məruzə", "mühazirə", "məlumat"],
+      "correct": "dialoq"
+    },
+    {
+      "number": 337,
+      "body": "Nitqin dialoji forması nə adlanır?",
+      "wrong": ["mübarizə", "mühazirə", "mübahisə", "diskussiya"],
+      "correct": "mükalimə"
+    },
+    {
+      "number": 338,
+      "body": "Dialoji nitqlə bağlı verilənlərdən biri yanlışdır:",
+      "wrong": [
+        "Həmsöhbətlərdən birinin ifadə etdiyi fikir digəri tərəfindən qavranılır.",
+        "Burada danışan, daha doğrusu, fikri ifadə edən şəxs əvvəlcə daxilən öz-özünə düşünür, sonra isə xarici nitqə keçir, demək istədiyini sözlə ifadə edir.",
+        "Müəyyən situasiyada iki və daha artıq şəxs arasında bir-birini izləyən, növbələşən canlı ünsiyyət, danışıqdır.",
+        "Fikri qəbul edən əvvəlcə dinləyir, sonra düşünür, daxili nitqdən xarici nitqə keçərək müsahibinə müvafiq cavab verir."
+      ],
+      "correct": "Burada söhbətə öncədən hazırlıq görülür."
+    },
+    {
+      "number": 339,
+      "body": "Nitqlə bağlı söylənilənlərdən biri yanlışdır:",
+      "wrong": [
+        "İnsanlar arasında dil vasitəsilə həyata keçirilən fikir mübadiləsi və ünsiyyət prosesidir.",
+        "Fərdin yaradıcılıq fəaliyyətidir, vərdişidir.",
+        "Tarixi səciyyə daşıyır.",
+        "Dil normalarına əsaslanır."
+      ],
+      "correct": "Ünsiyyət vasitəsidir."
+    },
+    {
+      "number": 340,
+      "body": "Rəsmi və ictimai tədbirlərdə edilən məruzə ətrafında dinləyicilərin öz fikrini, münasibətlərini bildirməsidir. Verilən fikir aiddir:",
+      "wrong": ["məruzə", "nitq", "mühazirə", "məlumat"],
+      "correct": "çıxış"
+    },
+    {
+      "number": 341,
+      "body": "Məruzəyə aid olan variantı göstərin:",
+      "wrong": [
+        "Auditoriyaya təsir göstərilməsi üstünlük təşkil edir.",
+        "Öyrədici əhəmiyyətə malikdir.",
+        "Dinləyicilərdə müzakirə edilən məsələyə maraq oyatmaq vəzifəsi daşıyır.",
+        "Üç əsas məqsədi var: təhsil, maarifləndirmə, tərbiyə."
+      ],
+      "correct": "İmprovizələrə və kənaraçıxmalara yol verilmir."
+    },
+    {
+      "number": 342,
+      "body": "Verilənlərdən biri yazılı nitqə aid deyil:",
+      "wrong": [
+        "Birinci həmsöhbətlə əks əlaqə olmur.",
+        "Elmi, texniki, siyasi və digər terminlər daha çox işlədilir.",
+        "Bu nitqin ifadə vasitələri hərf və yazıdır.",
+        "Mürəkkəb cümlələrə daha geniş yer verilir."
+      ],
+      "correct": "Müəyyən vasitə olmadan bu və ya digər fikri gələcək nəslə çatdıra bilmir."
+    },
+    {
+      "number": 343,
+      "body": "Elmi müəssisələr sistemində, beynəlxalq konfrans, simpozium, treninq və s. edilən məruzələr, çıxışlar, verilən elmi məlumatlar hansı natiqliyə aid edilir?",
+      "wrong": [
+        "ekran nitqi",
+        "məhkəmə natiqliyi",
+        "ictimai-siyasi nitq",
+        "ictimai-məişət natiqliyi"
+      ],
+      "correct": "akademik natiqlik"
+    },
+    {
+      "number": 344,
+      "body": "Biri çıxışın effektli olmasına aid edilmir:",
+      "wrong": [
+        "Yığcam olsun, çox vaxt aparmasın.",
+        "Sözlər, cümlələr aydın, hamının eşidə biləcəyi bir səs tonu ilə tələffüz edilsin.",
+        "Deyilənlərdə ardıcıllıq və rabitəlilik gözlənilsin.",
+        "Danışan müzakirə olunan mövzuundan kənara çıxmasın."
+      ],
+      "correct": "Loru və tüfeyli sözlərə, ifadələrə, şivə tələffüzünə və s. geniş yer verilsin."
+    },
+    {
+      "number": 345,
+      "body": "Hansı nitq akademik natiqliyə aid deyil:",
+      "wrong": [
+        "Elmi məlumat vermə (elmi hesabat)",
+        "Ali məktəblərdə mühazirə oxumaq",
+        "Dissertasiya müdafiəsi çıxışı zamanı elmi rəy",
+        "Elmi mövzuda mübahisə"
+      ],
+      "correct": "Siyasi mövzuda məruzələr"
+    },
+    {
+      "number": 346,
+      "body": "Müəllimlərin nitqi natiqliyin hansı sahəsinə aiddir?",
+      "wrong": ["bədii", "işgüzar", "siyasi", "inzibati-idarə"],
+      "correct": "akademik"
+    },
+    {
+      "number": 347,
+      "body": "Çıxışların effektiv olması üçün qarşıya qoyulan tələblərə aid deyil:",
+      "wrong": [
+        "Məruzədə və ya əvvəlki çıxışlardakılar təkrar edilməsin.",
+        "Deyilənlərdə ardıcıllıq və rabitəlilik gözlənilsin.",
+        "Loru və tüfeyli sözlərə, ifadələrə, şivə tələffüzünə və s. yolverilməsin.",
+        "Yığcam olsun, çox vaxt aparmasın."
+      ],
+      "correct": "Danışan müzakirə olunan mövzuundan kənara çıxsın."
+    },
+    {
+      "number": 348,
+      "body": "Monoloji nitqin növlərinə aid deyil: 1. mühazirə 2. məruzə 3. mübahisə 4. çıxış 5. debat",
+      "wrong": ["4, 5", "3, 4", "1, 2", "2, 3"],
+      "correct": "3, 5"
+    },
+    {
+      "number": 349,
+      "body": "Monoloji nitqin növlərinə aiddir: 1. mühazirə 2. məruzə 3. mübahisə 4. çıxış 5. debat",
+      "wrong": ["1, 2, 3", "1, 4, 5", "3, 4, 5", "2, 3, 4"],
+      "correct": "1, 2, 4"
+    },
+    {
+      "number": 350,
+      "body": "Verilənlərdən biri mühazirəyə aid deyil:",
+      "wrong": [
+        "Üç əsas məqsədi var: təhsil, maarifləndirmə, tərbiyə.",
+        "Öyrədici əhəmiyyətə malikdir.",
+        "Mətni şifahi söz yaradıcılığının qanunlarına əsasən qurulur.",
+        "Dəqiq müəyyən edilmiş məqsədə malikdir və biliklərin geniş yayılması formasıdır."
+      ],
+      "correct": "İsbat edilən ideyanı formalaşdıran müddəa olub, faktların müəyyən şərhini təklif edir."
+    },
+    {
+      "number": 351,
+      "body": "Verilənlərdən biri monoloji nitqin formalarına aid deyil:",
+      "wrong": ["mühazirə", "məlumat", "məruzə", "çıxış"],
+      "correct": "replika"
+    },
+    {
+      "number": 352,
+      "body": "Bu nitq xüsusi hazırlıq olmadan bədahətən söylənilmiş nitqdir:",
+      "wrong": ["replika", "dialoji", "məlumat", "poliloji"],
+      "correct": "spontan"
+    },
+    {
+      "number": 353,
+      "body": "Latın dilindəndən göürülüb və mənası «gözlənilmədən» deməkdir:",
+      "wrong": ["tezis", "çıxış", "məruzə", "mühazirə"],
+      "correct": "improvizə"
+    },
+    {
+      "number": 354,
+      "body": "Biri monoloji nitqin növlərinə aid deyil:",
+      "wrong": ["nitq", "məruzə", "mühazirə", "çıxış"],
+      "correct": "mübahisə"
+    },
+    {
+      "number": 355,
+      "body": "Monoloji nitqin xüsusiyyətlərindən biri səhv göstərilmişdir:",
+      "wrong": [
+        "Dialoji nitqlə müqayisədə struktur baxımından sadədir.",
+        "Danışan deyəcəklərini əvvəlcədən düşünür, ifadə edəcəyi fikrin həcmini, xarakterini müəyyənləşdirir.",
+        "Təşkil olunmuş, proqramlaşdırılmış nitqdir.",
+        "Məqsəd nitqin əsas kommunikativ növlərindən istifadə etməklə hər hansı bir məzmunun başqasına çatdırılmasıdır."
+      ],
+      "correct": "Burada danışanın müsahibi ilə əks əlaqəsi olur."
+    },
+    {
+      "number": 356,
+      "body": "Aşağıdakılardan biri dialoji nitqin xüsusiyyətlərinə aid deyil:",
+      "wrong": [
+        "Dialoji nitqi “mükalimə” də adlandırırlar.",
+        "Danışıq dili üçün səciyyəvi, yığcam nitqdir.",
+        "İki və daha artıq şəxs arasında bir-birini izləyən, növbələşən canlı ünsiyyət, danışıqdır.",
+        "Dialoji nitqdə tərəflər daha fəal olurlar."
+      ],
+      "correct": "Bu nitq formasında söhbətə öncədən hazırlıq görülür."
+    },
+    {
+      "number": 357,
+      "body": "Beynəlxalq akademik yazı haqqında fikirlərdən biri səhvdir:",
+      "wrong": [
+        "Vahid standartlar üzrə yazılmış mətndə hansı məlumatın harada olduğu əvvəlcədən bilindiyinə görə, zəruri informasiyanı tapmaq asan olur.",
+        "Bu qaydalar müəyyən nəticənin əldə edilməsinə yönəlmiş bir mexanizmidir.",
+        "Beynəlxalq akademik yazı standartları “ümumi dil” rolunu oynayır.",
+        "Fərqli ölkələrdən olan elm adamlarının yazı vasitəsilə bir-birini anlamasına yardım edir."
+      ],
+      "correct": "Beynəlxalq akademik yazı qaydaları oxuya təsir etmir."
+    },
+    {
+      "number": 358,
+      "body": "\"İsbat edilən ideyanı formalaşdıran müddəa olub, faktların müəyyən şərhini təklif edir\". Verilən xüsusiyyət aiddir:",
+      "wrong": ["məruzə", "replika", "mübahisə", "çıxış"],
+      "correct": "tezis"
+    },
+    {
+      "number": 359,
+      "body": "Biri təşkil olunmuş nitqə aid deyil:",
+      "wrong": [
+        "Təşkil olunmuş nitq deyəndə monoloji nitq nəzərdə tutulur.",
+        "Bu nitq üçün plan tutmaq, ədəbiyyat oxumaq və s. lazım gəlir.",
+        "Bu nitq üçün hazırlaşmaq lazımdır.",
+        "Əvvəlcədən planlaşdırılmış, nəzərdə tutulmuş nitqdir."
+      ],
+      "correct": "Heç bir xüsusi hazırlıq olmadan, bədahətən, sərbəst söylənilən nitqdir."
+    },
+    {
+      "number": 360,
+      "body": "Monoloji nitqin növlərindən biri səhv göstərilmişdir:",
+      "wrong": ["mühazirə", "çıxış, nitq", "məlumat", "məruzə"],
+      "correct": "diskussiya"
+    },
+    {
+      "number": 361,
+      "body": "Akademik yazı qaydalarında beynəlxalq standartlar hansı rolu oynayır?",
+      "wrong": ["təsviri oxşarlıq", "məcazilik", "təcrübi əhəmiyyət", "emal"],
+      "correct": "ümumi dil"
+    },
+    {
+      "number": 362,
+      "body": "Təlimat haqqında verilənlərdən yalnız biri doğrudur:",
+      "wrong": [
+        "Ərəb sözü olub, zaminolma, bir şəxs haqqında verilən rəydir.",
+        "İdarə, təşkilat, müəssisələrdə hər hansı bir qəbahətə görə yazılı və şifahi şəkildə qəbul edilən sənəddir.",
+        "Bir işin görülməsi üçün verilən hökm və göstərişi özündə əks etdirən sənəddir.",
+        "Malın, eksponatın və s. üstünə yapışdırılan, üzərində onun adı, tərkibi, qiyməti və s. olan mətn, yarlıqdır."
+      ],
+      "correct": "Nazirlik, baş idarə, istehsalat birlikləri tərəfindən müəyyən bir işin və ya əmrin icrası üçün hazırlanan və aidiyyəti təşkilatlara göndərilən qaydalar sistemi barədə yazılı sənəddir."
+    },
+    {
+      "number": 363,
+      "body": "Biri işgüzar sənəddir:",
+      "wrong": ["fərman", "sərəncam", "bəyanat", "nota"],
+      "correct": "rəy"
+    },
+    {
+      "number": 364,
+      "body": "Hansılar etibarnamə növü kimi düzgün göstərilmişdir? 1. birdəfəlik etibarnamə 2. daimi etibarnamə 3. xüsusi etibarnamə 4. ümumi və baş etibarnamə 5. universal etibarnamə",
+      "wrong": ["2,3,5", "1,2,5", "1,2,4", "2,4,5"],
+      "correct": "1,3,4"
+    },
+    {
+      "number": 365,
+      "body": "Vəkalətnaməyə uyğun gəlməyən cavab hansıdır?",
+      "wrong": [
+        "Verildiyi tarix göstərilir.",
+        "Vəkalətnamənin müddəti həm rəqəmlə, həm də hərflə göstərilir.",
+        "Alınan əşyanın miqdarı və ya materialın məzmunu göstərilir.",
+        "Məsul şəxsin imzası olur."
+      ],
+      "correct": "Vəkalətnamə ancaq daşınmaz əmlak üçün verilir."
+    },
+    {
+      "number": 366,
+      "body": "«… xüsusi formada tərtib edilən sənəddir. Bu, qiymətli bir əşyanı müəyyən bir təşkilatdan almaq üçün şəxsə verilən sənəd formasıdır». Söhbət hansı sənəddən gedir?",
+      "wrong": ["akt", "protokol", "arayış", "zəmanət"],
+      "correct": "vəkalətnamə"
+    },
+    {
+      "number": 367,
+      "body": "Etibarnamə nə zaman yazılır?",
+      "wrong": [
+        "qiymətli kağızların qəbulu zamanı",
+        "ticarət müqavilələri zamanı",
+        "əmək intizamı pozulduğu zaman",
+        "əmək müqaviləsi bağlanan zaman"
+      ],
+      "correct": "bir şəxsin və ya idarənin adından iş görülən zaman"
+    },
+    {
+      "number": 368,
+      "body": "Verilən xüsusiyyətlərdən biri əqdə aiddir?",
+      "wrong": [
+        "Hər hansı təşkilatın fəaliyyətini, quruluşunu müəyyən edən qanunlar toplusudur.",
+        "Malın, eksponatın və s. üstünə yapışdırılan, üzərində onun adı, tərkibi, qiyməti və s. olan mətn, yarlıqdır.",
+        "Bir şey həyata keçirmək üçün qayda və üsulla müəyyən edilən yazılı sənəddir.",
+        "Hər hansı bir işin icrasını bir tərəfin başqa bir nəfərə etibar etdiyini bildirən sənəddir."
+      ],
+      "correct": "İki tərəf arasında elə bir bağlamadır ki, onlar həmin bağlama şərtləri daxilində nəzərdə tutulmuş şərtlərə hökmən əməl etməlidirlər."
+    },
+    {
+      "number": 369,
+      "body": "Mən, Ərtoğrul Vüsal oğlu Yusubov 2021-ci il yanvar ayının II yarısı üçün mənə çatacaq tələbə təqaüdünü almağı qrup yoldaşım Alsu Cəfərovaya etibar edirəm. İmza: Ə.Yusubov 18.02.21. Verilən nümunə hansı əməli yazı növünə aiddir?",
+      "wrong": ["nizamnamə", "məktub", "xasiyyətnamə", "annotasiya"],
+      "correct": "etibarnamə"
+    },
+    {
+      "number": 370,
+      "body": "Verilən xüsusiyyət hansı sənədə aiddir? “Bir şeyin verilməsi və ya bir işin görülməsi, yaxud bir şəxsin müəyyən adamın sərəncamına göndərilməsi haqqında rəsmi yazılı xahişdir”.",
+      "wrong": ["xasiyyətnamə", "nizamnamə", "etibarnamə", "vəkalətnamə"],
+      "correct": "tələbnamə"
+    },
+    {
+      "number": 371,
+      "body": "\"...\" ərəb mənşəli olub, bir şey həyata keçirmək üçün qayda və üsulla müəyyən edilən yazılı sənəddir. Nöqtələrin yerinə hansı sənəd növü uyğun gəlir?",
+      "wrong": ["əqd", "məqalə", "raport", "etiket"],
+      "correct": "təlimat"
+    },
+    {
+      "number": 372,
+      "body": "Xidməti və ya başqa bir işi, tapşırığı yerinə yetirmək üçün səfərə getməyi təsdiq edən sənəd növü necə adlanır?",
+      "wrong": ["raport", "zəmanət", "vəsatət", "təlimat"],
+      "correct": "ezamiyyə vərəqəsi"
+    },
+    {
+      "number": 373,
+      "body": "Əməli yazının növünü müəyyən edin: Mən, Biznes və menecment fakültəsinin II kurs tələbəsi Toğrul Həsən oğlu İmanov universitetin nəşriyyat şöbəsindən tələbələrə paylamaq üçün 50 (əlli) ədəd dərslik götürdüm. İmza: T.H.İmanov 17 avqust 2021-ci il",
+      "wrong": ["hesabat", "təliqə", "arayış", "zəmanət"],
+      "correct": "qəbz"
+    },
+    {
+      "number": 374,
+      "body": "Verilənlərdən biri annotasiyanın yazılması üçün verilən qaydalara aid deyil:",
+      "wrong": [
+        "nəşriyyatın adı, harada nəşr edilməsi, həcmi",
+        "kitabın konkret ideya məzmunu",
+        "kitabın nə məqsədlə, kimin üçün yazılması",
+        "kitab müəllifinin adı və soyadı"
+      ],
+      "correct": "kitabda verilən məlumatların geniş təhlili"
+    },
+    {
+      "number": 375,
+      "body": "“Latın sözü olub, tapşırıq mənasını verir və təqdim edənin bu və ya digər vəkalətini təsdiq edən sənədin adını daşıyır”. Söhbət hansı sənəddən gedir?",
+      "wrong": ["hesabat", "protokol", "təlimat", "arayış"],
+      "correct": "mandat"
+    },
+    {
+      "number": 376,
+      "body": "“Zəmanət” sözü mənşəyi hansı dilə məxsusdur?",
+      "wrong": ["fars", "latın", "yunan", "türk"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 377,
+      "body": "Verilən nümunə hansı sənədə aiddir? Mən, Azərbaycan Dövlət İqtisad Universitetinin Maliyyə-kredit fakültəsinin I kurs tələbəsi Fərhad Salman oğlu Məlikov «Təhsil» nəşriyyatından 100 ədəd döş nişanı və 50 ədəd «Maliyyə uçotu» dərsliyini aldığıma görə imza edirəm. F.Məlikov",
+      "wrong": ["akt", "arayış", "etiket", "əqd"],
+      "correct": "qaimə"
+    },
+    {
+      "number": 378,
+      "body": "\"...\" ərəb mənşəli olub “dayanan, ayaq üstə duran, mövcud olan, birinin yerini tutan, yerinə keçən və s. mənalarda işlənir. Nöqtələrin yerinə hansı sənəd növü uyğun gəlir?",
+      "wrong": ["əqd", "məqalə", "təqdimat", "etiket"],
+      "correct": "qaimə"
+    },
+    {
+      "number": 379,
+      "body": "“Layihə” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["alman", "fars", "yunan", "türk"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 380,
+      "body": "Ərəb sözü olub, hər hansı sənədin, qərarın, prosesin əvvəlcədən yazılmış təxmini mətninin mənasını özündə ehtiva edir. Verilən fikir hansı sənədə aiddir?",
+      "wrong": ["etibarnamə", "bildiriş", "protokol", "arayış"],
+      "correct": "layihə"
+    },
+    {
+      "number": 381,
+      "body": "Verilən nümunə hansı sənədə aiddir? ... Azərbaycan Neft-Kimya Birliyinin rəhbərliyi birliyin kollektivinə yaşayış binası tikmək üçün torpaq sahəsi ayrılmasını Sizdən xahiş edir. Baş direktor: Ə.X.Məmmədov",
+      "wrong": ["protokol", "xəbərdarlıq", "əqd", "izahat"],
+      "correct": "təliqə"
+    },
+    {
+      "number": 382,
+      "body": "Ərəb mənşəli olub, hərfi mənası “əlaqə” sözündəndir. İdarə və müəssisə arasında olan rəsmi yazışmadır. Verilən fikir hansı sənədə aiddir?",
+      "wrong": ["etiket", "arayış", "protokol", "tərcümeyi-hal"],
+      "correct": "təliqə"
+    },
+    {
+      "number": 383,
+      "body": "“Annotasiya” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["ərəb", "fransız", "fars", "türk"],
+      "correct": "latın"
+    },
+    {
+      "number": 384,
+      "body": "“Təlimat” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["fars", "latın", "türk", "rus"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 385,
+      "body": "Fransız sözü olub hərbi xidmətçinin rütbəcə özündən böyük şəxsə verdiyi şifahi və ya yazılı məlumat mənasını verir. Söhbət hansı sənəddən gedir?",
+      "wrong": ["qaimə", "akt", "təlimat", "hesabat"],
+      "correct": "raport"
+    },
+    {
+      "number": 386,
+      "body": "Verilən xüsusiyyətlərdən biri mandata aiddir:",
+      "wrong": [
+        "“Şükür” sözündən olub, yaxşı bir işə görə razılıq, minnətdarlıq etmək mənasındadır.",
+        "Ərəb mənşəli olub, iki hissədən ibarətdir: mü – qarşılıqlı, qövl – isə söz, sözləşmə, razılaşma mənasındadır.",
+        "Hər hansı bir iş və hadisəni qanuniləşdirib, hüquqi sənəd statusu verməkdir.",
+        "Fransız sözü olub, malın, eksponatın və s. üstünə yapışdırılan, üzərində onun adı, tərkibi, qiyməti və s. olan mətn, yarlıqdır."
+      ],
+      "correct": "Latın sözü olub, tapşırıq mənasını verir və təqdim edənin bu və ya digər vəkalətini təsdiq edən sənədin adını daşıyır."
+    },
+    {
+      "number": 387,
+      "body": "Biz sizin idarədən 2020-ci ilin yanvarından dekabrına qədər şifrələri almağı öz işçimiz İlahə Zeynalovaya etibar edirik. Bizim hesab nömrəmiz -76453879, Bakı ş., Yasamal rayon Mənzil-Təsərrüfat bankı. İ.Zeynalovanın şəxsiyyət vəsiqəsi: P-JQ N-685436, 6 sentyabr 2003-cü ildə Bakı ş. Nərimanov RİK-nin DİŞ-i tərəfindən verilib... Verilən nümunə hansı sənədə aiddir?",
+      "wrong": ["xasiyyətnamə", "müqavilə", "tərcümeyi-hal", "annotasiya"],
+      "correct": "vəkalətnamə"
+    },
+    {
+      "number": 388,
+      "body": "Verilmiş fikir hansı əməli yazı nümunəsinə aiddir? Latın sözü olub “məruzə etmək, məlumat vermək” mənalarını ifadə edir, əsasən elmi əsərin, oxunmuş kitabın və s. şifahi və yazılı qısa məzmunu, xülasəsi mənasında işlədilir.",
+      "wrong": ["məktub", "təqdimat", "reklam", "bildiriş"],
+      "correct": "referat"
+    },
+    {
+      "number": 389,
+      "body": "Verilmiş xüsusiyyətlər hansı əməli yazı növünə aiddir? 1. Ünvan, şəxsin adı, soyadı dəqiq və düzgün olmalıdır. 2. Məzmunu yığcam, aydın və mənalı yazılmalıdır. 3. Mətndə ikimənalı, təhrif olunmuş söz olmamalıdır. 4. Rəqəmlər, adətən, hərflə yazılmalıdır.",
+      "wrong": ["etiket", "xasiyyətnamə", "protokol", "təqdimat"],
+      "correct": "teleqram"
+    },
+    {
+      "number": 390,
+      "body": "Hansı əməli yazı nümunəsinin tərtibi aşağıdakılardan ibarət olur? 1. başlıq 2. ümumi məzmun 3. nəticə 4. imza və tarix",
+      "wrong": ["elan", "reklam", "bildiriş", "annotasiya"],
+      "correct": "rəy"
+    },
+    {
+      "number": 391,
+      "body": "Verilən nümunə hansı əməli yazı növünə aiddir? Ərəbcə “fikir, mülahizə, söz” mənasındadır. Başlıq, ümumi məzmun, nəticə, imza və tarix olmalıdır. Əsər, tamaşa, kinofilm və s. haqqında təhlil, tənqid səciyyəli ola bilər.",
+      "wrong": ["təqdimata", "izahata", "arayışa", "etibarnaməyə"],
+      "correct": "rəyə"
+    },
+    {
+      "number": 392,
+      "body": "Azərbaycan Dövlət İqtisad Universitetinin doktorantı Aliyə Əhmədova dissertasiya işini tamamlayıb öz elmi rəhbərinə təqdim etmişdir. Onun elmi rəhbərinin dissertasiya haqqında fikirləri öz əksini hansı əməli yazı növündə tapmışdır?",
+      "wrong": ["izahat", "təqdimat", "protokol", "annotasiya"],
+      "correct": "rəy"
+    },
+    {
+      "number": 393,
+      "body": "Verilmiş xüsusiyyətlər hansı əməli yazı növünə aiddir? 1. Başlığı: Nəyə və kimə verilməsi göstərilir və səhifənin ortasında sənədin adı yazılır. 2. Ümumi məzmunu: Bu və ya digər bir faktın həm müsbət, həm də mənfi cəhətləri təhlil olunur. 3. Nəticəsi: İrəli sürülən təklif və tövsiylər bir neçə cümlə ilə ifdə edilir və s.",
+      "wrong": ["izahat", "təlimat", "akt", "protokol"],
+      "correct": "rəy"
+    },
+    {
+      "number": 394,
+      "body": "\"Rəy\" sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["latın", "yunan", "fransız", "türk"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 395,
+      "body": "Verilmiş nümunə əməli yazının hansı növünə aiddir? Mirzə Şəfi Vazeh. Nəğmələr. Bakı, “Şərq-Qərb”, 2004, 96 səh. Bu kitabda Mirzə Şəfinin ana dilindəki şeirləri, farsca əsərlərinin orijinalı və sətri tərcümələri verilmişdir.",
+      "wrong": ["hesabat", "təqdimat", "izahat", "zəmanət"],
+      "correct": "annotasiya"
+    },
+    {
+      "number": 396,
+      "body": "“Qiymətli bir əşyanı müəyyən bir təşkilatdan almaq üçün şəxsə verilən sənəd formasıdır». Söhbət hansı sənəddən gedir?",
+      "wrong": ["zəmanət", "nizamnamə", "ezamiyyə vərəqi", "xasiyyətnamə"],
+      "correct": "vəkalətnamə"
+    },
+    {
+      "number": 397,
+      "body": "Verilən xüsusiyyət hansı sənəd növünə aiddir? Ərəb mənşəli olub, bir şey həyata keçirmək üçün qayda və üsulla müəyyən edilən yazılı sənəddir.",
+      "wrong": ["hesabat", "təqdimat", "müraciət", "izahat"],
+      "correct": "təlimat"
+    },
+    {
+      "number": 398,
+      "body": "Fransız sözü olub, malın, eksponatın üstünə yapışdırılan, üzərində onun adı, tərkibi, qiyməti və s. olan mətn, yarlıqdır. Verilən fikir hansı sənədə aiddir?",
+      "wrong": ["akt", "protokol", "müqavilə", "bəyanat"],
+      "correct": "etiket"
+    },
+    {
+      "number": 399,
+      "body": "Elan haqqında verilmiş fikirlərdən yalnız biri doğrudur:",
+      "wrong": [
+        "Şəxsin öz xətti ilə yazılıb imza qoyulmalıdır.",
+        "Görülən işə aydınlıq gətirmək məqsədilə yazılır.",
+        "Sonda sədr və katib tərəfindən imzalanır.",
+        "Möhürlənir."
+      ],
+      "correct": "Bu və ya digər məlumatı insanlara qabaqcadan çatdırmaqla təşkiledici missiya yerinə yetirir."
+    },
+    {
+      "number": 400,
+      "body": "Elanla bağlı verilmiş fikirlərdən biri yanlışdır:",
+      "wrong": [
+        "Məlumatın mahiyyəti, məzmunu aydın qeyd olunmalıdır.",
+        "Məlumatın vaxtı, saatı dəqiq göstərilməlidir.",
+        "Məlumatın kim tərəfindən verilməsi göstərilməlidir.",
+        "Tədbirin keçiriləcəyi yer qeyd edilməlidir."
+      ],
+      "correct": "Şəxsin öz xətti ilə yazılmalıdır."
+    }
+  ]
+}

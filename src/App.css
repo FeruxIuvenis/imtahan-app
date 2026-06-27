@@ -1,0 +1,92 @@
+#center {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    place-content: center;
+    place-items: center;
+    flex-grow: 1;
+
+    @media (max-width: 1024px) {
+        padding: 32px 20px 24px;
+        gap: 18px;
+    }
+}
+
+.app-header {
+    display: flex;
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    margin: 32px;
+    align-items: center;
+    width: 100%;
+    text-align: left;
+    min-height: 32px;
+    max-height: 64px;
+}
+
+.app-main {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    overflow-y: scroll;
+    width: 100%;
+    max-width: 1000px;
+    max-height: 600px;
+    padding: 0 32px;
+}
+
+.option-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 16px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  background: transparent;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s ease;
+}
+
+.option-btn:hover {
+  border-color: #aaa;
+  background: #343434;
+}
+
+.option-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  font-weight: 600;
+  font-size: 13px;
+  flex-shrink: 0;
+  transition: all 0.15s ease;
+}
+
+.option-text {
+  font-size: 14px;
+  color: #fff;
+}
+
+/* Selected state */
+.option-btn.selected {
+  border-color: #4f46e5;
+  background: #eef2ff;
+}
+
+.option-btn.selected .option-label {
+  background: #4f46e5;
+  border-color: #4f46e5;
+}
+
+.option-btn.selected .option-text {
+  color: #4f46e5;
+  font-weight: 500;
+}
