@@ -1,7 +1,13 @@
 import { useState, useMemo } from "react";
 import "./App.css";
 import Question from "./components/question/Question";
-import { questions as questionsData } from "./assets/questions.json";
+import { questions as alqoQuestions } from "./assets/alqo.json";
+import { questions as adiakQuestions } from "./assets/adiak.json";
+
+const QUESTION_SETS = {
+  adiak: adiakQuestions,
+  alqo: alqoQuestions,
+};
 
 function shuffleOptions(q) {
   const options = [...q.wrong, q.correct].sort(() => Math.random() - 0.5);
@@ -13,6 +19,7 @@ function shuffleArray(arr) {
 }
 
 function App() {
+  const [questionSet, setQuestionSet] = useState("adiak");
   const [range, setRange] = useState("1-700");
   const [count, setCount] = useState(50);
   const [answers, setAnswers] = useState({});
@@ -22,6 +29,7 @@ function App() {
   const questions = useMemo(() => {
     const [min, max] = range.split("-").map(Number);
     const limit = Number(count);
+    const questionsData = QUESTION_SETS[questionSet];
 
     return shuffleArray(
       questionsData.filter((q) => q.number >= min && q.number <= max),
@@ -59,6 +67,16 @@ function App() {
     return (
       <div id="center">
         <header className="app-header">
+          <section className="filter">
+            <label>Question Set</label>
+            <select
+              value={questionSet}
+              onChange={(e) => setQuestionSet(e.target.value)}
+            >
+              <option value="adiak">Adiak</option>
+              <option value="alqo">Alqo</option>
+            </select>
+          </section>
           <section className="filter">
             <label>Question Range</label>
             <input
