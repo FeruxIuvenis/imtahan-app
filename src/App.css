@@ -70,6 +70,7 @@
   transition: all 0.15s ease;
 }
 
+
 .option-text {
   font-size: 14px;
   color: #fff;
@@ -89,4 +90,31 @@
 .option-btn.selected .option-text {
   color: #4f46e5;
   font-weight: 500;
+}
+
+.option-btn.selected {
+  border-color: #4a90e2;
+  background-color: #e8f0fb;
+  color: #1a3a6b;
+}
+
+.option-btn.correct {
+  border-color: #2e7d32;
+  background-color: #e8f5e9;
+  color: #1b5e20 !important;
+}
+
+.option-btn.wrong {
+  border-color: #c62828;
+  background-color: #ffebee;
+  color: #7f0000 !important;
+}
+
+
+.option-btn.correct .option-text {
+    color: black !important;
+}
+
+.option-btn.wrong .option-text {
+    color: black !important;
 }
