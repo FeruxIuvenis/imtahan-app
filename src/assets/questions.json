@@ -1,8 +1,8 @@
-[
-  {
-    "id": 1,
-    "body": "n artdıqca, hansı funksiya ən yavaş böyüyür?",
-    "questions": {
+{
+  "questions": [
+    {
+      "number": 1,
+      "body": "n artdıqca, hansı funksiya ən yavaş böyüyür?",
       "wrong": [
         "2^n",
         "n",
@@ -10,12 +10,10 @@
         "n!"
       ],
       "correct": "log n"
-    }
-  },
-  {
-    "id": 2,
-    "body": "\"Kiçik omeqa\" (Little omega) notasiyası nədir?",
-    "questions": {
+    },
+    {
+      "number": 2,
+      "body": "\"Kiçik omeqa\" (Little omega) notasiyası nədir?",
       "wrong": [
         "Səhv (bug)",
         "Sabit",
@@ -23,12 +21,10 @@
         "Ciddi yuxarı hədd"
       ],
       "correct": "Ciddi aşağı hədd"
-    }
-  },
-  {
-    "id": 3,
-    "body": "\"Kiçik o\" (Little o) notasiyası nədir?",
-    "questions": {
+    },
+    {
+      "number": 3,
+      "body": "\"Kiçik o\" (Little o) notasiyası nədir?",
       "wrong": [
         "Boş aşağı hədd",
         "Dəqiq hədd",
@@ -36,12 +32,10 @@
         "Rekursiv hədd"
       ],
       "correct": "Ciddi yuxarı hədd"
-    }
-  },
-  {
-    "id": 4,
-    "body": "Big Theta (Theta) nə vaxt istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 4,
+      "body": "Big Theta (Theta) nə vaxt istifadə olunur?",
       "wrong": [
         "Yalnız ən yaxşı hal üçün",
         "Yalnız ən pis hal üçün",
@@ -49,12 +43,10 @@
         "Kod uğursuz olduqda"
       ],
       "correct": "O və Omega eyni olduqda"
-    }
-  },
-  {
-    "id": 5,
-    "body": "f(n) = Omega(g(n)) nəyi ifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 5,
+      "body": "f(n) = Omega(g(n)) nəyi ifadə edir?",
       "wrong": [
         "f(n) g(n)-dən daha yavaş böyüyür",
         "f(n) həmişə g(n)-ə bərabərdir",
@@ -62,12 +54,10 @@
         "g(n) sıfırdır"
       ],
       "correct": "f(n) ən azı g(n) qədər sürətlə böyüyür"
-    }
-  },
-  {
-    "id": 6,
-    "body": "Əgər f(n) = O(g(n)) olarsa, g(n) nədir?",
-    "questions": {
+    },
+    {
+      "number": 6,
+      "body": "Əgər f(n) = O(g(n)) olarsa, g(n) nədir?",
       "wrong": [
         "Təsadüfi ədəd",
         "Dəqiq qiymət",
@@ -75,12 +65,10 @@
         "Sabit"
       ],
       "correct": "Asimptotik yuxarı hədd"
-    }
-  },
-  {
-    "id": 7,
-    "body": "Big Theta simvolu hansıdır?",
-    "questions": {
+    },
+    {
+      "number": 7,
+      "body": "Big Theta simvolu hansıdır?",
       "wrong": [
         "Omega",
         "Lambda",
@@ -88,12 +76,10 @@
         "O"
       ],
       "correct": "Theta"
-    }
-  },
-  {
-    "id": 8,
-    "body": "Big Omega simvolu hansıdır?",
-    "questions": {
+    },
+    {
+      "number": 8,
+      "body": "Big Omega simvolu hansıdır?",
       "wrong": [
         "Theta",
         "Sigma",
@@ -101,12 +87,10 @@
         "O"
       ],
       "correct": "Omega"
-    }
-  },
-  {
-    "id": 9,
-    "body": "Hansı notasiya \"Dəqiq Hədd\"i (Tight Bound) təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 9,
+      "body": "Hansı notasiya \"Dəqiq Hədd\"i (Tight Bound) təmsil edir?",
       "wrong": [
         "Kiçik omeqa",
         "Big Omega (Omega)",
@@ -114,12 +98,10 @@
         "Kiçik o"
       ],
       "correct": "Big Theta (Theta)"
-    }
-  },
-  {
-    "id": 10,
-    "body": "Hansı notasiya \"Aşağı Hədd\"i təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 10,
+      "body": "Hansı notasiya \"Aşağı Hədd\"i təmsil edir?",
       "wrong": [
         "Gamma",
         "Delta",
@@ -127,12 +109,10 @@
         "Big Theta (Theta)"
       ],
       "correct": "Big Omega (Omega)"
-    }
-  },
-  {
-    "id": 11,
-    "body": "Hansı notasiya \"Yuxarı Hədd\"i təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 11,
+      "body": "Hansı notasiya \"Yuxarı Hədd\"i təmsil edir?",
       "wrong": [
         "Beta",
         "Big Theta (Theta)",
@@ -140,12 +120,10 @@
         "Alpha"
       ],
       "correct": "Big O (O)"
-    }
-  },
-  {
-    "id": 12,
-    "body": "\"Yuxarı Hədd\" (Upper Bound) nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 12,
+      "body": "\"Yuxarı Hədd\" (Upper Bound) nə deməkdir?",
       "wrong": [
         "Minimum limit",
         "Xəta kodu",
@@ -153,12 +131,10 @@
         "Tam orta"
       ],
       "correct": "Funksiyanın maksimum limiti"
-    }
-  },
-  {
-    "id": 13,
-    "body": "Asimptotik Notasiyaların məqsədi nədir?",
-    "questions": {
+    },
+    {
+      "number": 13,
+      "body": "Asimptotik Notasiyaların məqsədi nədir?",
       "wrong": [
         "Printeri təmir etmək",
         "Oyun oynamaq",
@@ -166,12 +142,10 @@
         "Veb sayt dizayn etmək"
       ],
       "correct": "Alqoritmləri artım templərinə görə təsnif etmək"
-    }
-  },
-  {
-    "id": 14,
-    "body": "n ölçülü massivin məkan mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 14,
+      "body": "n ölçülü massivin məkan mürəkkəbliyi nədir?",
       "wrong": [
         "O(1)",
         "O(log n)",
@@ -179,12 +153,10 @@
         "O(n^2)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 15,
-    "body": "Əgər n-i ikiqat artırsanız və vaxt dörd dəfə artarsa, mürəkkəblik ehtimal ki:",
-    "questions": {
+    },
+    {
+      "number": 15,
+      "body": "Əgər n-i ikiqat artırsanız və vaxt dörd dəfə artarsa, mürəkkəblik ehtimal ki:",
       "wrong": [
         "O(2^n)",
         "O(1)",
@@ -192,12 +164,10 @@
         "O(log n)"
       ],
       "correct": "O(n^2)"
-    }
-  },
-  {
-    "id": 16,
-    "body": "Sıralanmamış massivdə maksimumu tapmağın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 16,
+      "body": "Sıralanmamış massivdə maksimumu tapmağın mürəkkəbliyi nədir?",
       "wrong": [
         "O(log n)",
         "O(2^n)",
@@ -205,12 +175,10 @@
         "O(1)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 17,
-    "body": "Bunlardan hansı \"Polinomial\" mürəkkəblikdir?",
-    "questions": {
+    },
+    {
+      "number": 17,
+      "body": "Bunlardan hansı \"Polinomial\" mürəkkəblikdir?",
       "wrong": [
         "O(2^n)",
         "O(3^n)",
@@ -218,12 +186,10 @@
         "O(n!)"
       ],
       "correct": "O(n^k)"
-    }
-  },
-  {
-    "id": 18,
-    "body": "Alqoritmlərdə \"Eksponensial artım\" nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 18,
+      "body": "Alqoritmlərdə \"Eksponensial artım\" nə deməkdir?",
       "wrong": [
         "Vaxt eyni qalır",
         "Vaxt təsadüfidir",
@@ -231,12 +197,10 @@
         "Vaxt xətt kimi böyüyür"
       ],
       "correct": "Hər əlavə girişlə vaxt ikiqat artır"
-    }
-  },
-  {
-    "id": 19,
-    "body": "f(n) = 5n^3 + 2n^2 + 100 funksiyasının mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 19,
+      "body": "f(n) = 5n^3 + 2n^2 + 100 funksiyasının mürəkkəbliyi nədir?",
       "wrong": [
         "O(100)",
         "O(n^2)",
@@ -244,12 +208,10 @@
         "O(1)"
       ],
       "correct": "O(n^3)"
-    }
-  },
-  {
-    "id": 20,
-    "body": "\"Amortizasiya edilmiş analiz\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 20,
+      "body": "\"Amortizasiya edilmiş analiz\" nədir?",
       "wrong": [
         "Məlumat bazasını silmək",
         "Ən pis tək addımı tapmaq",
@@ -257,12 +219,10 @@
         "Disk sahəsini ölçmək"
       ],
       "correct": "Bir ardıcıllıq üzrə əməliyyat başına düşən vaxtın ortalamasını tapmaq"
-    }
-  },
-  {
-    "id": 21,
-    "body": "\"Brute Force\" alqoritmləri üçün hansı mürəkkəblik xarakterikdir?",
-    "questions": {
+    },
+    {
+      "number": 21,
+      "body": "\"Brute Force\" alqoritmləri üçün hansı mürəkkəblik xarakterikdir?",
       "wrong": [
         "O(n)",
         "O(n log n)",
@@ -270,12 +230,10 @@
         "O(log n)"
       ],
       "correct": "O(2^n) və ya O(n!)"
-    }
-  },
-  {
-    "id": 22,
-    "body": "\"Asimptotik analiz\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 22,
+      "body": "\"Asimptotik analiz\" nədir?",
       "wrong": [
         "Binar kodu təhlil etmək",
         "Tək bir girişi test etmək",
@@ -283,12 +241,10 @@
         "PC-nin çəkisini ölçmək"
       ],
       "correct": "Giriş ölçüsü sonsuzluğa yaxınlaşdıqda davranışın öyrənilməsi"
-    }
-  },
-  {
-    "id": 23,
-    "body": "O(log n) niyə çox effektivdir?",
-    "questions": {
+    },
+    {
+      "number": 23,
+      "body": "O(log n) niyə çox effektivdir?",
       "wrong": [
         "Yalnız kiçik n üçündür",
         "Heç vaxt dayanmır",
@@ -296,12 +252,10 @@
         "Kiçik bir sözdür"
       ],
       "correct": "n artdıqca çox yavaş böyüyür"
-    }
-  },
-  {
-    "id": 24,
-    "body": "Big O-da sabitlərlə (məsələn, O(2n)) nə baş verir?",
-    "questions": {
+    },
+    {
+      "number": 24,
+      "body": "Big O-da sabitlərlə (məsələn, O(2n)) nə baş verir?",
       "wrong": [
         "Kvadrat yüksəldilir",
         "Məcburidir",
@@ -309,12 +263,10 @@
         "Toplanır"
       ],
       "correct": "Onlara məhəl qoyulmur (O(n))"
-    }
-  },
-  {
-    "id": 25,
-    "body": "O(n!) necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 25,
+      "body": "O(n!) necə adlanır?",
       "wrong": [
         "Sıfır mürəkkəblik",
         "Sonsuz mürəkkəblik",
@@ -322,12 +274,10 @@
         "Xətti mürəkkəblik"
       ],
       "correct": "Faktorial mürəkkəblik"
-    }
-  },
-  {
-    "id": 26,
-    "body": "Massivdə elementə indekslə müraciət etməyin mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 26,
+      "body": "Massivdə elementə indekslə müraciət etməyin mürəkkəbliyi nədir?",
       "wrong": [
         "O(n^2)",
         "O(n!)",
@@ -335,12 +285,10 @@
         "O(log n)"
       ],
       "correct": "O(1)"
-    }
-  },
-  {
-    "id": 27,
-    "body": "Hansı artım tempi daha sürətlidir: O(n^2) və ya O(2^n)?",
-    "questions": {
+    },
+    {
+      "number": 27,
+      "body": "Hansı artım tempi daha sürətlidir: O(n^2) və ya O(2^n)?",
       "wrong": [
         "Onlar bərabərdir",
         "O(n^2)",
@@ -348,12 +296,10 @@
         "O(log n)"
       ],
       "correct": "O(2^n)"
-    }
-  },
-  {
-    "id": 28,
-    "body": "\"Orta hal\" (Average-case) analizi nədir?",
-    "questions": {
+    },
+    {
+      "number": 28,
+      "body": "\"Orta hal\" (Average-case) analizi nədir?",
       "wrong": [
         "Bütün dəyişənlərin cəmi",
         "n=0 üçün vaxt",
@@ -361,12 +307,10 @@
         "CPU-nun qiyməti"
       ],
       "correct": "Bütün mümkün girişlər üzrə gözlənilən vaxt"
-    }
-  },
-  {
-    "id": 29,
-    "body": "\"Ən yaxşı hal\" (Best-case) analizi nədir?",
-    "questions": {
+    },
+    {
+      "number": 29,
+      "body": "\"Ən yaxşı hal\" (Best-case) analizi nədir?",
       "wrong": [
         "Maksimum vaxt",
         "Ümumi vaxt",
@@ -374,12 +318,10 @@
         "Uğursuz işləmə üçün vaxt"
       ],
       "correct": "Hər hansı giriş üçün mümkün olan minimum vaxt"
-    }
-  },
-  {
-    "id": 30,
-    "body": "\"Ən pis hal\" (Worst-case) analizi nədir?",
-    "questions": {
+    },
+    {
+      "number": 30,
+      "body": "\"Ən pis hal\" (Worst-case) analizi nədir?",
       "wrong": [
         "Səhvlərə sərf olunan vaxt",
         "Bütün işləmələrin ortalaması",
@@ -387,12 +329,10 @@
         "İlk element üçün vaxt"
       ],
       "correct": "Hər hansı giriş üçün mümkün olan maksimum vaxt"
-    }
-  },
-  {
-    "id": 31,
-    "body": "Hansı daha yaxşıdır: O(n) yoxsa O(n^2)?",
-    "questions": {
+    },
+    {
+      "number": 31,
+      "body": "Hansı daha yaxşıdır: O(n) yoxsa O(n^2)?",
       "wrong": [
         "Rəngdən asılıdır",
         "O(n^2)",
@@ -400,12 +340,10 @@
         "Heç biri"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 32,
-    "body": "O(n log n) nəyi təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 32,
+      "body": "O(n log n) nəyi təmsil edir?",
       "wrong": [
         "Sabit zaman",
         "Kvadratik zaman",
@@ -413,12 +351,10 @@
         "Faktorial zaman"
       ],
       "correct": "Xətti-loqarifmik zaman"
-    }
-  },
-  {
-    "id": 33,
-    "body": "Dövr dəyişəni hər dəfə ikiqat artırsa (i *= 2), mürəkkəblik nədir?",
-    "questions": {
+    },
+    {
+      "number": 33,
+      "body": "Dövr dəyişəni hər dəfə ikiqat artırsa (i *= 2), mürəkkəblik nədir?",
       "wrong": [
         "O(2^n)",
         "O(1)",
@@ -426,12 +362,10 @@
         "O(n^2)"
       ],
       "correct": "O(log n)"
-    }
-  },
-  {
-    "id": 34,
-    "body": "İki iç-içə dövrün (n dəfə n) mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 34,
+      "body": "İki iç-içə dövrün (n dəfə n) mürəkkəbliyi nədir?",
       "wrong": [
         "O(n)",
         "O(2^n)",
@@ -439,12 +373,10 @@
         "O(1)"
       ],
       "correct": "O(n^2)"
-    }
-  },
-  {
-    "id": 35,
-    "body": "1-dən n-ə qədər tək dövrün mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 35,
+      "body": "1-dən n-ə qədər tək dövrün mürəkkəbliyi nədir?",
       "wrong": [
         "O(1)",
         "O(n!)",
@@ -452,12 +384,10 @@
         "O(n^2)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 36,
-    "body": "Əgər bir alqoritm n-dən asılı olmayaraq eyni vaxt aparırsa, bu:",
-    "questions": {
+    },
+    {
+      "number": 36,
+      "body": "Əgər bir alqoritm n-dən asılı olmayaraq eyni vaxt aparırsa, bu:",
       "wrong": [
         "O(n^2)",
         "O(n)",
@@ -465,12 +395,10 @@
         "O(n!)"
       ],
       "correct": "O(1)"
-    }
-  },
-  {
-    "id": 37,
-    "body": "Big O notasiyası nə üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 37,
+      "body": "Big O notasiyası nə üçün istifadə olunur?",
       "wrong": [
         "UI mövzusunu dəyişmək üçün",
         "PC-nin qiymətini hesablamaq üçün",
@@ -478,12 +406,10 @@
         "Dəyişənləri adlandırmaq üçün"
       ],
       "correct": "Artımın yuxarı həddini təsvir etmək üçün"
-    }
-  },
-  {
-    "id": 38,
-    "body": "Böyük girişlər üçün hansı mürəkkəblik ən sürətlidir?",
-    "questions": {
+    },
+    {
+      "number": 38,
+      "body": "Böyük girişlər üçün hansı mürəkkəblik ən sürətlidir?",
       "wrong": [
         "O(n!)",
         "O(n)",
@@ -491,12 +417,10 @@
         "O(2^n)"
       ],
       "correct": "O(1)"
-    }
-  },
-  {
-    "id": 39,
-    "body": "O(n) nəyi təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 39,
+      "body": "O(n) nəyi təmsil edir?",
       "wrong": [
         "Loqarifmik zaman",
         "Təsadüfi zaman",
@@ -504,12 +428,10 @@
         "Kubik zaman"
       ],
       "correct": "Xətti zaman"
-    }
-  },
-  {
-    "id": 40,
-    "body": "O(1) nəyi təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 40,
+      "body": "O(1) nəyi təmsil edir?",
       "wrong": [
         "Sonsuz zaman",
         "Eksponensial zaman",
@@ -517,12 +439,10 @@
         "Xətti zaman"
       ],
       "correct": "Sabit (Constant) zaman"
-    }
-  },
-  {
-    "id": 41,
-    "body": "\"Məkan Mürəkkəbliyi\" (Space Complexity) nədir?",
-    "questions": {
+    },
+    {
+      "number": 41,
+      "body": "\"Məkan Mürəkkəbliyi\" (Space Complexity) nədir?",
       "wrong": [
         "Kodun uzunluğu",
         "Kompüter korpusunun ölçüsü",
@@ -530,12 +450,10 @@
         "Diskdəki faylların sayı"
       ],
       "correct": "Alqoritm tərəfindən istifadə olunan yaddaş miqdarı"
-    }
-  },
-  {
-    "id": 42,
-    "body": "\"Zaman Mürəkkəbliyi\" (Time Complexity) nədir?",
-    "questions": {
+    },
+    {
+      "number": 42,
+      "body": "\"Zaman Mürəkkəbliyi\" (Time Complexity) nədir?",
       "wrong": [
         "Saatda göstərilən vaxt",
         "İşığın sürəti",
@@ -543,12 +461,10 @@
         "Kodun yazıldığı tarix"
       ],
       "correct": "Giriş ölçüsünə nisbətən əməliyyatların sayı"
-    }
-  },
-  {
-    "id": 43,
-    "body": "Alqoritmin \"Effektivliyi\" nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 43,
+      "body": "Alqoritmin \"Effektivliyi\" nə deməkdir?",
       "wrong": [
         "Kod sətirlərinin sayı",
         "Monitorun ölçüsü",
@@ -556,12 +472,10 @@
         "İstifadə olunan dilin adı"
       ],
       "correct": "Zaman və yaddaşdan optimal istifadə"
-    }
-  },
-  {
-    "id": 44,
-    "body": "\"Alqoritm\" termininin atası kim hesab olunur?",
-    "questions": {
+    },
+    {
+      "number": 44,
+      "body": "\"Alqoritm\" termininin atası kim hesab olunur?",
       "wrong": [
         "Alan Turinq",
         "Bill Qeyts",
@@ -569,12 +483,10 @@
         "Stiv Cobs"
       ],
       "correct": "Əl-Xarəzmi"
-    }
-  },
-  {
-    "id": 45,
-    "body": "Alqoritmin \"Diskretlik\" xüsusiyyəti nədir?",
-    "questions": {
+    },
+    {
+      "number": 45,
+      "body": "Alqoritmin \"Diskretlik\" xüsusiyyəti nədir?",
       "wrong": [
         "Davamlı bir prosesdir",
         "Gizli saxlanılır",
@@ -582,12 +494,10 @@
         "Sürüşkən nöqtəli ədədlərdən istifadə edir"
       ],
       "correct": "Ayrı-ayrı, fərqli addımlardan ibarətdir"
-    }
-  },
-  {
-    "id": 46,
-    "body": "Bunlardan hansı alqoritmi təmsil etmək yoludur?",
-    "questions": {
+    },
+    {
+      "number": 46,
+      "body": "Bunlardan hansı alqoritmi təmsil etmək yoludur?",
       "wrong": [
         "Təbii dil",
         "Proqramlaşdırma dili",
@@ -595,12 +505,10 @@
         "Psevdokod"
       ],
       "correct": "Hamısı"
-    }
-  },
-  {
-    "id": 47,
-    "body": "\"Buduqlanan\" (Branching) alqoritm nədir?",
-    "questions": {
+    },
+    {
+      "number": 47,
+      "body": "\"Buduqlanan\" (Branching) alqoritm nədir?",
       "wrong": [
         "Şəbəkə topologiyası",
         "Avadanlıq arxitekturası",
@@ -608,12 +516,10 @@
         "Sərt disk növü"
       ],
       "correct": "Seçim/Şərt strukturunun digər adı"
-    }
-  },
-  {
-    "id": 48,
-    "body": "\"Alqoritm Analizi\" nəyə fokuslanır?",
-    "questions": {
+    },
+    {
+      "number": 48,
+      "body": "\"Alqoritm Analizi\" nəyə fokuslanır?",
       "wrong": [
         "Tərtibatçının adı",
         "Proqram təminatının qiyməti",
@@ -621,12 +527,10 @@
         "Şərhlərin sayı"
       ],
       "correct": "Effektivlik və resurs istehlakı"
-    }
-  },
-  {
-    "id": 49,
-    "body": "\"Hevristik\" (Heuristic) alqoritm nədir?",
-    "questions": {
+    },
+    {
+      "number": 49,
+      "body": "\"Hevristik\" (Heuristic) alqoritm nədir?",
       "wrong": [
         "Həmişə mükəmməl cavabı tapan metod",
         "Çeşidləmə texnikası",
@@ -634,12 +538,10 @@
         "Heç vaxt bitməyən dövr"
       ],
       "correct": "\"Kifayət qədər yaxşı\" həlli tez tapan metod"
-    }
-  },
-  {
-    "id": 50,
-    "body": "\"Zaman-Yaddaş Mübadiləsi\" (Time-Memory Trade-off) nədir?",
-    "questions": {
+    },
+    {
+      "number": 50,
+      "body": "\"Zaman-Yaddaş Mübadiləsi\" (Time-Memory Trade-off) nədir?",
       "wrong": [
         "Vaxta qənaət üçün yaddaşdan istifadə etməmək",
         "Yalnız CPU istifadə etmək",
@@ -647,12 +549,10 @@
         "Yerə qənaət üçün kodu silmək"
       ],
       "correct": "Daha çox yaddaş istifadə edərək zaman sərfiyyatını azaltmaq"
-    }
-  },
-  {
-    "id": 51,
-    "body": "Modul proqramlaşdırma nədir?",
-    "questions": {
+    },
+    {
+      "number": 51,
+      "body": "Modul proqramlaşdırma nədir?",
       "wrong": [
         "Yalnız bir uzun funksiyadan istifadə etmək",
         "Kompüter korpusunu dizayn etmək",
@@ -660,12 +560,10 @@
         "Məntiqsiz proqramlaşdırma"
       ],
       "correct": "Proqramı ayrı-ayrı müstəqil vahidlərə bölmək"
-    }
-  },
-  {
-    "id": 52,
-    "body": "Kompilyator (Compiler) nədir?",
-    "questions": {
+    },
+    {
+      "number": 52,
+      "body": "Kompilyator (Compiler) nədir?",
       "wrong": [
         "Kod yazan şəxs",
         "Siçan drayveri",
@@ -673,12 +571,10 @@
         "Korlanmış avadanlığı təmir edir"
       ],
       "correct": "Bütün mənbə kodunu maşın koduna tərcümə edir"
-    }
-  },
-  {
-    "id": 53,
-    "body": "İnterpretator (Interpreter) nədir?",
-    "questions": {
+    },
+    {
+      "number": 53,
+      "body": "İnterpretator (Interpreter) nədir?",
       "wrong": [
         "Bütün proqramı birbaşa tərcümə edir",
         "Şəbəkə kabeli",
@@ -686,12 +582,10 @@
         "Məlumatları bazada saxlayır"
       ],
       "correct": "Kodu sətir-sətir tərcümə və icra edir"
-    }
-  },
-  {
-    "id": 54,
-    "body": "Blok-sxemlərdə emal və ya hesablama üçün hansı fiqur istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 54,
+      "body": "Blok-sxemlərdə emal və ya hesablama üçün hansı fiqur istifadə olunur?",
       "wrong": [
         "Romb",
         "Oval",
@@ -699,12 +593,10 @@
         "Paraleloqram"
       ],
       "correct": "Düzbucaqlı"
-    }
-  },
-  {
-    "id": 55,
-    "body": "Məntiqi xəta nədir?",
-    "questions": {
+    },
+    {
+      "number": 55,
+      "body": "Məntiqi xəta nədir?",
       "wrong": [
         "Klaviatura sönür",
         "Kod çox qısadır",
@@ -712,12 +604,10 @@
         "Kompüter çökür"
       ],
       "correct": "Proqram işləyir, lakin yanlış nəticə verir"
-    }
-  },
-  {
-    "id": 56,
-    "body": "Sintaksis (Syntax) xətası nədir?",
-    "questions": {
+    },
+    {
+      "number": 56,
+      "body": "Sintaksis (Syntax) xətası nədir?",
       "wrong": [
         "Məntiqdə səhv",
         "Avadanlıq nasazlığı",
@@ -725,12 +615,10 @@
         "Silinmiş fayl"
       ],
       "correct": "Dilin qaydalarında səhv"
-    }
-  },
-  {
-    "id": 57,
-    "body": "\"Yuxarıdan aşağı\" (Top-down) dizayn nədir?",
-    "questions": {
+    },
+    {
+      "number": 57,
+      "body": "\"Yuxarıdan aşağı\" (Top-down) dizayn nədir?",
       "wrong": [
         "Yalnız dövrlərdən istifadə etmək",
         "Koddan başlayıb plan qurmaq",
@@ -738,12 +626,10 @@
         "Əvvəlcə avadanlığı dizayn etmək"
       ],
       "correct": "Böyük bir problemi daha kiçik alt-problemlərə bölmək"
-    }
-  },
-  {
-    "id": 58,
-    "body": "Alqoritmin \"Effektivliyi\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 58,
+      "body": "Alqoritmin \"Effektivliyi\" nədir?",
       "wrong": [
         "Ən son GPU-dan istifadə edir",
         "Rəngarəng istifadəçi interfeysi var",
@@ -751,12 +637,10 @@
         "Python-da yazılıb"
       ],
       "correct": "Addımlar bir insan tərəfindən edilə biləcək qədər sadədir"
-    }
-  },
-  {
-    "id": 59,
-    "body": "Blok-sxemdə Romb nəyi təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 59,
+      "body": "Blok-sxemdə Romb nəyi təmsil edir?",
       "wrong": [
         "Giriş",
         "Bağlayıcı",
@@ -764,12 +648,10 @@
         "Hesablama"
       ],
       "correct": "Qərar (Şərt)"
-    }
-  },
-  {
-    "id": 60,
-    "body": "\"Təkrar\" və ya \"Dövr\" (Loop) strukturu nədir?",
-    "questions": {
+    },
+    {
+      "number": 60,
+      "body": "\"Təkrar\" və ya \"Dövr\" (Loop) strukturu nədir?",
       "wrong": [
         "Addımın yalnız bir dəfə icra edilməsi",
         "Sənədin çap edilməsi",
@@ -777,12 +659,10 @@
         "Növbəti avadanlığa keçid"
       ],
       "correct": "Addımların bir neçə dəfə icra edilməsi"
-    }
-  },
-  {
-    "id": 61,
-    "body": "\"Seçim\" (Selection) strukturu nədir?",
-    "questions": {
+    },
+    {
+      "number": 61,
+      "body": "\"Seçim\" (Selection) strukturu nədir?",
       "wrong": [
         "Addımları sabit ardıcıllıqla icra etmək",
         "Addımları 10 dəfə təkrar etmək",
@@ -790,12 +670,10 @@
         "Proqramı bağlamaq"
       ],
       "correct": "Şərt əsasında qərar qəbul etmək"
-    }
-  },
-  {
-    "id": 62,
-    "body": "Psevdokod (Pseudocode) nədir?",
-    "questions": {
+    },
+    {
+      "number": 62,
+      "body": "Psevdokod (Pseudocode) nədir?",
       "wrong": [
         "Veb brauzer",
         "Binar kod",
@@ -803,12 +681,10 @@
         "Xüsusi avadanlıq drayveri"
       ],
       "correct": "Alqoritmləri təsvir etmək üçün mətn əsaslı qeyri-rəsmi dil"
-    }
-  },
-  {
-    "id": 63,
-    "body": "Alqoritmdə \"Ardıcıllıq\" (Sequence) strukturu nədir?",
-    "questions": {
+    },
+    {
+      "number": 63,
+      "body": "Alqoritmdə \"Ardıcıllıq\" (Sequence) strukturu nədir?",
       "wrong": [
         "Fərqli bir addıma keçid",
         "Proqramın dayandırılması",
@@ -816,12 +692,10 @@
         "Addımlar toplusunun təkrarlanması"
       ],
       "correct": "Addımların bir-birinin ardınca yerinə yetirilməsi"
-    }
-  },
-  {
-    "id": 64,
-    "body": "Hansı xüsusiyyət alqoritmin bir sinif problemi həll etməsi deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 64,
+      "body": "Hansı xüsusiyyət alqoritmin bir sinif problemi həll etməsi deməkdir?",
       "wrong": [
         "Mürəkkəblik",
         "Sonluluq",
@@ -829,12 +703,10 @@
         "Effektivlik"
       ],
       "correct": "Ümumilik (Kütləvilik)"
-    }
-  },
-  {
-    "id": 65,
-    "body": "Alqoritmlərdə \"Determinizm\" nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 65,
+      "body": "Alqoritmlərdə \"Determinizm\" nə deməkdir?",
       "wrong": [
         "Alqoritm heç vaxt bitmir",
         "Çox yaddaş istifadə edir",
@@ -842,12 +714,10 @@
         "Alqoritm çox sürətlidir"
       ],
       "correct": "Hər bir addım unikal və aydın şəkildə müəyyən edilmişdir"
-    }
-  },
-  {
-    "id": 66,
-    "body": "Blok-sxemin əsas məqsədi nədir?",
-    "questions": {
+    },
+    {
+      "number": 66,
+      "body": "Blok-sxemin əsas məqsədi nədir?",
       "wrong": [
         "Kodu kompilyasiya etmək",
         "İnternetə qoşulmaq",
@@ -855,12 +725,10 @@
         "Məlumatları saxlamaq"
       ],
       "correct": "Alqoritmin addımlarını vizuallaşdırmaq"
-    }
-  },
-  {
-    "id": 67,
-    "body": "Giriş və çıxış üçün hansı blok-sxem fiquru istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 67,
+      "body": "Giriş və çıxış üçün hansı blok-sxem fiquru istifadə olunur?",
       "wrong": [
         "Düzbucaqlı",
         "Üçbucaq",
@@ -868,12 +736,10 @@
         "Romb"
       ],
       "correct": "Paraleloqram"
-    }
-  },
-  {
-    "id": 68,
-    "body": "Blok-sxemdə başlanğıcı/sonu hansı fiqur təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 68,
+      "body": "Blok-sxemdə başlanğıcı/sonu hansı fiqur təmsil edir?",
       "wrong": [
         "Çevrə",
         "Romb",
@@ -881,12 +747,10 @@
         "Paraleloqram"
       ],
       "correct": "Oval"
-    }
-  },
-  {
-    "id": 69,
-    "body": "Alqoritmin \"Giriş\" (Input) xüsusiyyəti nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 69,
+      "body": "Alqoritmin \"Giriş\" (Input) xüsusiyyəti nə deməkdir?",
       "wrong": [
         "C++ dilində kodlanmalıdır",
         "Hər addım aydın olmalıdır",
@@ -894,12 +758,10 @@
         "Effektiv olmalıdır"
       ],
       "correct": "Başlanğıc məlumatı kimi sıfır və ya daha çox kəmiyyət qəbul edir"
-    }
-  },
-  {
-    "id": 70,
-    "body": "Hansı xüsusiyyət alqoritmin müəyyən addımlardan sonra dayanmasını təmin edir?",
-    "questions": {
+    },
+    {
+      "number": 70,
+      "body": "Hansı xüsusiyyət alqoritmin müəyyən addımlardan sonra dayanmasını təmin edir?",
       "wrong": [
         "Çıxış",
         "Giriş",
@@ -907,12 +769,10 @@
         "Determinizm"
       ],
       "correct": "Sonluluq (Finiteness)"
-    }
-  },
-  {
-    "id": 71,
-    "body": "Alqoritm nədir?",
-    "questions": {
+    },
+    {
+      "number": 71,
+      "body": "Alqoritm nədir?",
       "wrong": [
         "Əməliyyat sistemi",
         "Rəqəmsal yaddaş qurğusu",
@@ -920,12 +780,10 @@
         "Proqramlaşdırma dili"
       ],
       "correct": "Problemi həll etmək üçün sonlu addımlar toplusu"
-    }
-  },
-  {
-    "id": 72,
-    "body": "Ölçüsü əvvəlcədən təyin olunan struktur hansıdır?",
-    "questions": {
+    },
+    {
+      "number": 72,
+      "body": "Ölçüsü əvvəlcədən təyin olunan struktur hansıdır?",
       "wrong": [
         "Hash Table",
         "Queue",
@@ -933,12 +791,10 @@
         "Linked List"
       ],
       "correct": "Array"
-    }
-  },
-  {
-    "id": 73,
-    "body": "Hash Table-da \"Dummy\" element nə üçün lazımdır?",
-    "questions": {
+    },
+    {
+      "number": 73,
+      "body": "Hash Table-da \"Dummy\" element nə üçün lazımdır?",
       "wrong": [
         "Səhv üçün",
         "Hashing üçün",
@@ -946,12 +802,10 @@
         "Şəkil üçün"
       ],
       "correct": "Open Addressing-də silinmiş yerləri işarələmək üçün"
-    }
-  },
-  {
-    "id": 74,
-    "body": "\"Hash Map\" və \"Hash Set\" fərqi nədir?",
-    "questions": {
+    },
+    {
+      "number": 74,
+      "body": "\"Hash Map\" və \"Hash Set\" fərqi nədir?",
       "wrong": [
         "Map yavaşdır",
         "Eynidir",
@@ -959,12 +813,10 @@
         "Set yavaşdır"
       ],
       "correct": "Map key-value saxlayır, Set yalnız unikal element"
-    }
-  },
-  {
-    "id": 75,
-    "body": "\"Hash Map\" və \"Hash Set\" fərqi nədir?",
-    "questions": {
+    },
+    {
+      "number": 75,
+      "body": "\"Hash Map\" və \"Hash Set\" fərqi nədir?",
       "wrong": [
         "Map silinə bilmir",
         "Eynidir",
@@ -972,12 +824,10 @@
         "Map yavaşdır"
       ],
       "correct": "Map key-value saxlayır, Set yalnız unikal element"
-    }
-  },
-  {
-    "id": 76,
-    "body": "\"Folding method\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 76,
+      "body": "\"Folding method\" nədir?",
       "wrong": [
         "Açarı rəngləmək",
         "Açarı nömrələmək",
@@ -985,12 +835,10 @@
         "Açarı silmək"
       ],
       "correct": "Açarı hissələrə bölüb toplayaraq hash tapmaq"
-    }
-  },
-  {
-    "id": 77,
-    "body": "\"Open Addressing\" yaddaş baxımından niyə səmərəlidir?",
-    "questions": {
+    },
+    {
+      "number": 77,
+      "body": "\"Open Addressing\" yaddaş baxımından niyə səmərəlidir?",
       "wrong": [
         "Müasirdir",
         "Daha çox yer tutur",
@@ -998,12 +846,10 @@
         "Səhv tutmur"
       ],
       "correct": "Pointer-lərə ehtiyac duymur"
-    }
-  },
-  {
-    "id": 78,
-    "body": "\"Mod\" əməliyyatı nə üçün lazımdır?",
-    "questions": {
+    },
+    {
+      "number": 78,
+      "body": "\"Mod\" əməliyyatı nə üçün lazımdır?",
       "wrong": [
         "Silmək üçün",
         "Vurmaq üçün",
@@ -1011,12 +857,10 @@
         "Rəngləmək üçün"
       ],
       "correct": "Index-i cədvəl ölçüsündə saxlamaq üçün"
-    }
-  },
-  {
-    "id": 79,
-    "body": "\"Self-organizing\" Hash Table nədir?",
-    "questions": {
+    },
+    {
+      "number": 79,
+      "body": "\"Self-organizing\" Hash Table nədir?",
       "wrong": [
         "Heç biri",
         "Sorting edən",
@@ -1024,12 +868,10 @@
         "Səhv sistem"
       ],
       "correct": "Tez-tez istifadə olunanları başa gətirən sistem"
-    }
-  },
-  {
-    "id": 80,
-    "body": "\"Key\" unikal olmalıdırmı?",
-    "questions": {
+    },
+    {
+      "number": 80,
+      "body": "\"Key\" unikal olmalıdırmı?",
       "wrong": [
         "Xeyr",
         "Yalnız rəqəmdirsə",
@@ -1037,12 +879,10 @@
         "Bəzən"
       ],
       "correct": "Bəli"
-    }
-  },
-  {
-    "id": 81,
-    "body": "\"Search\", \"Insert\", \"Delete\" Hash Table-da nə qədər çəkir?",
-    "questions": {
+    },
+    {
+      "number": 81,
+      "body": "\"Search\", \"Insert\", \"Delete\" Hash Table-da nə qədər çəkir?",
       "wrong": [
         "O(n^2)",
         "O(infinity)",
@@ -1050,12 +890,10 @@
         "O(log n)"
       ],
       "correct": "O(1) orta halda"
-    }
-  },
-  {
-    "id": 82,
-    "body": "\"Amortized O(1)\" Hash Table-da nəyi ifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 82,
+      "body": "\"Amortized O(1)\" Hash Table-da nəyi ifadə edir?",
       "wrong": [
         "Həmişə yavaş",
         "Həmişə sabit",
@@ -1063,12 +901,10 @@
         "Heç vaxt işləmir"
       ],
       "correct": "Çox vaxt sabit sürət, nadirən yavaş (resize zamanı)"
-    }
-  },
-  {
-    "id": 83,
-    "body": "\"Amortized O(1)\" Hash Table-da nəyi ifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 83,
+      "body": "\"Amortized O(1)\" Hash Table-da nəyi ifadə edir?",
       "wrong": [
         "Heç vaxt işləmir",
         "Həmişə sabit",
@@ -1076,12 +912,10 @@
         "Sual yanlışdır"
       ],
       "correct": "Çox vaxt sabit sürət, nadirən yavaş (resize zamanı)"
-    }
-  },
-  {
-    "id": 84,
-    "body": "\"Deterministic\" hash funksiyası nədir?",
-    "questions": {
+    },
+    {
+      "number": 84,
+      "body": "\"Deterministic\" hash funksiyası nədir?",
       "wrong": [
         "Çox yavaş olmalıdır",
         "Hər dəfə fərqli çıxış verməlidir",
@@ -1089,12 +923,10 @@
         "Yazılmamalıdır"
       ],
       "correct": "Eyni girişə həmişə eyni çıxışı verməlidir"
-    }
-  },
-  {
-    "id": 85,
-    "body": "Hash Table-da elementlərin sırası varmı?",
-    "questions": {
+    },
+    {
+      "number": 85,
+      "body": "Hash Table-da elementlərin sırası varmı?",
       "wrong": [
         "Bəli, giriş sırası",
         "Səhv sırası",
@@ -1102,12 +934,10 @@
         "Bəli, əlifba sırası"
       ],
       "correct": "Xeyr, adətən sırasızdır"
-    }
-  },
-  {
-    "id": 86,
-    "body": "Hash Table-da elementlərin sırası varmı?",
-    "questions": {
+    },
+    {
+      "number": 86,
+      "body": "Hash Table-da elementlərin sırası varmı?",
       "wrong": [
         "Bəli, ölçü sırası",
         "Səhv sırası",
@@ -1115,12 +945,10 @@
         "Bəli, giriş sırası"
       ],
       "correct": "Xeyr, adətən sırasızdır"
-    }
-  },
-  {
-    "id": 87,
-    "body": "Hash Table \"Array\" üzərində qurulurmu?",
-    "questions": {
+    },
+    {
+      "number": 87,
+      "body": "Hash Table \"Array\" üzərində qurulurmu?",
       "wrong": [
         "Xeyr",
         "Sual səhvdir",
@@ -1128,12 +956,10 @@
         "Yalnız Java-da"
       ],
       "correct": "Bəli"
-    }
-  },
-  {
-    "id": 88,
-    "body": "Bloom Filter nədir?",
-    "questions": {
+    },
+    {
+      "number": 88,
+      "body": "Bloom Filter nədir?",
       "wrong": [
         "Hash Table-ın bir növü",
         "Sorting metodu",
@@ -1141,12 +967,10 @@
         "Fayl tipi"
       ],
       "correct": "Elementin çoxluqda olub-olmadığını yoxlayan ehtimalı struktur"
-    }
-  },
-  {
-    "id": 89,
-    "body": "\"Bucket\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 89,
+      "body": "\"Bucket\" nədir?",
       "wrong": [
         "Rəng",
         "Boş qab",
@@ -1154,12 +978,10 @@
         "Proqram adı"
       ],
       "correct": "Chaining-də eyni hash-ə malik elementlər yığını"
-    }
-  },
-  {
-    "id": 90,
-    "body": "Hash Table-ın ən böyük üstünlüyü nədir?",
-    "questions": {
+    },
+    {
+      "number": 90,
+      "body": "Hash Table-ın ən böyük üstünlüyü nədir?",
       "wrong": [
         "Rəngli olması",
         "Sıralı olması",
@@ -1167,12 +989,10 @@
         "Sadə olması"
       ],
       "correct": "Çox sürətli giriş (Constant time access)"
-    }
-  },
-  {
-    "id": 91,
-    "body": "\"Dynamic Resizing\" zamanı köhnə elementlərə nə olur?",
-    "questions": {
+    },
+    {
+      "number": 91,
+      "body": "\"Dynamic Resizing\" zamanı köhnə elementlərə nə olur?",
       "wrong": [
         "Səhv verirlər",
         "Köhnə yerdə qalırlar",
@@ -1180,12 +1000,10 @@
         "Dəyişmirlər"
       ],
       "correct": "Hamısı yeni cədvələ re-hash edilir"
-    }
-  },
-  {
-    "id": 92,
-    "body": "Hash Table-da \"Index\" necə hesablanır?",
-    "questions": {
+    },
+    {
+      "number": 92,
+      "body": "Hash Table-da \"Index\" necə hesablanır?",
       "wrong": [
         "key + table_size",
         "key * table_size",
@@ -1193,12 +1011,10 @@
         "hash(key) / table_size"
       ],
       "correct": "hash(key) % table_size"
-    }
-  },
-  {
-    "id": 93,
-    "body": "\"Cryptographic Hash Function\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 93,
+      "body": "\"Cryptographic Hash Function\" nədir?",
       "wrong": [
         "Error funksiyası",
         "Sadə mod funksiyası",
@@ -1206,12 +1022,10 @@
         "Search funksiyası"
       ],
       "correct": "Təhlükəsizlik üçün istifadə olunan (SHA-256)"
-    }
-  },
-  {
-    "id": 94,
-    "body": "\"Hash Table Overflow\" nə zaman baş verir?",
-    "questions": {
+    },
+    {
+      "number": 94,
+      "body": "\"Hash Table Overflow\" nə zaman baş verir?",
       "wrong": [
         "Heç vaxt olmur",
         "Element tapılmadıqda",
@@ -1219,12 +1033,10 @@
         "Fayl dolduqda"
       ],
       "correct": "Cədvəl tam dolduqda (Open Addressing-də)"
-    }
-  },
-  {
-    "id": 95,
-    "body": "\"Hash Table Overflow\" nə zaman baş verir?",
-    "questions": {
+    },
+    {
+      "number": 95,
+      "body": "\"Hash Table Overflow\" nə zaman baş verir?",
       "wrong": [
         "Element tapılmadıqda",
         "Funksiya işləmədikdə",
@@ -1232,12 +1044,10 @@
         "RAM bitdikdə"
       ],
       "correct": "Cədvəl tam dolduqda (Open Addressing-də)"
-    }
-  },
-  {
-    "id": 96,
-    "body": "Hash Table-ın ölçüsü (Size) niyə adətən sadə ədəd (Prime number) seçilir?",
-    "questions": {
+    },
+    {
+      "number": 96,
+      "body": "Hash Table-ın ölçüsü (Size) niyə adətən sadə ədəd (Prime number) seçilir?",
       "wrong": [
         "Daha gözəl görünmək üçün",
         "Yaddaş çox olsun deyə",
@@ -1245,12 +1055,10 @@
         "Hesablama çətin olsun deyə"
       ],
       "correct": "Collision-u azaltmaq üçün"
-    }
-  },
-  {
-    "id": 97,
-    "body": "\"Load Factor\" düsturu hansıdır?",
-    "questions": {
+    },
+    {
+      "number": 97,
+      "body": "\"Load Factor\" düsturu hansıdır?",
       "wrong": [
         "n * m",
         "n + m",
@@ -1258,12 +1066,10 @@
         "log(n)"
       ],
       "correct": "n / m (Element sayı / Slot sayı)"
-    }
-  },
-  {
-    "id": 98,
-    "body": "\"Separate Chaining\" yaddaşı necə istifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 98,
+      "body": "\"Separate Chaining\" yaddaşı necə istifadə edir?",
       "wrong": [
         "Yalnız bir dəfə",
         "Manual",
@@ -1271,12 +1077,10 @@
         "Heç istifadə etmir"
       ],
       "correct": "Dinamik (Linked List vasitəsilə)"
-    }
-  },
-  {
-    "id": 99,
-    "body": "Hash Table-da axtarış (Search) \"Worst case\"-də nə ola bilər?",
-    "questions": {
+    },
+    {
+      "number": 99,
+      "body": "Hash Table-da axtarış (Search) \"Worst case\"-də nə ola bilər?",
       "wrong": [
         "O(log n)",
         "O(1)",
@@ -1284,12 +1088,10 @@
         "O(n^2)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 100,
-    "body": "Longest Palindromic Subsequence nədir?",
-    "questions": {
+    },
+    {
+      "number": 100,
+      "body": "Longest Palindromic Subsequence nədir?",
       "wrong": [
         "Ən qısa string",
         "Boş string",
@@ -1297,12 +1099,10 @@
         "Ən böyük ədəd"
       ],
       "correct": "Tərsinə də eyni olan ən uzun alt-ardıcıllıq"
-    }
-  },
-  {
-    "id": 101,
-    "body": "DP-də \"Decision\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 101,
+      "body": "DP-də \"Decision\" nədir?",
       "wrong": [
         "Data növü",
         "Proqramın adı",
@@ -1310,12 +1110,10 @@
         "Səhv"
       ],
       "correct": "Hər state-də edilən seçim"
-    }
-  },
-  {
-    "id": 102,
-    "body": "Viterbi alqoritmi harada istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 102,
+      "body": "Viterbi alqoritmi harada istifadə olunur?",
       "wrong": [
         "Sorting",
         "Formatting",
@@ -1323,12 +1121,10 @@
         "Searching"
       ],
       "correct": "Hidden Markov Models"
-    }
-  },
-  {
-    "id": 103,
-    "body": "DP-də yaddaşa qənaət (Space Optimization) necə edilir?",
-    "questions": {
+    },
+    {
+      "number": 103,
+      "body": "DP-də yaddaşa qənaət (Space Optimization) necə edilir?",
       "wrong": [
         "Səhv tutmaqla",
         "Bütün datanı silməklə",
@@ -1336,12 +1132,10 @@
         "Gözləməklə"
       ],
       "correct": "Yalnız əvvəlki sətirləri saxlamaqla"
-    }
-  },
-  {
-    "id": 104,
-    "body": "DP-də \"Base Case\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 104,
+      "body": "DP-də \"Base Case\" nədir?",
       "wrong": [
         "Proqramın sonu",
         "Kablo növü",
@@ -1349,12 +1143,10 @@
         "Səhv mesajı"
       ],
       "correct": "Problemin ən sadə, cavabı məlum olan halı"
-    }
-  },
-  {
-    "id": 105,
-    "body": "Partition Problem nədir?",
-    "questions": {
+    },
+    {
+      "number": 105,
+      "body": "Partition Problem nədir?",
       "wrong": [
         "Çoxluğu kopyalamaq",
         "Çoxluğu silmək",
@@ -1362,12 +1154,10 @@
         "Birləşdirmək"
       ],
       "correct": "Çoxluğu cəmi bərabər iki hissəyə bölmək"
-    }
-  },
-  {
-    "id": 106,
-    "body": "Longest Increasing Subsequence (LIS) nədir?",
-    "questions": {
+    },
+    {
+      "number": 106,
+      "body": "Longest Increasing Subsequence (LIS) nədir?",
       "wrong": [
         "Səhv siyahı",
         "Boş string",
@@ -1375,12 +1165,10 @@
         "Ən böyük ədəd"
       ],
       "correct": "Ən uzun artan alt-ardıcıllıq"
-    }
-  },
-  {
-    "id": 107,
-    "body": "DP alqoritmləri adətən \"Table\" istifadə edirmi?",
-    "questions": {
+    },
+    {
+      "number": 107,
+      "body": "DP alqoritmləri adətən \"Table\" istifadə edirmi?",
       "wrong": [
         "Sual səhvdir",
         "Yalnız sorting-də",
@@ -1388,12 +1176,10 @@
         "Yalnız searching-də"
       ],
       "correct": "Bəli"
-    }
-  },
-  {
-    "id": 108,
-    "body": "Optimal Binary Search Tree nəyi optimallaşdırır?",
-    "questions": {
+    },
+    {
+      "number": 108,
+      "body": "Optimal Binary Search Tree nəyi optimallaşdırır?",
       "wrong": [
         "Ağacın rəngini",
         "Kökün adını",
@@ -1401,12 +1187,10 @@
         "Datanın növünü"
       ],
       "correct": "Axtarışın orta zamanını"
-    }
-  },
-  {
-    "id": 109,
-    "body": "DP-də \"Subproblem\" nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 109,
+      "body": "DP-də \"Subproblem\" nə deməkdir?",
       "wrong": [
         "Fayl adı",
         "Yeni problem",
@@ -1414,12 +1198,10 @@
         "Proqramın adı"
       ],
       "correct": "Problemin daha kiçik versiyası"
-    }
-  },
-  {
-    "id": 110,
-    "body": "Bitmask DP nə üçün lazımdır?",
-    "questions": {
+    },
+    {
+      "number": 110,
+      "body": "Bitmask DP nə üçün lazımdır?",
       "wrong": [
         "Networking",
         "Şəkil çəkmək üçün",
@@ -1427,12 +1209,10 @@
         "Hashing üçün"
       ],
       "correct": "Kiçik çoxluqları bitlərlə təmsil edib vəziyyətləri azaltmaq üçün"
-    }
-  },
-  {
-    "id": 111,
-    "body": "\"Top-down\" yanaşmada nə istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 111,
+      "body": "\"Top-down\" yanaşmada nə istifadə olunur?",
       "wrong": [
         "Şəkil",
         "Keyboard",
@@ -1440,45 +1220,37 @@
         "Fayl"
       ],
       "correct": "Rekursiya"
-    }
-  },
-  {
-    "id": 112,
-    "body": "\"Optimal Substructure\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 112,
+      "body": "\"Optimal Substructure\" nədir?",
       "wrong": [
         "Problemin həlli olmaması",
         "Təsadüfi həll"
       ],
       "correct": "Problemin optimal həllinin alt-problemlərin optimal həllərindən ibarət olması"
-    }
-  },
-  {
-    "id": 113,
-    "body": "\"Overlapping Subproblems\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 113,
+      "body": "\"Overlapping Subproblems\" nədir?",
       "wrong": [
         "Problemlərin müstəqil olması",
         "Problemin həlli olmaması"
       ],
       "correct": "Eyni alt-problemlərin dəfələrlə qarşıya çıxması"
-    }
-  },
-  {
-    "id": 114,
-    "body": "DP-nin əsas ideyası nədir?",
-    "questions": {
+    },
+    {
+      "number": 114,
+      "body": "DP-nin əsas ideyası nədir?",
       "wrong": [
         "Hər şeyi təkrarlamaq",
         "Təsadüfi seçim"
       ],
       "correct": "Alt-problemləri bir dəfə həll edib yadda saxlamaq"
-    }
-  },
-  {
-    "id": 115,
-    "body": "\"Complete Binary Tree\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 115,
+      "body": "\"Complete Binary Tree\" nədir?",
       "wrong": [
         "Boş ağac",
         "Qara ağac",
@@ -1486,12 +1258,10 @@
         "Çox budaqlı ağac"
       ],
       "correct": "Son səviyyə istisna, bütün səviyyələri dolu ağac"
-    }
-  },
-  {
-    "id": 116,
-    "body": "\"Full Binary Tree\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 116,
+      "body": "\"Full Binary Tree\" nədir?",
       "wrong": [
         "Hər node-un 1 övladı olan ağac",
         "Yarpaqsız ağac",
@@ -1499,12 +1269,10 @@
         "Boş ağac"
       ],
       "correct": "Hər node-un 0 və ya 2 övladı olan ağac"
-    }
-  },
-  {
-    "id": 117,
-    "body": "Linked List-də \"Previous\" pointer-i harada olur?",
-    "questions": {
+    },
+    {
+      "number": 117,
+      "body": "Linked List-də \"Previous\" pointer-i harada olur?",
       "wrong": [
         "Singly Linked List-də",
         "Faylda",
@@ -1512,12 +1280,10 @@
         "Array-də"
       ],
       "correct": "Doubly Linked List-də"
-    }
-  },
-  {
-    "id": 118,
-    "body": "\"Priority\" elementin nəyini bildirir?",
-    "questions": {
+    },
+    {
+      "number": 118,
+      "body": "\"Priority\" elementin nəyini bildirir?",
       "wrong": [
         "Adını",
         "Qiymətini",
@@ -1525,12 +1291,10 @@
         "Ölçüsünü"
       ],
       "correct": "Üstünlük dərəcəsini"
-    }
-  },
-  {
-    "id": 119,
-    "body": "Fenwick Tree (Binary Indexed Tree) nə edir?",
-    "questions": {
+    },
+    {
+      "number": 119,
+      "body": "Fenwick Tree (Binary Indexed Tree) nə edir?",
       "wrong": [
         "Sorting edir",
         "Hashing edir",
@@ -1538,12 +1302,10 @@
         "Şəkil çəkir"
       ],
       "correct": "Prefix cəmlərini sürətli hesablayır"
-    }
-  },
-  {
-    "id": 120,
-    "body": "\"Depth First\" ağacda necə hərəkət edir?",
-    "questions": {
+    },
+    {
+      "number": 120,
+      "body": "\"Depth First\" ağacda necə hərəkət edir?",
       "wrong": [
         "Səviyyə üzrə",
         "Təsadüfi",
@@ -1551,12 +1313,10 @@
         "Yalnız kökdə"
       ],
       "correct": "Kökdən bir budaq üzrə sona qədər"
-    }
-  },
-  {
-    "id": 121,
-    "body": "\"Breadth First\" ağacda necə hərəkət edir?",
-    "questions": {
+    },
+    {
+      "number": 121,
+      "body": "\"Breadth First\" ağacda necə hərəkət edir?",
       "wrong": [
         "Dərinə doğru",
         "Təsadüfi",
@@ -1564,12 +1324,10 @@
         "Yalnız sağa"
       ],
       "correct": "Səviyyə-səviyyə"
-    }
-  },
-  {
-    "id": 122,
-    "body": "\"Self-referential structure\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 122,
+      "body": "\"Self-referential structure\" nədir?",
       "wrong": [
         "Səhv struktur",
         "Heç nə saxlamayan",
@@ -1577,12 +1335,10 @@
         "Başqasına bağlı olmayan"
       ],
       "correct": "Öz tipində pointer saxlayan struktur"
-    }
-  },
-  {
-    "id": 123,
-    "body": "\"Static\" struktur nədir?",
-    "questions": {
+    },
+    {
+      "number": 123,
+      "body": "\"Static\" struktur nədir?",
       "wrong": [
         "Sürətli",
         "Müasir",
@@ -1590,12 +1346,10 @@
         "Həmişə hərəkət edən"
       ],
       "correct": "Ölçüsü proqram boyu dəyişməyən"
-    }
-  },
-  {
-    "id": 124,
-    "body": "Segment Tree nə üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 124,
+      "body": "Segment Tree nə üçün istifadə olunur?",
       "wrong": [
         "Networking",
         "Sorting üçün",
@@ -1603,12 +1357,10 @@
         "Hashing üçün"
       ],
       "correct": "Aralıq sorğuları (range queries) üçün"
-    }
-  },
-  {
-    "id": 125,
-    "body": "\"Overflow\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 125,
+      "body": "\"Overflow\" nədir?",
       "wrong": [
         "RAM təmizlənməsi",
         "Datanın tapılmaması",
@@ -1616,12 +1368,10 @@
         "Səhv index"
       ],
       "correct": "Strukturun tutumundan artıq data əlavə etmək"
-    }
-  },
-  {
-    "id": 126,
-    "body": "Linked List Array-dən nə ilə fərqlənir?",
-    "questions": {
+    },
+    {
+      "number": 126,
+      "body": "Linked List Array-dən nə ilə fərqlənir?",
       "wrong": [
         "Rəng",
         "Sürət",
@@ -1629,12 +1379,10 @@
         "Yazılış dili"
       ],
       "correct": "Dinamik yaddaş və ardıcıl olmayan yerləşmə"
-    }
-  },
-  {
-    "id": 127,
-    "body": "Binary Search Tree-də silmə əməliyyatı mürəkkəbdirmi?",
-    "questions": {
+    },
+    {
+      "number": 127,
+      "body": "Binary Search Tree-də silmə əməliyyatı mürəkkəbdirmi?",
       "wrong": [
         "Sual səhvdir",
         "Yalnız yarpaqda",
@@ -1642,12 +1390,10 @@
         "Yalnız kökdə"
       ],
       "correct": "Bəli, övlad sayına görə"
-    }
-  },
-  {
-    "id": 128,
-    "body": "Disjoint Set Union (DSU) hansı əməliyyatları yerinə yetirir?",
-    "questions": {
+    },
+    {
+      "number": 128,
+      "body": "Disjoint Set Union (DSU) hansı əməliyyatları yerinə yetirir?",
       "wrong": [
         "Push və Pop",
         "Add və Sub",
@@ -1655,12 +1401,10 @@
         "Open və Close"
       ],
       "correct": "Find və Union"
-    }
-  },
-  {
-    "id": 129,
-    "body": "Stack-də LIFO-nun mənası nədir?",
-    "questions": {
+    },
+    {
+      "number": 129,
+      "body": "Stack-də LIFO-nun mənası nədir?",
       "wrong": [
         "Long In Final Out",
         "Low Input Fast Output",
@@ -1668,12 +1412,10 @@
         "Heç biri"
       ],
       "correct": "Last In First Out"
-    }
-  },
-  {
-    "id": 130,
-    "body": "\"Node\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 130,
+      "body": "\"Node\" nədir?",
       "wrong": [
         "Ekran ölçüsü",
         "Proqramın sonu",
@@ -1681,12 +1423,10 @@
         "Kablo növü"
       ],
       "correct": "Verilənlər strukturunun vahid elementi"
-    }
-  },
-  {
-    "id": 131,
-    "body": "Post-order traversal nə vaxt istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 131,
+      "body": "Post-order traversal nə vaxt istifadə olunur?",
       "wrong": [
         "Kökü tapmaq üçün",
         "Heç vaxt",
@@ -1694,12 +1434,10 @@
         "Search üçün"
       ],
       "correct": "Ağacı silmək və ya ifadələri hesablamaq üçün"
-    }
-  },
-  {
-    "id": 132,
-    "body": "Pre-order traversal hansı ardıcıllıqla gedir?",
-    "questions": {
+    },
+    {
+      "number": 132,
+      "body": "Pre-order traversal hansı ardıcıllıqla gedir?",
       "wrong": [
         "Root -> Right -> Left",
         "Left -> Root -> Right",
@@ -1707,12 +1445,10 @@
         "Right -> Root -> Left"
       ],
       "correct": "Root -> Left -> Right"
-    }
-  },
-  {
-    "id": 133,
-    "body": "Fibonacci Heap nə üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 133,
+      "body": "Fibonacci Heap nə üçün istifadə olunur?",
       "wrong": [
         "Sorting üçün",
         "Encryption",
@@ -1720,12 +1456,10 @@
         "Searching üçün"
       ],
       "correct": "Dijkstra və Prim-i sürətləndirmək üçün"
-    }
-  },
-  {
-    "id": 134,
-    "body": "\"Head\" pointer-i itərsə Linked List-ə nə olur?",
-    "questions": {
+    },
+    {
+      "number": 134,
+      "body": "\"Head\" pointer-i itərsə Linked List-ə nə olur?",
       "wrong": [
         "Siyahı kısalır",
         "Heç nə dəyişmir",
@@ -1733,12 +1467,10 @@
         "Siyahı nömrələnir"
       ],
       "correct": "Bütün siyahıya giriş itir"
-    }
-  },
-  {
-    "id": 135,
-    "body": "Queue real həyatda nəyə bənzəyir?",
-    "questions": {
+    },
+    {
+      "number": 135,
+      "body": "Queue real həyatda nəyə bənzəyir?",
       "wrong": [
         "Şəklə",
         "Çantaya",
@@ -1746,12 +1478,10 @@
         "Boşqab yığınına"
       ],
       "correct": "Kassada növbəyə"
-    }
-  },
-  {
-    "id": 136,
-    "body": "AVL Tree-də hər hansı node-da hündürlük fərqi neçədən çox ola bilməz?",
-    "questions": {
+    },
+    {
+      "number": 136,
+      "body": "AVL Tree-də hər hansı node-da hündürlük fərqi neçədən çox ola bilməz?",
       "wrong": [
         "5",
         "Sonsuz",
@@ -1759,12 +1489,10 @@
         "2"
       ],
       "correct": "1"
-    }
-  },
-  {
-    "id": 137,
-    "body": "Linked List-də axtarış zaman mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 137,
+      "body": "Linked List-də axtarış zaman mürəkkəbliyi nədir?",
       "wrong": [
         "O(log n)",
         "O(n!)",
@@ -1772,12 +1500,10 @@
         "O(1)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 138,
-    "body": "\"Data Structure\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 138,
+      "body": "\"Data Structure\" nədir?",
       "wrong": [
         "Proqramın adı",
         "Kompüterin növü",
@@ -1785,12 +1511,10 @@
         "İnternet sürəti"
       ],
       "correct": "Məlumatın yaddaşda təşkili və saxlanması forması"
-    }
-  },
-  {
-    "id": 139,
-    "body": "Binary Tree-nin hündürlüyü nədir?",
-    "questions": {
+    },
+    {
+      "number": 139,
+      "body": "Binary Tree-nin hündürlüyü nədir?",
       "wrong": [
         "Çəkilərin cəmi",
         "Tillərin sayı",
@@ -1798,12 +1522,10 @@
         "Səhifə sayı"
       ],
       "correct": "Kökdən ən uzaq yarpağa qədər olan tillərin sayı"
-    }
-  },
-  {
-    "id": 140,
-    "body": "Max-Heap-də ən böyük element haradadır?",
-    "questions": {
+    },
+    {
+      "number": 140,
+      "body": "Max-Heap-də ən böyük element haradadır?",
       "wrong": [
         "Ortada",
         "Yarpaqlarda",
@@ -1811,12 +1533,10 @@
         "Pointer-də"
       ],
       "correct": "Root-da"
-    }
-  },
-  {
-    "id": 141,
-    "body": "Deque (Double-ended queue) nədir?",
-    "questions": {
+    },
+    {
+      "number": 141,
+      "body": "Deque (Double-ended queue) nədir?",
       "wrong": [
         "Matris",
         "Tək tərəfli növbə",
@@ -1824,12 +1544,10 @@
         "Boş siyahı"
       ],
       "correct": "Hər iki tərəfdən giriş-çıxışı olan növbə"
-    }
-  },
-  {
-    "id": 142,
-    "body": "Trie strukturunda yol nəyi ifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 142,
+      "body": "Trie strukturunda yol nəyi ifadə edir?",
       "wrong": [
         "Rəngi",
         "Məsafəni",
@@ -1837,12 +1555,10 @@
         "Ədədlərin cəmini"
       ],
       "correct": "Prefix/Simvol ardıcıllığını"
-    }
-  },
-  {
-    "id": 143,
-    "body": "\"Dynamic Array\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 143,
+      "body": "\"Dynamic Array\" nədir?",
       "wrong": [
         "Rəngli massiv",
         "Sabit ölçülü massiv",
@@ -1850,12 +1566,10 @@
         "Funksiya"
       ],
       "correct": "Ölçüsü runtime-da dəyişə bilən massiv"
-    }
-  },
-  {
-    "id": 144,
-    "body": "\"Tail\" pointer-i Linked List-də haranı göstərir?",
-    "questions": {
+    },
+    {
+      "number": 144,
+      "body": "\"Tail\" pointer-i Linked List-də haranı göstərir?",
       "wrong": [
         "NULL-u",
         "İlk elementi",
@@ -1863,12 +1577,10 @@
         "Heç yeri"
       ],
       "correct": "Sonuncu elementi"
-    }
-  },
-  {
-    "id": 145,
-    "body": "Red-Black Tree-də kökün rəngi həmişə nə olmalıdır?",
-    "questions": {
+    },
+    {
+      "number": 145,
+      "body": "Red-Black Tree-də kökün rəngi həmişə nə olmalıdır?",
       "wrong": [
         "Yellow",
         "Red (Qırmızı)",
@@ -1876,12 +1588,10 @@
         "Green"
       ],
       "correct": "Black (Qara)"
-    }
-  },
-  {
-    "id": 146,
-    "body": "\"Peek\" əməliyyatı nə edir?",
-    "questions": {
+    },
+    {
+      "number": 146,
+      "body": "\"Peek\" əməliyyatı nə edir?",
       "wrong": [
         "Elementi silmək",
         "Səhv vermək",
@@ -1889,12 +1599,10 @@
         "Elementi dəyişmək"
       ],
       "correct": "Elementi silmədən üst hissəni görmək"
-    }
-  },
-  {
-    "id": 147,
-    "body": "Circular Queue-nun üstünlüyü nədir?",
-    "questions": {
+    },
+    {
+      "number": 147,
+      "body": "Circular Queue-nun üstünlüyü nədir?",
       "wrong": [
         "Pointer olmaması",
         "Sürətli axtarış",
@@ -1902,12 +1610,10 @@
         "Fayl saxlamaq"
       ],
       "correct": "Yaddaşın səmərəli istifadəsi"
-    }
-  },
-  {
-    "id": 148,
-    "body": "Stack \"Underflow\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 148,
+      "body": "Stack \"Underflow\" nədir?",
       "wrong": [
         "Səhv data tipi",
         "Stack-in dolması",
@@ -1915,12 +1621,10 @@
         "Pointer itməsi"
       ],
       "correct": "Boş stack-dən element çıxarmağa çalışmaq"
-    }
-  },
-  {
-    "id": 149,
-    "body": "Array indeksləri neçədən başlayır?",
-    "questions": {
+    },
+    {
+      "number": 149,
+      "body": "Array indeksləri neçədən başlayır?",
       "wrong": [
         "1",
         "-1",
@@ -1928,12 +1632,10 @@
         "NULL"
       ],
       "correct": "0"
-    }
-  },
-  {
-    "id": 150,
-    "body": "Priority Queue üçün ən yaxşı implementasiya hansıdır?",
-    "questions": {
+    },
+    {
+      "number": 150,
+      "body": "Priority Queue üçün ən yaxşı implementasiya hansıdır?",
       "wrong": [
         "Linked List",
         "Simple Array",
@@ -1941,12 +1643,10 @@
         "Stack"
       ],
       "correct": "Binary Heap"
-    }
-  },
-  {
-    "id": 151,
-    "body": "Suffix Tree nə üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 151,
+      "body": "Suffix Tree nə üçün istifadə olunur?",
       "wrong": [
         "Encryption üçün",
         "Math hesablama üçün",
@@ -1954,12 +1654,10 @@
         "Networking"
       ],
       "correct": "String axtarışı üçün"
-    }
-  },
-  {
-    "id": 152,
-    "body": "B-Tree ağacının dərəcəsi m olarsa, bir node-da maksimum neçə açar olar?",
-    "questions": {
+    },
+    {
+      "number": 152,
+      "body": "B-Tree ağacının dərəcəsi m olarsa, bir node-da maksimum neçə açar olar?",
       "wrong": [
         "log m",
         "m",
@@ -1967,12 +1665,10 @@
         "2m"
       ],
       "correct": "m - 1"
-    }
-  },
-  {
-    "id": 153,
-    "body": "Heap strukturunda elementlər necə sıralanır?",
-    "questions": {
+    },
+    {
+      "number": 153,
+      "body": "Heap strukturunda elementlər necə sıralanır?",
       "wrong": [
         "Sıralanmamış",
         "Əlifba sırası",
@@ -1980,12 +1676,10 @@
         "Tam sıralanmış"
       ],
       "correct": "Yarım-sıralanmış (Partial order)"
-    }
-  },
-  {
-    "id": 154,
-    "body": "AVL Tree-də balans faktoru hansı qiymətləri ala bilər?",
-    "questions": {
+    },
+    {
+      "number": 154,
+      "body": "AVL Tree-də balans faktoru hansı qiymətləri ala bilər?",
       "wrong": [
         "0, 5",
         "2, -2",
@@ -1993,12 +1687,10 @@
         "Yalnız 1"
       ],
       "correct": "-1, 0, 1"
-    }
-  },
-  {
-    "id": 155,
-    "body": "Binary Search Tree-də sağ tərəfdəki düyünlər kökdən nə olmalıdır?",
-    "questions": {
+    },
+    {
+      "number": 155,
+      "body": "Binary Search Tree-də sağ tərəfdəki düyünlər kökdən nə olmalıdır?",
       "wrong": [
         "Sıfır",
         "Kiçik",
@@ -2006,12 +1698,10 @@
         "Random"
       ],
       "correct": "Böyük"
-    }
-  },
-  {
-    "id": 156,
-    "body": "Queue-da elementin silinməsi necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 156,
+      "body": "Queue-da elementin silinməsi necə adlanır?",
       "wrong": [
         "Peek",
         "Push",
@@ -2019,12 +1709,10 @@
         "Enqueue"
       ],
       "correct": "Dequeue"
-    }
-  },
-  {
-    "id": 157,
-    "body": "Doubly Linked List-də hər node-da neçə pointer var?",
-    "questions": {
+    },
+    {
+      "number": 157,
+      "body": "Doubly Linked List-də hər node-da neçə pointer var?",
       "wrong": [
         "0",
         "4",
@@ -2032,12 +1720,10 @@
         "3"
       ],
       "correct": "2"
-    }
-  },
-  {
-    "id": 158,
-    "body": "Singly Linked List-də geriyə hərəkət mümkündürmü?",
-    "questions": {
+    },
+    {
+      "number": 158,
+      "body": "Singly Linked List-də geriyə hərəkət mümkündürmü?",
       "wrong": [
         "Yalnız sonda",
         "Bəli",
@@ -2045,12 +1731,10 @@
         "Yalnız başda"
       ],
       "correct": "Xeyr"
-    }
-  },
-  {
-    "id": 159,
-    "body": "Stack-də \"Push\" əməliyyatı nə edir?",
-    "questions": {
+    },
+    {
+      "number": 159,
+      "body": "Stack-də \"Push\" əməliyyatı nə edir?",
       "wrong": [
         "Üstü göstərir",
         "Element silir",
@@ -2058,12 +1742,10 @@
         "Siyahını təmizləyir"
       ],
       "correct": "Element əlavə edir"
-    }
-  },
-  {
-    "id": 160,
-    "body": "Binary Tree-də ən üst düyün necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 160,
+      "body": "Binary Tree-də ən üst düyün necə adlanır?",
       "wrong": [
         "Base",
         "Leaf",
@@ -2071,12 +1753,10 @@
         "Seed"
       ],
       "correct": "Root"
-    }
-  },
-  {
-    "id": 161,
-    "body": "Linked List-də data necə saxlanılır?",
-    "questions": {
+    },
+    {
+      "number": 161,
+      "body": "Linked List-də data necə saxlanılır?",
       "wrong": [
         "Bitdə",
         "Faylda",
@@ -2084,12 +1764,10 @@
         "Matrisdə"
       ],
       "correct": "Node daxilində"
-    }
-  },
-  {
-    "id": 162,
-    "body": "\"Last In First Out\" hansı strukturun prinsipidir?",
-    "questions": {
+    },
+    {
+      "number": 162,
+      "body": "\"Last In First Out\" hansı strukturun prinsipidir?",
       "wrong": [
         "File",
         "Record",
@@ -2097,12 +1775,10 @@
         "Queue"
       ],
       "correct": "Stack"
-    }
-  },
-  {
-    "id": 163,
-    "body": "\"First In First Out\" prinsipi harada keçərlidir?",
-    "questions": {
+    },
+    {
+      "number": 163,
+      "body": "\"First In First Out\" prinsipi harada keçərlidir?",
       "wrong": [
         "Stack",
         "Array",
@@ -2110,12 +1786,10 @@
         "Tree"
       ],
       "correct": "Queue"
-    }
-  },
-  {
-    "id": 164,
-    "body": "Qrafda ən qısa yolu tapmaq üçün BFS nə vaxt istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 164,
+      "body": "Qrafda ən qısa yolu tapmaq üçün BFS nə vaxt istifadə olunur?",
       "wrong": [
         "Tillər mənfi olduqda",
         "Həmişə",
@@ -2123,12 +1797,10 @@
         "Tillər çox ağır olduqda"
       ],
       "correct": "Tillərin çəkisi eyni (və ya çəkisiz) olduqda"
-    }
-  },
-  {
-    "id": 165,
-    "body": "\"Tree\" (Ağac) strukturunda neçə tsikl var?",
-    "questions": {
+    },
+    {
+      "number": 165,
+      "body": "\"Tree\" (Ağac) strukturunda neçə tsikl var?",
       "wrong": [
         "V-1",
         "1",
@@ -2136,12 +1808,10 @@
         "E"
       ],
       "correct": "0"
-    }
-  },
-  {
-    "id": 166,
-    "body": "Qrafda \"Source\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 166,
+      "body": "Qrafda \"Source\" nədir?",
       "wrong": [
         "Mərkəzi düyün",
         "Yarpaq",
@@ -2149,12 +1819,10 @@
         "Sonuncu düyün"
       ],
       "correct": "Çıxan tili çox, daxil olanı olmayan düyün"
-    }
-  },
-  {
-    "id": 167,
-    "body": "Kruskal alqoritmi hansı növ yanaşmadır?",
-    "questions": {
+    },
+    {
+      "number": 167,
+      "body": "Kruskal alqoritmi hansı növ yanaşmadır?",
       "wrong": [
         "DP",
         "Brute Force",
@@ -2162,12 +1830,10 @@
         "Backtracking"
       ],
       "correct": "Greedy"
-    }
-  },
-  {
-    "id": 168,
-    "body": "Handshaking Lemma hansı düsturla ifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 168,
+      "body": "Handshaking Lemma hansı düsturla ifadə olunur?",
       "wrong": [
         "V = E - 1",
         "V^2 = E",
@@ -2175,12 +1841,10 @@
         "V = E + 1"
       ],
       "correct": "Sum of degrees = 2E"
-    }
-  },
-  {
-    "id": 169,
-    "body": "Planar Graph nədir?",
-    "questions": {
+    },
+    {
+      "number": 169,
+      "body": "Planar Graph nədir?",
       "wrong": [
         "Tam qraf",
         "Çoxölçülü qraf",
@@ -2188,12 +1852,10 @@
         "Boş qraf"
       ],
       "correct": "Tilləri kəsişmədən müstəvidə çəkilə bilən qraf"
-    }
-  },
-  {
-    "id": 170,
-    "body": "Adjacency List-də hər bir element nədir?",
-    "questions": {
+    },
+    {
+      "number": 170,
+      "body": "Adjacency List-də hər bir element nədir?",
       "wrong": [
         "Stack",
         "Constant",
@@ -2201,12 +1863,10 @@
         "Queue"
       ],
       "correct": "Linked List"
-    }
-  },
-  {
-    "id": 171,
-    "body": "Directed qrafda tsikl yoxdursa o necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 171,
+      "body": "Directed qrafda tsikl yoxdursa o necə adlanır?",
       "wrong": [
         "Forest",
         "Tree",
@@ -2214,12 +1874,10 @@
         "Path"
       ],
       "correct": "DAG"
-    }
-  },
-  {
-    "id": 172,
-    "body": "Prim alqoritmi üçün zaman mürəkkəbliyi Priority Queue ilə nədir?",
-    "questions": {
+    },
+    {
+      "number": 172,
+      "body": "Prim alqoritmi üçün zaman mürəkkəbliyi Priority Queue ilə nədir?",
       "wrong": [
         "O(1)",
         "O(V!)",
@@ -2227,12 +1885,10 @@
         "O(E+V)"
       ],
       "correct": "O(E log V)"
-    }
-  },
-  {
-    "id": 173,
-    "body": "\"Articulated point\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 173,
+      "body": "\"Articulated point\" nədir?",
       "wrong": [
         "Mərkəzi düyün",
         "İlk düyün",
@@ -2240,12 +1896,10 @@
         "Ən kənar düyün"
       ],
       "correct": "Silindikdə qrafın parçalanmasına səbəb olan düyün"
-    }
-  },
-  {
-    "id": 174,
-    "body": "Qrafda qonşu düyünlər hansı tillə birləşir?",
-    "questions": {
+    },
+    {
+      "number": 174,
+      "body": "Qrafda qonşu düyünlər hansı tillə birləşir?",
       "wrong": [
         "Index",
         "Remote Edge",
@@ -2253,12 +1907,10 @@
         "Weight"
       ],
       "correct": "Adjacent Edge"
-    }
-  },
-  {
-    "id": 175,
-    "body": "Ford-Fulkerson alqoritmi nəyi hesablayır?",
-    "questions": {
+    },
+    {
+      "number": 175,
+      "body": "Ford-Fulkerson alqoritmi nəyi hesablayır?",
       "wrong": [
         "Min Cut",
         "Shortest Path",
@@ -2266,12 +1918,10 @@
         "Coloring"
       ],
       "correct": "Max Flow"
-    }
-  },
-  {
-    "id": 176,
-    "body": "Hamilton yolu qrafda nədən keçməlidir?",
-    "questions": {
+    },
+    {
+      "number": 176,
+      "body": "Hamilton yolu qrafda nədən keçməlidir?",
       "wrong": [
         "Hər tildən bir dəfə",
         "Yalnız kökdən",
@@ -2279,12 +1929,10 @@
         "Təsadüfi"
       ],
       "correct": "Hər düyündən bir dəfə"
-    }
-  },
-  {
-    "id": 177,
-    "body": "Euler yolu üçün düyünlərin tək dərəcəli sayı maksimum neçə ola bilər?",
-    "questions": {
+    },
+    {
+      "number": 177,
+      "body": "Euler yolu üçün düyünlərin tək dərəcəli sayı maksimum neçə ola bilər?",
       "wrong": [
         "Sonsuz",
         "0",
@@ -2292,12 +1940,10 @@
         "4"
       ],
       "correct": "2"
-    }
-  },
-  {
-    "id": 178,
-    "body": "In-degree hansı qraf növündə əhəmiyyətlidir?",
-    "questions": {
+    },
+    {
+      "number": 178,
+      "body": "In-degree hansı qraf növündə əhəmiyyətlidir?",
       "wrong": [
         "Simple Graph",
         "Bipartite",
@@ -2305,12 +1951,10 @@
         "Undirected Graph"
       ],
       "correct": "Directed Graph"
-    }
-  },
-  {
-    "id": 179,
-    "body": "Qrafda heç bir düyün əlaqəli deyilsə necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 179,
+      "body": "Qrafda heç bir düyün əlaqəli deyilsə necə adlanır?",
       "wrong": [
         "Cycle",
         "Complete Graph",
@@ -2318,12 +1962,10 @@
         "DAG"
       ],
       "correct": "Null Graph"
-    }
-  },
-  {
-    "id": 180,
-    "body": "Bipartite qrafda tsiklin uzunluğu həmişə nə olmalıdır?",
-    "questions": {
+    },
+    {
+      "number": 180,
+      "body": "Bipartite qrafda tsiklin uzunluğu həmişə nə olmalıdır?",
       "wrong": [
         "Tək ədəd",
         "1",
@@ -2331,12 +1973,10 @@
         "0"
       ],
       "correct": "Cüt ədəd"
-    }
-  },
-  {
-    "id": 181,
-    "body": "Tarjan alqoritmi nəyi tapmaq üçündür?",
-    "questions": {
+    },
+    {
+      "number": 181,
+      "body": "Tarjan alqoritmi nəyi tapmaq üçündür?",
       "wrong": [
         "Searching",
         "Sorting",
@@ -2344,12 +1984,10 @@
         "MST"
       ],
       "correct": "SCC"
-    }
-  },
-  {
-    "id": 182,
-    "body": "DFS alqoritmi üçün ən pis halda zaman mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 182,
+      "body": "DFS alqoritmi üçün ən pis halda zaman mürəkkəbliyi nədir?",
       "wrong": [
         "O(E)",
         "O(log V)",
@@ -2357,12 +1995,10 @@
         "O(1)"
       ],
       "correct": "O(V + E)"
-    }
-  },
-  {
-    "id": 183,
-    "body": "Qrafda yolun uzunluğu necə hesablanır?",
-    "questions": {
+    },
+    {
+      "number": 183,
+      "body": "Qrafda yolun uzunluğu necə hesablanır?",
       "wrong": [
         "Düyünlərin sayına görə",
         "Təsadüfi",
@@ -2370,12 +2006,10 @@
         "Rənglərin sayına görə"
       ],
       "correct": "Tillərin sayına və ya çəkilərin cəminə görə"
-    }
-  },
-  {
-    "id": 184,
-    "body": "Max-Flow Min-Cut teoremi hansı mövzuya aiddir?",
-    "questions": {
+    },
+    {
+      "number": 184,
+      "body": "Max-Flow Min-Cut teoremi hansı mövzuya aiddir?",
       "wrong": [
         "Searching",
         "Sorting",
@@ -2383,12 +2017,10 @@
         "Trees"
       ],
       "correct": "Flow Networks"
-    }
-  },
-  {
-    "id": 185,
-    "body": "Adjacency Matrix-də simmetriya hansı qraf növündə olur?",
-    "questions": {
+    },
+    {
+      "number": 185,
+      "body": "Adjacency Matrix-də simmetriya hansı qraf növündə olur?",
       "wrong": [
         "Directed Graph",
         "Weighted Graph",
@@ -2396,12 +2028,10 @@
         "DAG"
       ],
       "correct": "Undirected Graph"
-    }
-  },
-  {
-    "id": 186,
-    "body": "Johnson alqoritmi hansı məqsədlə istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 186,
+      "body": "Johnson alqoritmi hansı məqsədlə istifadə olunur?",
       "wrong": [
         "Coloring",
         "Clustering",
@@ -2409,12 +2039,10 @@
         "Max Flow"
       ],
       "correct": "All-pairs shortest paths"
-    }
-  },
-  {
-    "id": 187,
-    "body": "\"Self-loop\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 187,
+      "body": "\"Self-loop\" nədir?",
       "wrong": [
         "İki düyün arası yol",
         "Boş qraf",
@@ -2422,12 +2050,10 @@
         "Çəkili til"
       ],
       "correct": "Özünə qayıdan til"
-    }
-  },
-  {
-    "id": 188,
-    "body": "Qrafın qrafik təsvirində nöqtələr necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 188,
+      "body": "Qrafın qrafik təsvirində nöqtələr necə adlanır?",
       "wrong": [
         "Paths",
         "Edges",
@@ -2435,12 +2061,10 @@
         "Loops"
       ],
       "correct": "Vertices"
-    }
-  },
-  {
-    "id": 189,
-    "body": "Undirected Graph-da düyünlərin dərəcələri cəmi nəyə bərabərdir?",
-    "questions": {
+    },
+    {
+      "number": 189,
+      "body": "Undirected Graph-da düyünlərin dərəcələri cəmi nəyə bərabərdir?",
       "wrong": [
         "V",
         "V+E",
@@ -2448,12 +2072,10 @@
         "E"
       ],
       "correct": "2 * E"
-    }
-  },
-  {
-    "id": 190,
-    "body": "Qrafın \"Density\"si nədir?",
-    "questions": {
+    },
+    {
+      "number": 190,
+      "body": "Qrafın \"Density\"si nədir?",
       "wrong": [
         "Rənglərin sayı",
         "Yolun uzunluğu",
@@ -2461,12 +2083,10 @@
         "Çəkilərin cəmi"
       ],
       "correct": "Tillərin sayının düyünlərin mümkün tillərinə nisbəti"
-    }
-  },
-  {
-    "id": 191,
-    "body": "BFS alqoritmi qrafı hansı şəkildə gəzir?",
-    "questions": {
+    },
+    {
+      "number": 191,
+      "body": "BFS alqoritmi qrafı hansı şəkildə gəzir?",
       "wrong": [
         "Dərinlik üzrə",
         "Yalnız kökü",
@@ -2474,12 +2094,10 @@
         "Təsadüfi"
       ],
       "correct": "Səviyyə üzrə (Level-wise)"
-    }
-  },
-  {
-    "id": 192,
-    "body": "Directed Graph-da düyündən çıxan tillərin sayı nədir?",
-    "questions": {
+    },
+    {
+      "number": 192,
+      "body": "Directed Graph-da düyündən çıxan tillərin sayı nədir?",
       "wrong": [
         "Loop",
         "In-degree",
@@ -2487,12 +2105,10 @@
         "Weight"
       ],
       "correct": "Out-degree"
-    }
-  },
-  {
-    "id": 193,
-    "body": "Qrafda bütün mümkün tillər mövcuddursa bu qraf necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 193,
+      "body": "Qrafda bütün mümkün tillər mövcuddursa bu qraf necə adlanır?",
       "wrong": [
         "Null Graph",
         "Tree",
@@ -2500,12 +2116,10 @@
         "Directed Graph"
       ],
       "correct": "Complete Graph"
-    }
-  },
-  {
-    "id": 194,
-    "body": "Prim alqoritmi nəyi tapmaq üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 194,
+      "body": "Prim alqoritmi nəyi tapmaq üçün istifadə olunur?",
       "wrong": [
         "Shortest Path",
         "Coloring",
@@ -2513,12 +2127,10 @@
         "Max Flow"
       ],
       "correct": "Minimum Spanning Tree"
-    }
-  },
-  {
-    "id": 195,
-    "body": "Adjacency Matrix-də qonşu olmayan düyünlər arası dəyər neçədir?",
-    "questions": {
+    },
+    {
+      "number": 195,
+      "body": "Adjacency Matrix-də qonşu olmayan düyünlər arası dəyər neçədir?",
       "wrong": [
         "1",
         "NULL",
@@ -2526,12 +2138,10 @@
         "-1"
       ],
       "correct": "0"
-    }
-  },
-  {
-    "id": 196,
-    "body": "Qrafda düyünlər çoxluğu V, tillər çoxluğu necə işarə olunur?",
-    "questions": {
+    },
+    {
+      "number": 196,
+      "body": "Qrafda düyünlər çoxluğu V, tillər çoxluğu necə işarə olunur?",
       "wrong": [
         "P",
         "N",
@@ -2539,12 +2149,10 @@
         "W"
       ],
       "correct": "E"
-    }
-  },
-  {
-    "id": 197,
-    "body": "Bellman-Ford alqoritminin Dijkstra-dan əsas fərqi nədir?",
-    "questions": {
+    },
+    {
+      "number": 197,
+      "body": "Bellman-Ford alqoritminin Dijkstra-dan əsas fərqi nədir?",
       "wrong": [
         "Sürəti",
         "Sadəliyi",
@@ -2552,12 +2160,10 @@
         "Yaddaşı"
       ],
       "correct": "Mənfi çəkili tillərlə işləyə bilməsi"
-    }
-  },
-  {
-    "id": 198,
-    "body": "Kruskal alqoritmində tsiklləri yoxlamaq üçün hansı struktur istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 198,
+      "body": "Kruskal alqoritmində tsiklləri yoxlamaq üçün hansı struktur istifadə olunur?",
       "wrong": [
         "Simple Array",
         "Stack",
@@ -2565,12 +2171,10 @@
         "Hash Map"
       ],
       "correct": "DSU"
-    }
-  },
-  {
-    "id": 199,
-    "body": "Topological Sort hansı qraf növü üçün mümkündür?",
-    "questions": {
+    },
+    {
+      "number": 199,
+      "body": "Topological Sort hansı qraf növü üçün mümkündür?",
       "wrong": [
         "Bipartite Graph",
         "Undirected Graph",
@@ -2578,12 +2182,10 @@
         "Complete Graph"
       ],
       "correct": "DAG"
-    }
-  },
-  {
-    "id": 200,
-    "body": "Floyd-Warshall alqoritminin zaman mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 200,
+      "body": "Floyd-Warshall alqoritminin zaman mürəkkəbliyi nədir?",
       "wrong": [
         "O(log V)",
         "O(E log V)",
@@ -2591,12 +2193,10 @@
         "O(V^2)"
       ],
       "correct": "O(V^3)"
-    }
-  },
-  {
-    "id": 201,
-    "body": "Strongly Connected Component hansı qraf növünə aiddir?",
-    "questions": {
+    },
+    {
+      "number": 201,
+      "body": "Strongly Connected Component hansı qraf növünə aiddir?",
       "wrong": [
         "Complete Graph",
         "Bipartite Graph",
@@ -2604,12 +2204,10 @@
         "Undirected Graph"
       ],
       "correct": "Directed Graph"
-    }
-  },
-  {
-    "id": 202,
-    "body": "Bipartite Graph yoxlamaq üçün neçə rəng kifayətdir?",
-    "questions": {
+    },
+    {
+      "number": 202,
+      "body": "Bipartite Graph yoxlamaq üçün neçə rəng kifayətdir?",
       "wrong": [
         "1",
         "Sonsuz",
@@ -2617,12 +2215,10 @@
         "4"
       ],
       "correct": "2"
-    }
-  },
-  {
-    "id": 203,
-    "body": "Qrafda \"Bridge\" silindikdə nə baş verir?",
-    "questions": {
+    },
+    {
+      "number": 203,
+      "body": "Qrafda \"Bridge\" silindikdə nə baş verir?",
       "wrong": [
         "Heç nə dəyişmir",
         "Düyünlər silinir",
@@ -2630,12 +2226,10 @@
         "Tsikl yaranır"
       ],
       "correct": "Connected component sayı artır"
-    }
-  },
-  {
-    "id": 204,
-    "body": "Dijkstra alqoritminin əsas məqsədi nədir?",
-    "questions": {
+    },
+    {
+      "number": 204,
+      "body": "Dijkstra alqoritminin əsas məqsədi nədir?",
       "wrong": [
         "Max Flow tapmaq",
         "Sorting",
@@ -2643,12 +2237,10 @@
         "MST tapmaq"
       ],
       "correct": "Shortest Path tapmaq"
-    }
-  },
-  {
-    "id": 205,
-    "body": "DFS hansı prinsiplə işləyir?",
-    "questions": {
+    },
+    {
+      "number": 205,
+      "body": "DFS hansı prinsiplə işləyir?",
       "wrong": [
         "Priority",
         "Sorting",
@@ -2656,12 +2248,10 @@
         "Random"
       ],
       "correct": "LIFO (Stack)"
-    }
-  },
-  {
-    "id": 206,
-    "body": "BFS alqoritmində hansı köməkçi struktur istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 206,
+      "body": "BFS alqoritmində hansı köməkçi struktur istifadə olunur?",
       "wrong": [
         "Stack",
         "Tree",
@@ -2669,12 +2259,10 @@
         "Hash Table"
       ],
       "correct": "Queue"
-    }
-  },
-  {
-    "id": 207,
-    "body": "Adjacency List hansı halda Adjacency Matrix-dən daha səmərəlidir?",
-    "questions": {
+    },
+    {
+      "number": 207,
+      "body": "Adjacency List hansı halda Adjacency Matrix-dən daha səmərəlidir?",
       "wrong": [
         "Directed Graph",
         "Complete Graph",
@@ -2682,12 +2270,10 @@
         "Weighted Graph"
       ],
       "correct": "Sparse Graph"
-    }
-  },
-  {
-    "id": 208,
-    "body": "Adjacency Matrix-də qrafın ölçüsü V olarsa, matrisin ölçüsü nədir?",
-    "questions": {
+    },
+    {
+      "number": 208,
+      "body": "Adjacency Matrix-də qrafın ölçüsü V olarsa, matrisin ölçüsü nədir?",
       "wrong": [
         "V+E",
         "log V",
@@ -2695,12 +2281,10 @@
         "V x E"
       ],
       "correct": "V x V"
-    }
-  },
-  {
-    "id": 209,
-    "body": "Qrafda tili olmayan düyün necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 209,
+      "body": "Qrafda tili olmayan düyün necə adlanır?",
       "wrong": [
         "Sink",
         "Source",
@@ -2708,12 +2292,10 @@
         "Universal vertex"
       ],
       "correct": "Isolated vertex"
-    }
-  },
-  {
-    "id": 210,
-    "body": "Undirected Graph-da düyünə bağlı tillərin cəmi nədir?",
-    "questions": {
+    },
+    {
+      "number": 210,
+      "body": "Undirected Graph-da düyünə bağlı tillərin cəmi nədir?",
       "wrong": [
         "Distance",
         "Weight",
@@ -2721,12 +2303,10 @@
         "In-degree"
       ],
       "correct": "Degree"
-    }
-  },
-  {
-    "id": 211,
-    "body": "Bir düyündən başlayıb eyni düyündə bitən yol necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 211,
+      "body": "Bir düyündən başlayıb eyni düyündə bitən yol necə adlanır?",
       "wrong": [
         "Bridge",
         "Flow",
@@ -2734,12 +2314,10 @@
         "Edge"
       ],
       "correct": "Cycle"
-    }
-  },
-  {
-    "id": 212,
-    "body": "Bütün tilləri istiqamətlənmiş olan qraf necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 212,
+      "body": "Bütün tilləri istiqamətlənmiş olan qraf necə adlanır?",
       "wrong": [
         "Null Graph",
         "Undirected Graph",
@@ -2747,12 +2325,10 @@
         "Path"
       ],
       "correct": "Directed Graph"
-    }
-  },
-  {
-    "id": 213,
-    "body": "Qrafda düyünlər arasındakı əlaqəni göstərən xətt necə adlanır?",
-    "questions": {
+    },
+    {
+      "number": 213,
+      "body": "Qrafda düyünlər arasındakı əlaqəni göstərən xətt necə adlanır?",
       "wrong": [
         "Leaf",
         "Node",
@@ -2760,12 +2336,10 @@
         "Root"
       ],
       "correct": "Edge"
-    }
-  },
-  {
-    "id": 214,
-    "body": "BST-də minimum element haradadır?",
-    "questions": {
+    },
+    {
+      "number": 214,
+      "body": "BST-də minimum element haradadır?",
       "wrong": [
         "Yarpaq",
         "Təsadüfi",
@@ -2773,12 +2347,10 @@
         "Ən sağdakı düyün"
       ],
       "correct": "Ən soldakı düyün"
-    }
-  },
-  {
-    "id": 215,
-    "body": "BST-də minimum element haradadır?",
-    "questions": {
+    },
+    {
+      "number": 215,
+      "body": "BST-də minimum element haradadır?",
       "wrong": [
         "Kök",
         "Təsadüfi",
@@ -2786,12 +2358,10 @@
         "Yarpaq"
       ],
       "correct": "Ən soldakı düyün"
-    }
-  },
-  {
-    "id": 216,
-    "body": "h hündürlüklü binar ağacda maksimum düyün sayı nədir?",
-    "questions": {
+    },
+    {
+      "number": 216,
+      "body": "h hündürlüklü binar ağacda maksimum düyün sayı nədir?",
       "wrong": [
         "2h",
         "n",
@@ -2799,12 +2369,10 @@
         "h"
       ],
       "correct": "2^{(h+1)} - 1"
-    }
-  },
-  {
-    "id": 217,
-    "body": "\"Səviyyə üzrə\" (Level-order) keçid nədir?",
-    "questions": {
+    },
+    {
+      "number": 217,
+      "body": "\"Səviyyə üzrə\" (Level-order) keçid nədir?",
       "wrong": [
         "Heç biri",
         "Yalnız kökü ziyarət etmək",
@@ -2812,12 +2380,10 @@
         "Yalnız sol tərəfi ziyarət etmək"
       ],
       "correct": "Düyünləri səviyyə-səviyyə ziyarət etmək (BFS)"
-    }
-  },
-  {
-    "id": 218,
-    "body": "\"B-Ağacı\" (B-Tree) nə üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 218,
+      "body": "\"B-Ağacı\" (B-Tree) nə üçün istifadə olunur?",
       "wrong": [
         "Musiqi çalmaq üçün",
         "Heç biri",
@@ -2825,12 +2391,10 @@
         "Vebdə gəzmək üçün"
       ],
       "correct": "Məlumat bazaları və fayl sistemləri"
-    }
-  },
-  {
-    "id": 219,
-    "body": "\"Heap\"-ə daxiletmə mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 219,
+      "body": "\"Heap\"-ə daxiletmə mürəkkəbliyi nədir?",
       "wrong": [
         "O(n)",
         "O(n!)",
@@ -2838,12 +2402,10 @@
         "O(1)"
       ],
       "correct": "O(log n)"
-    }
-  },
-  {
-    "id": 220,
-    "body": "\"Heap\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 220,
+      "body": "\"Heap\" nədir?",
       "wrong": [
         "Avadanlıq portu",
         "Zibil yığını",
@@ -2851,12 +2413,10 @@
         "Heç biri"
       ],
       "correct": "İxtisaslaşmış ağac əsaslı məlumat strukturu (Max və ya Min)"
-    }
-  },
-  {
-    "id": 221,
-    "body": "Əyilmiş (balanssız) BST-də axtarışın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 221,
+      "body": "Əyilmiş (balanssız) BST-də axtarışın mürəkkəbliyi nədir?",
       "wrong": [
         "O(log n)",
         "O(n!)",
@@ -2864,12 +2424,10 @@
         "O(1)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 222,
-    "body": "Balanslaşdırılmış BST-də axtarışın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 222,
+      "body": "Balanslaşdırılmış BST-də axtarışın mürəkkəbliyi nədir?",
       "wrong": [
         "O(n!)",
         "O(1)",
@@ -2877,12 +2435,10 @@
         "O(n^2)"
       ],
       "correct": "O(log n)"
-    }
-  },
-  {
-    "id": 223,
-    "body": "\"AVL Ağacı\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 223,
+      "body": "\"AVL Ağacı\" nədir?",
       "wrong": [
         "Heç biri",
         "Dövr növü",
@@ -2890,12 +2446,10 @@
         "Çox böyük ağac"
       ],
       "correct": "Öz-özünü balanslaşdıran binar axtarış ağacı"
-    }
-  },
-  {
-    "id": 224,
-    "body": "\"Balanslaşdırılmış Ağac\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 224,
+      "body": "\"Balanslaşdırılmış Ağac\" nədir?",
       "wrong": [
         "Heç biri",
         "Yalnız kökdən ibarət ağac",
@@ -2903,12 +2457,10 @@
         "Heç vaxt yıxılmayan ağac"
       ],
       "correct": "Sol/sağ alt ağacların hündürlük fərqi kiçikdir"
-    }
-  },
-  {
-    "id": 225,
-    "body": "\"Xələf\" (Descendant) nədir?",
-    "questions": {
+    },
+    {
+      "number": 225,
+      "body": "\"Xələf\" (Descendant) nədir?",
       "wrong": [
         "Yalnız yarpaq",
         "Yalnız valideyn",
@@ -2916,12 +2468,10 @@
         "Heç biri"
       ],
       "correct": "Həmin düyünün alt ağaclarında olan istənilən düyün"
-    }
-  },
-  {
-    "id": 226,
-    "body": "Ağacda \"Əcdad\" (Ancestor) nədir?",
-    "questions": {
+    },
+    {
+      "number": 226,
+      "body": "Ağacda \"Əcdad\" (Ancestor) nədir?",
       "wrong": [
         "Yalnız kök",
         "Yalnız valideyn",
@@ -2929,12 +2479,10 @@
         "Övladlar"
       ],
       "correct": "Kökdən həmin düyünə qədər olan yoldakı istənilən düyün"
-    }
-  },
-  {
-    "id": 227,
-    "body": "Düyünün \"Dərinliyi\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 227,
+      "body": "Düyünün \"Dərinliyi\" nədir?",
       "wrong": [
         "Övladların sayı",
         "Onun rəngi",
@@ -2942,12 +2490,10 @@
         "Düyünün dəyəri"
       ],
       "correct": "Kökdən həmin düyünə qədər olan tillərin sayı"
-    }
-  },
-  {
-    "id": 228,
-    "body": "\"Mükəmməl Binar Ağac\" (Perfect Binary Tree) nədir?",
-    "questions": {
+    },
+    {
+      "number": 228,
+      "body": "\"Mükəmməl Binar Ağac\" (Perfect Binary Tree) nədir?",
       "wrong": [
         "Rəngarəngdir",
         "Heç biri",
@@ -2955,12 +2501,10 @@
         "100 düyünü var"
       ],
       "correct": "Daxili düyünlərin 2 övladı var və bütün yarpaqlar eyni səviyyədədir"
-    }
-  },
-  {
-    "id": 229,
-    "body": "\"Bütöv Binar Ağac\" (Complete Binary Tree) nədir?",
-    "questions": {
+    },
+    {
+      "number": 229,
+      "body": "\"Bütöv Binar Ağac\" (Complete Binary Tree) nədir?",
       "wrong": [
         "Heç biri",
         "Heç bir səviyyə dolu deyil",
@@ -2968,12 +2512,10 @@
         "Bütün düyünlər yarpaqdır"
       ],
       "correct": "Sonuncu səviyyə istisna olmaqla bütün səviyyələr doludur"
-    }
-  },
-  {
-    "id": 230,
-    "body": "\"Tam Binar Ağac\" (Full Binary Tree) nədir?",
-    "questions": {
+    },
+    {
+      "number": 230,
+      "body": "\"Tam Binar Ağac\" (Full Binary Tree) nədir?",
       "wrong": [
         "Heç biri",
         "Hər düyünün 1 övladı var",
@@ -2981,12 +2523,10 @@
         "Hər düyün kökdür"
       ],
       "correct": "Hər düyünün ya 0, ya da 2 övladı var"
-    }
-  },
-  {
-    "id": 231,
-    "body": "\"Post-order\" keçid nədir?",
-    "questions": {
+    },
+    {
+      "number": 231,
+      "body": "\"Post-order\" keçid nədir?",
       "wrong": [
         "Sol -> Kök -> Sağ",
         "Kök -> Sol -> Sağ",
@@ -2994,12 +2534,10 @@
         "Sağ -> Sol -> Kök"
       ],
       "correct": "Sol -> Sağ -> Kök"
-    }
-  },
-  {
-    "id": 232,
-    "body": "\"Pre-order\" keçid nədir?",
-    "questions": {
+    },
+    {
+      "number": 232,
+      "body": "\"Pre-order\" keçid nədir?",
       "wrong": [
         "Sağ -> Kök -> Sol",
         "Sol -> Sağ -> Kök",
@@ -3007,12 +2545,10 @@
         "Heç biri"
       ],
       "correct": "Kök -> Sol -> Sağ"
-    }
-  },
-  {
-    "id": 233,
-    "body": "\"In-order\" keçid (BST) nədir?",
-    "questions": {
+    },
+    {
+      "number": 233,
+      "body": "\"In-order\" keçid (BST) nədir?",
       "wrong": [
         "Kök -> Sol -> Sağ",
         "Sol -> Sağ -> Kök",
@@ -3020,12 +2556,10 @@
         "Sağ -> Sol -> Kök"
       ],
       "correct": "Sol -> Kök -> Sağ (sıralanmış qaydanı verir)"
-    }
-  },
-  {
-    "id": 234,
-    "body": "\"Ağac Keçidi\" (Tree Traversal) nədir?",
-    "questions": {
+    },
+    {
+      "number": 234,
+      "body": "\"Ağac Keçidi\" (Tree Traversal) nədir?",
       "wrong": [
         "Heç biri",
         "Ağacı silmək",
@@ -3033,12 +2567,10 @@
         "Ağac qurmaq"
       ],
       "correct": "Bütün düyünləri müəyyən ardıcıllıqla ziyarət etmək"
-    }
-  },
-  {
-    "id": 235,
-    "body": "Ağacın \"Hündürlüyü\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 235,
+      "body": "Ağacın \"Hündürlüyü\" nədir?",
       "wrong": [
         "Rəng",
         "Heç biri",
@@ -3046,12 +2578,10 @@
         "Kökün eni"
       ],
       "correct": "Yarpağa qədər olan ən uzun yoldakı tillərin sayı"
-    }
-  },
-  {
-    "id": 236,
-    "body": "\"Binar Axtarış Ağacı\" (BST) nədir?",
-    "questions": {
+    },
+    {
+      "number": 236,
+      "body": "\"Binar Axtarış Ağacı\" (BST) nədir?",
       "wrong": [
         "Binar ədədlər üçün ağac",
         "Heç biri",
@@ -3059,12 +2589,10 @@
         "Sırası olmayan ağac"
       ],
       "correct": "sol < kök < sağ olan binar ağac"
-    }
-  },
-  {
-    "id": 237,
-    "body": "Düyünün \"Dərəcəsi\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 237,
+      "body": "Düyünün \"Dərəcəsi\" nədir?",
       "wrong": [
         "Onun ID-si",
         "Onun rəngi",
@@ -3072,12 +2600,10 @@
         "Onun dəyəri"
       ],
       "correct": "Onun malik olduğu övladların sayı"
-    }
-  },
-  {
-    "id": 238,
-    "body": "\"Alt ağac\" (Subtree) nədir?",
-    "questions": {
+    },
+    {
+      "number": 238,
+      "body": "\"Alt ağac\" (Subtree) nədir?",
       "wrong": [
         "Kök düyün",
         "Şəbəkə",
@@ -3085,12 +2611,10 @@
         "Silinmiş budaq"
       ],
       "correct": "Ağacın özü də ağac olan hissəsi"
-    }
-  },
-  {
-    "id": 239,
-    "body": "Ağaclarda \"Valideyn\" və \"Övlad\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 239,
+      "body": "Ağaclarda \"Valideyn\" və \"Övlad\" nədir?",
       "wrong": [
         "Övlad Valideyndən yuxarıdadır",
         "Onlar eyni düyündür",
@@ -3098,12 +2622,10 @@
         "Heç biri"
       ],
       "correct": "Valideyn yuxarıda, Övlad birbaşa aşağıdadır"
-    }
-  },
-  {
-    "id": 240,
-    "body": "\"Binar Ağac\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 240,
+      "body": "\"Binar Ağac\" nədir?",
       "wrong": [
         "Dairəvi siyahı",
         "Avadanlıq çipi",
@@ -3111,12 +2633,10 @@
         "Hər düyünün 10 övladı var"
       ],
       "correct": "Hər düyünün ən çoxu 2 övladı var"
-    }
-  },
-  {
-    "id": 241,
-    "body": "\"Yarpaq\" (Leaf) düyünü nədir?",
-    "questions": {
+    },
+    {
+      "number": 241,
+      "body": "\"Yarpaq\" (Leaf) düyünü nədir?",
       "wrong": [
         "Kök",
         "Gizli düyün",
@@ -3124,12 +2644,10 @@
         "Ən yuxarı düyün"
       ],
       "correct": "Övladı olmayan düyün"
-    }
-  },
-  {
-    "id": 242,
-    "body": "Ağacın \"Kökü\" (Root) nədir?",
-    "questions": {
+    },
+    {
+      "number": 242,
+      "body": "Ağacın \"Kökü\" (Root) nədir?",
       "wrong": [
         "Yarpaq",
         "Ölü düyün",
@@ -3137,12 +2655,10 @@
         "Orta düyün"
       ],
       "correct": "Valideyni olmayan ən yuxarı düyün"
-    }
-  },
-  {
-    "id": 243,
-    "body": "\"Ağac\" (Tree) məlumat strukturu nədir?",
-    "questions": {
+    },
+    {
+      "number": 243,
+      "body": "\"Ağac\" (Tree) məlumat strukturu nədir?",
       "wrong": [
         "PC-lər şəbəkəsi",
         "Fayl formatı",
@@ -3150,12 +2666,10 @@
         "Massiv növü"
       ],
       "correct": "Düyünlər və tillərdən ibarət iyerarxik struktur"
-    }
-  },
-  {
-    "id": 244,
-    "body": "\"Qarşılıqlı Rekursiya\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 244,
+      "body": "\"Qarşılıqlı Rekursiya\" nədir?",
       "wrong": [
         "Rekursiya yoxdur",
         "Heç biri",
@@ -3163,12 +2677,10 @@
         "Avadanlıq bağlantısı"
       ],
       "correct": "Dolayısı ilə Rekursiya ilə eyni"
-    }
-  },
-  {
-    "id": 245,
-    "body": "Rekursiyanın \"Dərinliyi\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 245,
+      "body": "Rekursiyanın \"Dərinliyi\" nədir?",
       "wrong": [
         "Sətirlərin sayı",
         "RAM ölçüsü",
@@ -3176,12 +2688,10 @@
         "Faylın ölçüsü"
       ],
       "correct": "Yığında olan aktiv çağırışların maksimum sayı"
-    }
-  },
-  {
-    "id": 246,
-    "body": "Hansı daha çox yaddaş istifadə edir: Rekursiya, yoxsa İterasiya?",
-    "questions": {
+    },
+    {
+      "number": 246,
+      "body": "Hansı daha çox yaddaş istifadə edir: Rekursiya, yoxsa İterasiya?",
       "wrong": [
         "Hər ikisi O(1)-dir",
         "Heç biri",
@@ -3189,12 +2699,10 @@
         "İterasiya"
       ],
       "correct": "Rekursiya (yığın freymlərinə görə)"
-    }
-  },
-  {
-    "id": 247,
-    "body": "\"Ağac Rekursiyası\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 247,
+      "body": "\"Ağac Rekursiyası\" nədir?",
       "wrong": [
         "Heç biri",
         "Ağac kəsmək üçün funksiya",
@@ -3202,12 +2710,10 @@
         "Avadanlıq drayveri"
       ],
       "correct": "Özünü bir neçə dəfə çağıran funksiya"
-    }
-  },
-  {
-    "id": 248,
-    "body": "Hər hansı rekursiv funksiya dövr ilə yazıla bilərmi?",
-    "questions": {
+    },
+    {
+      "number": 248,
+      "body": "Hər hansı rekursiv funksiya dövr ilə yazıla bilərmi?",
       "wrong": [
         "Yalnız Python-da",
         "Yalnız Linux-da",
@@ -3215,12 +2721,10 @@
         "Xeyr"
       ],
       "correct": "Bəli (manual yığın istifadə etməklə)"
-    }
-  },
-  {
-    "id": 249,
-    "body": "n disk üçün Hanoy Qülləsinin mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 249,
+      "body": "n disk üçün Hanoy Qülləsinin mürəkkəbliyi nədir?",
       "wrong": [
         "O(n)",
         "O(n!)",
@@ -3228,12 +2732,10 @@
         "O(n^2)"
       ],
       "correct": "O(2^n)"
-    }
-  },
-  {
-    "id": 250,
-    "body": "\"Hanoy Qülləsi\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 250,
+      "body": "\"Hanoy Qülləsi\" nədir?",
       "wrong": [
         "Heç biri",
         "Kompüter növü",
@@ -3241,12 +2743,10 @@
         "Çeşidləmə alqoritmi"
       ],
       "correct": "Klassik riyazi/rekursiv tapmaca"
-    }
-  },
-  {
-    "id": 251,
-    "body": "\"Backtracking\" ilə həll olunan bir problem göstərin.",
-    "questions": {
+    },
+    {
+      "number": 251,
+      "body": "\"Backtracking\" ilə həll olunan bir problem göstərin.",
       "wrong": [
         "Xətti Axtarış",
         "Heç biri",
@@ -3254,12 +2754,10 @@
         "İki ədədin toplanması"
       ],
       "correct": "N-Vəzir Problemi"
-    }
-  },
-  {
-    "id": 252,
-    "body": "\"Backtracking\" (Geriya qayıtma) nədir?",
-    "questions": {
+    },
+    {
+      "number": 252,
+      "body": "\"Backtracking\" (Geriya qayıtma) nədir?",
       "wrong": [
         "Dövr daxilində geri hərəkət",
         "Avadanlığı sıfırlamaq",
@@ -3267,12 +2765,10 @@
         "Son sətiri silmək"
       ],
       "correct": "Addımları sınayan və geri qaytaran rekursiv axtarış"
-    }
-  },
-  {
-    "id": 253,
-    "body": "Birləşmə Çeşidləməsinin (Merge Sort) mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 253,
+      "body": "Birləşmə Çeşidləməsinin (Merge Sort) mürəkkəbliyi nədir?",
       "wrong": [
         "O(n^2)",
         "O(2^n)",
@@ -3280,12 +2776,10 @@
         "O(n)"
       ],
       "correct": "O(n log n)"
-    }
-  },
-  {
-    "id": 254,
-    "body": "Hansı çeşidləmə \"Böl və İdarə Et\" metodunu istifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 254,
+      "body": "Hansı çeşidləmə \"Böl və İdarə Et\" metodunu istifadə edir?",
       "wrong": [
         "Qabarcıq Çeşidləmə",
         "Heç biri",
@@ -3293,12 +2787,10 @@
         "Seçim Çeşidləməsi"
       ],
       "correct": "Birləşmə Çeşidləməsi"
-    }
-  },
-  {
-    "id": 255,
-    "body": "\"Böl və İdarə Et\" (Divide and Conquer) nədir?",
-    "questions": {
+    },
+    {
+      "number": 255,
+      "body": "\"Böl və İdarə Et\" (Divide and Conquer) nədir?",
       "wrong": [
         "Heç biri",
         "Kodu silmək",
@@ -3306,12 +2798,10 @@
         "Yalnız dövrlərdən istifadə etmək"
       ],
       "correct": "Problemi alt-problemlərə bölmək, sonra birləşdirmək"
-    }
-  },
-  {
-    "id": 256,
-    "body": "\"Memoization\" rekursiyaya necə kömək edir?",
-    "questions": {
+    },
+    {
+      "number": 256,
+      "body": "\"Memoization\" rekursiyaya necə kömək edir?",
       "wrong": [
         "Avadanlığı düzəldir",
         "Heç biri",
@@ -3319,12 +2809,10 @@
         "Kodu daha qısa edir"
       ],
       "correct": "Zaman mürəkkəbliyini azaldır (məs: O(2^n)-dən O(n)-ə)"
-    }
-  },
-  {
-    "id": 257,
-    "body": "\"Memoization\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 257,
+      "body": "\"Memoization\" nədir?",
       "wrong": [
         "Yaddaşı silmək",
         "Faylı çap etmək",
@@ -3332,12 +2820,10 @@
         "RAM-ı yeniləmək"
       ],
       "correct": "Bahalı çağırışların nəticələrini sonradan istifadə üçün saxlamaq"
-    }
-  },
-  {
-    "id": 258,
-    "body": "Sadə rekursiv Fibonaççinin mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 258,
+      "body": "Sadə rekursiv Fibonaççinin mürəkkəbliyi nədir?",
       "wrong": [
         "O(1)",
         "O(n)",
@@ -3345,12 +2831,10 @@
         "O(log n)"
       ],
       "correct": "O(2^n)"
-    }
-  },
-  {
-    "id": 259,
-    "body": "\"Fibonaççi\" ardıcıllığı nədir?",
-    "questions": {
+    },
+    {
+      "number": 259,
+      "body": "\"Fibonaççi\" ardıcıllığı nədir?",
       "wrong": [
         "Təsadüfi siyahı",
         "1, 2, 3, 4, 5...",
@@ -3358,12 +2842,10 @@
         "10, 20, 30..."
       ],
       "correct": "Hər bir ədəd özündən əvvəlki ikisinin cəmidir"
-    }
-  },
-  {
-    "id": 260,
-    "body": "Rekursiv Faktorialın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 260,
+      "body": "Rekursiv Faktorialın mürəkkəbliyi nədir?",
       "wrong": [
         "O(log n)",
         "O(1)",
@@ -3371,12 +2853,10 @@
         "O(n!)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 261,
-    "body": "Quyruq Rekursiyası niyə yaxşıdır?",
-    "questions": {
+    },
+    {
+      "number": 261,
+      "body": "Quyruq Rekursiyası niyə yaxşıdır?",
       "wrong": [
         "Rəngarəngdir",
         "Səhvdir (bug)",
@@ -3384,12 +2864,10 @@
         "Daha çox yaddaş istifadə edir"
       ],
       "correct": "Daha az yığın sahəsi istifadə etmək üçün optimallaşdırıla bilər"
-    }
-  },
-  {
-    "id": 262,
-    "body": "\"Quyruq Rekursiyası\" (Tail Recursion) nədir?",
-    "questions": {
+    },
+    {
+      "number": 262,
+      "body": "\"Quyruq Rekursiyası\" (Tail Recursion) nədir?",
       "wrong": [
         "Rekursiya heç vaxt bitmir",
         "Rekursiv çağırış başlanğıcdadır",
@@ -3397,12 +2875,10 @@
         "Rekursiya dövr daxilindədir"
       ],
       "correct": "Rekursiv çağırış ən sonuncu hərəkətdir"
-    }
-  },
-  {
-    "id": 263,
-    "body": "\"Dolayısı ilə Rekursiya\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 263,
+      "body": "\"Dolayısı ilə Rekursiya\" nədir?",
       "wrong": [
         "Heç biri",
         "A A-nı çağırır",
@@ -3410,12 +2886,10 @@
         "A bir dövrdür"
       ],
       "correct": "A B-ni çağırır, B isə A-nı"
-    }
-  },
-  {
-    "id": 264,
-    "body": "\"Birbaşa Rekursiya\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 264,
+      "body": "\"Birbaşa Rekursiya\" nədir?",
       "wrong": [
         "Heç biri",
         "A Funksiyası dövr istifadə edir",
@@ -3423,12 +2897,10 @@
         "A Funksiyasında kod yoxdur"
       ],
       "correct": "A Funksiyası A Funksiyasını çağırır"
-    }
-  },
-  {
-    "id": 265,
-    "body": "\"Zəng Yığını\" (Call Stack) nədir?",
-    "questions": {
+    },
+    {
+      "number": 265,
+      "body": "\"Zəng Yığını\" (Call Stack) nədir?",
       "wrong": [
         "Şəbəkə kabeli",
         "Monitor pikseli",
@@ -3436,12 +2908,10 @@
         "Sərt disk növü"
       ],
       "correct": "Aktiv funksiyaları izləyən yaddaş strukturu"
-    }
-  },
-  {
-    "id": 266,
-    "body": "Hansı riyazi əməliyyat tez-tez rekursiya ilə həll olunur?",
-    "questions": {
+    },
+    {
+      "number": 266,
+      "body": "Hansı riyazi əməliyyat tez-tez rekursiya ilə həll olunur?",
       "wrong": [
         "Bölmə",
         "Toplama",
@@ -3449,12 +2919,10 @@
         "Kvadrat kök"
       ],
       "correct": "Faktorial (n!)"
-    }
-  },
-  {
-    "id": 267,
-    "body": "\"Yaddaş Daşması\" (Stack Overflow) nədir?",
-    "questions": {
+    },
+    {
+      "number": 267,
+      "body": "\"Yaddaş Daşması\" (Stack Overflow) nədir?",
       "wrong": [
         "Sınıq siçan",
         "Suallar üçün veb sayt",
@@ -3462,12 +2930,10 @@
         "Dolu sərt disk"
       ],
       "correct": "Zəng yığını çox dolduqda yaranan yaddaş xətası"
-    }
-  },
-  {
-    "id": 268,
-    "body": "Baza Halı olmazsa nə baş verir?",
-    "questions": {
+    },
+    {
+      "number": 268,
+      "body": "Baza Halı olmazsa nə baş verir?",
       "wrong": [
         "Heç nə",
         "Kod silinir",
@@ -3475,12 +2941,10 @@
         "Kompüter sönür"
       ],
       "correct": "Sonsuz rekursiya (Stack Overflow)"
-    }
-  },
-  {
-    "id": 269,
-    "body": "\"Rekursiv Hal\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 269,
+      "body": "\"Rekursiv Hal\" nədir?",
       "wrong": [
         "Çap ifadəsi",
         "Əsas funksiya",
@@ -3488,12 +2952,10 @@
         "Xəta emalçısı"
       ],
       "correct": "Funksiyanın özünü çağırdığı hissə"
-    }
-  },
-  {
-    "id": 270,
-    "body": "Rekursiyada \"Baza Halı\" (Base Case) nədir?",
-    "questions": {
+    },
+    {
+      "number": 270,
+      "body": "Rekursiyada \"Baza Halı\" (Base Case) nədir?",
       "wrong": [
         "Başlanğıc sətiri",
         "Dəyişən adı",
@@ -3501,12 +2963,10 @@
         "Xəta mesajı"
       ],
       "correct": "Rekursiyanı dayandıran şərt"
-    }
-  },
-  {
-    "id": 271,
-    "body": "\"Rekursiya\" (Recursion) nədir?",
-    "questions": {
+    },
+    {
+      "number": 271,
+      "body": "\"Rekursiya\" (Recursion) nədir?",
       "wrong": [
         "Heç vaxt bitməyən dövr",
         "Monitor növü",
@@ -3514,12 +2974,10 @@
         "Faylları silmək yolu"
       ],
       "correct": "Funksiyanın özünü çağırması"
-    }
-  },
-  {
-    "id": 272,
-    "body": "Qabarcıq Çeşidləmədə 1 keçiddən sonra ən böyük element hara gedir?",
-    "questions": {
+    },
+    {
+      "number": 272,
+      "body": "Qabarcıq Çeşidləmədə 1 keçiddən sonra ən böyük element hara gedir?",
       "wrong": [
         "Yeni massivə",
         "Ən başa",
@@ -3527,12 +2985,10 @@
         "Ortaya"
       ],
       "correct": "Ən sona"
-    }
-  },
-  {
-    "id": 273,
-    "body": "Artıq sıralanmış massivin mürəkkəbliyi nədir (Qabarcıq)?",
-    "questions": {
+    },
+    {
+      "number": 273,
+      "body": "Artıq sıralanmış massivin mürəkkəbliyi nədir (Qabarcıq)?",
       "wrong": [
         "O(n!)",
         "O(n^2)",
@@ -3540,12 +2996,10 @@
         "O(log n)"
       ],
       "correct": "O(n) (optimallaşdırılıbsa)"
-    }
-  },
-  {
-    "id": 274,
-    "body": "Seçim Çeşidləməsini O(n log n) etmək olarmı?",
-    "questions": {
+    },
+    {
+      "number": 274,
+      "body": "Seçim Çeşidləməsini O(n log n) etmək olarmı?",
       "wrong": [
         "Bəli",
         "Yalnız GPU ilə",
@@ -3553,12 +3007,10 @@
         "Yalnız rekursiya ilə"
       ],
       "correct": "Xeyr (mahiyyətcə O(n^2)-dir)"
-    }
-  },
-  {
-    "id": 275,
-    "body": "Sadə çeşidləmələrin (O(n^2)) əsas çatışmazlığı nədir?",
-    "questions": {
+    },
+    {
+      "number": 275,
+      "body": "Sadə çeşidləmələrin (O(n^2)) əsas çatışmazlığı nədir?",
       "wrong": [
         "Rəngarəngdir",
         "Çoxlu kod sətirləri",
@@ -3566,12 +3018,10 @@
         "Çox GPU istifadə edir"
       ],
       "correct": "Böyük n üçün çox yavaşdır"
-    }
-  },
-  {
-    "id": 276,
-    "body": "Hansı çeşidləmə təkrarən \"Minimum\" tapma məntiqindən istifadə edir?",
-    "questions": {
+    },
+    {
+      "number": 276,
+      "body": "Hansı çeşidləmə təkrarən \"Minimum\" tapma məntiqindən istifadə edir?",
       "wrong": [
         "Qabarcıq Çeşidləmə",
         "Daxiletmə Çeşidləməsi",
@@ -3579,12 +3029,10 @@
         "Birləşmə Çeşidləməsi"
       ],
       "correct": "Seçim Çeşidləməsi"
-    }
-  },
-  {
-    "id": 277,
-    "body": "Shell Sort-un orta mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 277,
+      "body": "Shell Sort-un orta mürəkkəbliyi nədir?",
       "wrong": [
         "O(n!)",
         "O(n)",
@@ -3592,12 +3040,10 @@
         "O(1)"
       ],
       "correct": "Boşluq ardıcıllığından asılıdır (məs: O(n^{1.5}))"
-    }
-  },
-  {
-    "id": 278,
-    "body": "\"Shell Sort\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 278,
+      "body": "\"Shell Sort\" nədir?",
       "wrong": [
         "Heç biri",
         "Okean qabıqları üçün çeşidləmə",
@@ -3605,12 +3051,10 @@
         "Təsadüfi çeşidləmə"
       ],
       "correct": "Daxiletmə Çeşidləməsinin təkmilləşdirilmiş versiyası"
-    }
-  },
-  {
-    "id": 279,
-    "body": "Müqayisəli Çeşidləmələr üçün aşağı hədd nədir?",
-    "questions": {
+    },
+    {
+      "number": 279,
+      "body": "Müqayisəli Çeşidləmələr üçün aşağı hədd nədir?",
       "wrong": [
         "O(sqrt{n})",
         "O(n)",
@@ -3618,12 +3062,10 @@
         "O(1)"
       ],
       "correct": "O(n log n)"
-    }
-  },
-  {
-    "id": 280,
-    "body": "\"Müqayisəli Çeşidləmə\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 280,
+      "body": "\"Müqayisəli Çeşidləmə\" nədir?",
       "wrong": [
         "Şəkillər üçün çeşidləmə",
         "Riyaziyyat istifadə etməyən çeşidləmə",
@@ -3631,12 +3073,10 @@
         "Heç biri"
       ],
       "correct": "Ardıcıllığı təyin etmək üçün yalnız elementləri müqayisə edən çeşidləmə"
-    }
-  },
-  {
-    "id": 281,
-    "body": "Hansı çeşidləmə ümumiyyətlə daha sürətlidir: Qabarcıq, yoxsa Daxiletmə?",
-    "questions": {
+    },
+    {
+      "number": 281,
+      "body": "Hansı çeşidləmə ümumiyyətlə daha sürətlidir: Qabarcıq, yoxsa Daxiletmə?",
       "wrong": [
         "Qabarcıq Çeşidləmə",
         "Hər ikisi O(1)-dir",
@@ -3644,12 +3084,10 @@
         "Heç biri"
       ],
       "correct": "Daxiletmə Çeşidləməsi"
-    }
-  },
-  {
-    "id": 282,
-    "body": "Seçim Çeşidləməsi ən pis halda neçə yerdəyişmə (swap) edir?",
-    "questions": {
+    },
+    {
+      "number": 282,
+      "body": "Seçim Çeşidləməsi ən pis halda neçə yerdəyişmə (swap) edir?",
       "wrong": [
         "O(n^2)",
         "O(log n)",
@@ -3657,12 +3095,10 @@
         "O(1)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 283,
-    "body": "Çox kiçik massiv (məsələn, 10 element) üçün hansı çeşidləmə ən yaxşıdır?",
-    "questions": {
+    },
+    {
+      "number": 283,
+      "body": "Çox kiçik massiv (məsələn, 10 element) üçün hansı çeşidləmə ən yaxşıdır?",
       "wrong": [
         "Birləşmə Çeşidləməsi",
         "Heap Çeşidləməsi",
@@ -3670,12 +3106,10 @@
         "Xarici Çeşidləmə"
       ],
       "correct": "Daxiletmə Çeşidləməsi"
-    }
-  },
-  {
-    "id": 284,
-    "body": "Daxiletmə Çeşidləməsinin ən pis hal mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 284,
+      "body": "Daxiletmə Çeşidləməsinin ən pis hal mürəkkəbliyi nədir?",
       "wrong": [
         "O(1)",
         "O(n!)",
@@ -3683,12 +3117,10 @@
         "O(n)"
       ],
       "correct": "O(n^2)"
-    }
-  },
-  {
-    "id": 285,
-    "body": "Optimallaşdırılmış Qabarcıq Çeşidləmənin ən yaxşı hal mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 285,
+      "body": "Optimallaşdırılmış Qabarcıq Çeşidləmənin ən yaxşı hal mürəkkəbliyi nədir?",
       "wrong": [
         "O(2^n)",
         "O(1)",
@@ -3696,12 +3128,10 @@
         "O(log n)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 286,
-    "body": "\"Yerində\" (In-place) çeşidləmə nədir?",
-    "questions": {
+    },
+    {
+      "number": 286,
+      "body": "\"Yerində\" (In-place) çeşidləmə nədir?",
       "wrong": [
         "Heç biri",
         "Fərqli massivdə çeşidləyir",
@@ -3709,12 +3139,10 @@
         "Buludda edilir"
       ],
       "correct": "Yalnız O(1) əlavə yaddaş tələb edir"
-    }
-  },
-  {
-    "id": 287,
-    "body": "Daxiletmə Çeşidləməsi stabildirmi?",
-    "questions": {
+    },
+    {
+      "number": 287,
+      "body": "Daxiletmə Çeşidləməsi stabildirmi?",
       "wrong": [
         "Müəyyən CPU-larda",
         "Yalnız n=10 olarsa",
@@ -3722,12 +3150,10 @@
         "Heç vaxt"
       ],
       "correct": "Bəli"
-    }
-  },
-  {
-    "id": 288,
-    "body": "Qabarcıq Çeşidləmə stabildirmi?",
-    "questions": {
+    },
+    {
+      "number": 288,
+      "body": "Qabarcıq Çeşidləmə stabildirmi?",
       "wrong": [
         "Yalnız kiçik n üçün",
         "Bəzən",
@@ -3735,12 +3161,10 @@
         "Xeyr"
       ],
       "correct": "Bəli"
-    }
-  },
-  {
-    "id": 289,
-    "body": "Seçim Çeşidləməsi stabildirmi?",
-    "questions": {
+    },
+    {
+      "number": 289,
+      "body": "Seçim Çeşidləməsi stabildirmi?",
       "wrong": [
         "Həmişə",
         "Bəli",
@@ -3748,12 +3172,10 @@
         "Yalnız sətirlər üçün"
       ],
       "correct": "Ümumiyyətlə Xeyr"
-    }
-  },
-  {
-    "id": 290,
-    "body": "\"Stabil\" (Stable) çeşidləmə nədir?",
-    "questions": {
+    },
+    {
+      "number": 290,
+      "body": "\"Stabil\" (Stable) çeşidləmə nədir?",
       "wrong": [
         "C++ dilində yazılıb",
         "Yaddaş istifadə etmir",
@@ -3761,12 +3183,10 @@
         "Çox sürətlidir"
       ],
       "correct": "Bərabər elementlərin nisbi sırasını qoruyur"
-    }
-  },
-  {
-    "id": 291,
-    "body": "Sadə çeşidləmələrdə (n^2) adətən neçə iç-içə dövr olur?",
-    "questions": {
+    },
+    {
+      "number": 291,
+      "body": "Sadə çeşidləmələrdə (n^2) adətən neçə iç-içə dövr olur?",
       "wrong": [
         "4",
         "1",
@@ -3774,12 +3194,10 @@
         "3"
       ],
       "correct": "2"
-    }
-  },
-  {
-    "id": 292,
-    "body": "\"Qabarcıq Çeşidləmə\" adını nədən götürüb?",
-    "questions": {
+    },
+    {
+      "number": 292,
+      "body": "\"Qabarcıq Çeşidləmə\" adını nədən götürüb?",
       "wrong": [
         "Saqqızdan",
         "Heç biri",
@@ -3787,12 +3205,10 @@
         "Qabarcıq adlı şəxsdən"
       ],
       "correct": "Mayedə yüksələn qabarcıqlardan"
-    }
-  },
-  {
-    "id": 293,
-    "body": "Daxiletmə Çeşidləməsi üçün ən yaxşı hal (təxminən sıralanmış) nədir?",
-    "questions": {
+    },
+    {
+      "number": 293,
+      "body": "Daxiletmə Çeşidləməsi üçün ən yaxşı hal (təxminən sıralanmış) nədir?",
       "wrong": [
         "O(n!)",
         "O(1)",
@@ -3800,12 +3216,10 @@
         "O(log n)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 294,
-    "body": "\"Daxiletmə Çeşidləməsi\" (Insertion Sort) nədir?",
-    "questions": {
+    },
+    {
+      "number": 294,
+      "body": "\"Daxiletmə Çeşidləməsi\" (Insertion Sort) nədir?",
       "wrong": [
         "Heç biri",
         "Əvvəlcə ən böyüyü seçmək",
@@ -3813,12 +3227,10 @@
         "\"Heap\" istifadə etmək"
       ],
       "correct": "Hər dəfə bir element daxil etməklə sıralanmış siyahı qurmaq"
-    }
-  },
-  {
-    "id": 295,
-    "body": "Seçim Çeşidləməsinin mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 295,
+      "body": "Seçim Çeşidləməsinin mürəkkəbliyi nədir?",
       "wrong": [
         "O(n log n)",
         "O(1)",
@@ -3826,12 +3238,10 @@
         "O(log n)"
       ],
       "correct": "O(n^2)"
-    }
-  },
-  {
-    "id": 296,
-    "body": "\"Seçim Çeşidləməsi\" (Selection Sort) nədir?",
-    "questions": {
+    },
+    {
+      "number": 296,
+      "body": "\"Seçim Çeşidləməsi\" (Selection Sort) nədir?",
       "wrong": [
         "Hər qonşunu dəyişdirmək",
         "Heç biri",
@@ -3839,12 +3249,10 @@
         "Pivot istifadə etmək"
       ],
       "correct": "Minimum elementi tapıb başlanğıca yerləşdirmək"
-    }
-  },
-  {
-    "id": 297,
-    "body": "Qabarcıq Çeşidləmə üçün ən pis hal mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 297,
+      "body": "Qabarcıq Çeşidləmə üçün ən pis hal mürəkkəbliyi nədir?",
       "wrong": [
         "O(n)",
         "O(n!)",
@@ -3852,12 +3260,10 @@
         "O(log n)"
       ],
       "correct": "O(n^2)"
-    }
-  },
-  {
-    "id": 298,
-    "body": "\"Qabarcıq Çeşidləmə\" (Bubble Sort) nədir?",
-    "questions": {
+    },
+    {
+      "number": 298,
+      "body": "\"Qabarcıq Çeşidləmə\" (Bubble Sort) nədir?",
       "wrong": [
         "Siyahını ikiyə bölmək",
         "Ən kiçiyi seçib əvvələ köçürmək",
@@ -3865,12 +3271,10 @@
         "Təsadüfi qarışdırmaq"
       ],
       "correct": "Səhv qaydada olan qonşu elementləri ardıcıl olaraq dəyişdirmək"
-    }
-  },
-  {
-    "id": 299,
-    "body": "\"Çeşidləmə\" (Sorting) nədir?",
-    "questions": {
+    },
+    {
+      "number": 299,
+      "body": "\"Çeşidləmə\" (Sorting) nədir?",
       "wrong": [
         "Məlumatları göndərmək",
         "Məlumatları silmək",
@@ -3878,12 +3282,10 @@
         "Məlumatları gizlətmək"
       ],
       "correct": "Məlumatları müəyyən bir qaydada düzmək (məsələn, artan)"
-    }
-  },
-  {
-    "id": 300,
-    "body": "Axtarışda \"Gözətçi\" (Sentinel) dəyəri nədir?",
-    "questions": {
+    },
+    {
+      "number": 300,
+      "body": "Axtarışda \"Gözətçi\" (Sentinel) dəyəri nədir?",
       "wrong": [
         "Orta dəyər",
         "Hədəf dəyər",
@@ -3891,12 +3293,10 @@
         "İlk dəyər"
       ],
       "correct": "Dövrün dayandırılmasını sadələşdirmək üçün istifadə olunan xüsusi dəyər"
-    }
-  },
-  {
-    "id": 301,
-    "body": "Binar Axtarış həmişə Xətti Axtarışdan daha sürətlidirmi?",
-    "questions": {
+    },
+    {
+      "number": 301,
+      "body": "Binar Axtarış həmişə Xətti Axtarışdan daha sürətlidirmi?",
       "wrong": [
         "Yalnız Mac-da",
         "Heç vaxt",
@@ -3904,12 +3304,10 @@
         "Yalnız Windows-da"
       ],
       "correct": "Böyük sıralanmış n üçün bəli; çox kiçik n üçün bəlkə də yox"
-    }
-  },
-  {
-    "id": 302,
-    "body": "Binar Axtarış sıralanmamış məlumatda istifadə olunarsa nə olar?",
-    "questions": {
+    },
+    {
+      "number": 302,
+      "body": "Binar Axtarış sıralanmamış məlumatda istifadə olunarsa nə olar?",
       "wrong": [
         "Əvvəlcə məlumatları sıralayacaq",
         "Normal işləyir",
@@ -3917,12 +3315,10 @@
         "PC-ni çökməyə məruz qoyacaq"
       ],
       "correct": "Ehtimal ki, yanlış nəticə verəcək və ya uğursuz olacaq"
-    }
-  },
-  {
-    "id": 303,
-    "body": "\"Heş Cədvəlində\" hansı axtarış istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 303,
+      "body": "\"Heş Cədvəlində\" hansı axtarış istifadə olunur?",
       "wrong": [
         "Ağac Axtarışı",
         "Atlamalı Axtarış",
@@ -3930,12 +3326,10 @@
         "Binar Axtarış"
       ],
       "correct": "Heş əsaslı axtarış"
-    }
-  },
-  {
-    "id": 304,
-    "body": "BST axtarış mürəkkəbliyi nədir (ən pis hal/əyilmiş)?",
-    "questions": {
+    },
+    {
+      "number": 304,
+      "body": "BST axtarış mürəkkəbliyi nədir (ən pis hal/əyilmiş)?",
       "wrong": [
         "O(1)",
         "O(n^2)",
@@ -3943,12 +3337,10 @@
         "O(n!)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 305,
-    "body": "Binar Axtarış Ağacı (BST) axtarış mürəkkəbliyi nədir (orta)?",
-    "questions": {
+    },
+    {
+      "number": 305,
+      "body": "Binar Axtarış Ağacı (BST) axtarış mürəkkəbliyi nədir (orta)?",
       "wrong": [
         "O(n!)",
         "O(n)",
@@ -3956,12 +3348,10 @@
         "O(1)"
       ],
       "correct": "O(log n)"
-    }
-  },
-  {
-    "id": 306,
-    "body": "\"Heş Toqquşması\" (Hash Collision) nədir?",
-    "questions": {
+    },
+    {
+      "number": 306,
+      "body": "\"Heş Toqquşması\" (Hash Collision) nədir?",
       "wrong": [
         "Silinmiş fayl",
         "Zəif internet",
@@ -3969,12 +3359,10 @@
         "Tam dolmuş yaddaş"
       ],
       "correct": "İki fərqli açarın eyni heş indeksini yaratması"
-    }
-  },
-  {
-    "id": 307,
-    "body": "\"Heşləşdirmə\" (Hashing) nədir?",
-    "questions": {
+    },
+    {
+      "number": 307,
+      "body": "\"Heşləşdirmə\" (Hashing) nədir?",
       "wrong": [
         "Məlumatları çeşidləmək",
         "Məlumatları silmək",
@@ -3982,12 +3370,10 @@
         "Məlumatları şifrələmək"
       ],
       "correct": "O(1) axtarış üçün məlumatı sabit ölçülü indeksə uyğunlaşdırmaq"
-    }
-  },
-  {
-    "id": 308,
-    "body": "\"Axtarış Sahəsi\" (Search Space) nədir?",
-    "questions": {
+    },
+    {
+      "number": 308,
+      "body": "\"Axtarış Sahəsi\" (Search Space) nədir?",
       "wrong": [
         "GPU yaddaşı",
         "Sərt disk",
@@ -3995,12 +3381,10 @@
         "İnternet"
       ],
       "correct": "Axtarış üçün bütün mümkün həllər toplusu"
-    }
-  },
-  {
-    "id": 309,
-    "body": "Xətti Axtarış orta hesabla neçə müqayisə aparır?",
-    "questions": {
+    },
+    {
+      "number": 309,
+      "body": "Xətti Axtarış orta hesabla neçə müqayisə aparır?",
       "wrong": [
         "n^2",
         "n",
@@ -4008,12 +3392,10 @@
         "log n"
       ],
       "correct": "n/2"
-    }
-  },
-  {
-    "id": 310,
-    "body": "Üçlü Axtarışın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 310,
+      "body": "Üçlü Axtarışın mürəkkəbliyi nədir?",
       "wrong": [
         "O(n!)",
         "O(1)",
@@ -4021,12 +3403,10 @@
         "O(n)"
       ],
       "correct": "O(log_3 n)"
-    }
-  },
-  {
-    "id": 311,
-    "body": "\"Üçlü Axtarış\" (Ternary Search) nədir?",
-    "questions": {
+    },
+    {
+      "number": 311,
+      "body": "\"Üçlü Axtarış\" (Ternary Search) nədir?",
       "wrong": [
         "Heç biri",
         "3 fərqli CPU istifadə etmək",
@@ -4034,12 +3414,10 @@
         "3 ölçüdə axtarış"
       ],
       "correct": "Axtarış sahəsini üç hissəyə bölmək"
-    }
-  },
-  {
-    "id": 312,
-    "body": "Sıralanmamış siyahı üçün hansı axtarışı istifadə etməlisiniz?",
-    "questions": {
+    },
+    {
+      "number": 312,
+      "body": "Sıralanmamış siyahı üçün hansı axtarışı istifadə etməlisiniz?",
       "wrong": [
         "Atlamalı Axtarış",
         "Eksponensial Axtarış",
@@ -4047,12 +3425,10 @@
         "İnterpolyasiya Axtarışı"
       ],
       "correct": "Xətti Axtarış"
-    }
-  },
-  {
-    "id": 313,
-    "body": "n element üzərində Binar Axtarışın ən pis halı nədir?",
-    "questions": {
+    },
+    {
+      "number": 313,
+      "body": "n element üzərində Binar Axtarışın ən pis halı nədir?",
       "wrong": [
         "1 müqayisə",
         "n^2 müqayisə",
@@ -4060,12 +3436,10 @@
         "n/2 müqayisə"
       ],
       "correct": "log_2 n müqayisə"
-    }
-  },
-  {
-    "id": 314,
-    "body": "\"Eksponensial Axtarış\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 314,
+      "body": "\"Eksponensial Axtarış\" nədir?",
       "wrong": [
         "10-un qüvvətləri ilə axtarış",
         "3D-də axtarış",
@@ -4073,12 +3447,10 @@
         "Çox yavaş axtarış"
       ],
       "correct": "Açarın mövcud olduğu diapazonu tapmaq, sonra Binar Axtarış"
-    }
-  },
-  {
-    "id": 315,
-    "body": "Atlamalı Axtarışın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 315,
+      "body": "Atlamalı Axtarışın mürəkkəbliyi nədir?",
       "wrong": [
         "O(n)",
         "O(1)",
@@ -4086,12 +3458,10 @@
         "O(log n)"
       ],
       "correct": "O(sqrt{n})"
-    }
-  },
-  {
-    "id": 316,
-    "body": "\"Atlamalı Axtarış\" (Jump Search) nədir?",
-    "questions": {
+    },
+    {
+      "number": 316,
+      "body": "\"Atlamalı Axtarış\" (Jump Search) nədir?",
       "wrong": [
         "Hər ikinci elementin üzərindən tullanmaq",
         "Təsadüfi axtarış",
@@ -4099,12 +3469,10 @@
         "Avadanlıq atlaması"
       ],
       "correct": "Sıralanmış massivdə sabit addımlarla irəli tullanmaq"
-    }
-  },
-  {
-    "id": 317,
-    "body": "İnterpolyasiya Axtarışının mürəkkəbliyi nədir (ən yaxşı hal)?",
-    "questions": {
+    },
+    {
+      "number": 317,
+      "body": "İnterpolyasiya Axtarışının mürəkkəbliyi nədir (ən yaxşı hal)?",
       "wrong": [
         "O(n^2)",
         "O(n)",
@@ -4112,12 +3480,10 @@
         "O(n!)"
       ],
       "correct": "O(log (log n))"
-    }
-  },
-  {
-    "id": 318,
-    "body": "\"İnterpolyasiya Axtarışı\" nədir?",
-    "questions": {
+    },
+    {
+      "number": 318,
+      "body": "\"İnterpolyasiya Axtarışı\" nədir?",
       "wrong": [
         "Şəkillər üçün axtarış",
         "Avadanlıq axtarışı",
@@ -4125,12 +3491,10 @@
         "Sıralanmamış məlumatda axtarış"
       ],
       "correct": "Bərabər paylanmış sıralanmış məlumatlar üçün təkmilləşdirilmiş axtarış"
-    }
-  },
-  {
-    "id": 319,
-    "body": "Böyük sıralanmış siyahı üçün hansı axtarış daha sürətlidir?",
-    "questions": {
+    },
+    {
+      "number": 319,
+      "body": "Böyük sıralanmış siyahı üçün hansı axtarış daha sürətlidir?",
       "wrong": [
         "Ardıcıl Axtarış",
         "Xətti Axtarış",
@@ -4138,12 +3502,10 @@
         "Heç biri"
       ],
       "correct": "Binar Axtarış"
-    }
-  },
-  {
-    "id": 320,
-    "body": "Binar Axtarışda hədəf > orta olarsa, hara baxırsınız?",
-    "questions": {
+    },
+    {
+      "number": 320,
+      "body": "Binar Axtarışda hədəf > orta olarsa, hara baxırsınız?",
       "wrong": [
         "Yenidən ortaya",
         "Sol yarıya",
@@ -4151,12 +3513,10 @@
         "Axtarışı dayandırın"
       ],
       "correct": "Sağ yarıya"
-    }
-  },
-  {
-    "id": 321,
-    "body": "Binar Axtarışın mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 321,
+      "body": "Binar Axtarışın mürəkkəbliyi nədir?",
       "wrong": [
         "O(n)",
         "O(n log n)",
@@ -4164,12 +3524,10 @@
         "O(n^2)"
       ],
       "correct": "O(log n)"
-    }
-  },
-  {
-    "id": 322,
-    "body": "Binar Axtarış üçün əsas tələb nədir?",
-    "questions": {
+    },
+    {
+      "number": 322,
+      "body": "Binar Axtarış üçün əsas tələb nədir?",
       "wrong": [
         "Məlumatlar buludda olmalıdır",
         "Məlumatlar sətir (string) olmalıdır",
@@ -4177,12 +3535,10 @@
         "Məlumatlar kiçik olmalıdır"
       ],
       "correct": "Məlumatlar sıralanmalıdır"
-    }
-  },
-  {
-    "id": 323,
-    "body": "\"Binar Axtarış\" (Binary Search) nədir?",
-    "questions": {
+    },
+    {
+      "number": 323,
+      "body": "\"Binar Axtarış\" (Binary Search) nədir?",
       "wrong": [
         "Dairəvi siyahıda axtarış",
         "Binar ədədləri (0 və 1) axtarmaq",
@@ -4190,12 +3546,10 @@
         "Təsadüfi axtarış"
       ],
       "correct": "Sıralanmış məlumatda diapazonu yarıya bölən axtarış"
-    }
-  },
-  {
-    "id": 324,
-    "body": "Xətti Axtarış üçün ən yaxşı hal nədir?",
-    "questions": {
+    },
+    {
+      "number": 324,
+      "body": "Xətti Axtarış üçün ən yaxşı hal nədir?",
       "wrong": [
         "O(n)",
         "O(n^2)",
@@ -4203,12 +3557,10 @@
         "O(log n)"
       ],
       "correct": "O(1)"
-    }
-  },
-  {
-    "id": 325,
-    "body": "Xətti Axtarış üçün ən pis hal nədir?",
-    "questions": {
+    },
+    {
+      "number": 325,
+      "body": "Xətti Axtarış üçün ən pis hal nədir?",
       "wrong": [
         "O(log n)",
         "O(n!)",
@@ -4216,12 +3568,10 @@
         "O(1)"
       ],
       "correct": "O(n)"
-    }
-  },
-  {
-    "id": 326,
-    "body": "\"Xətti Axtarış\" (Linear Search) nədir?",
-    "questions": {
+    },
+    {
+      "number": 326,
+      "body": "\"Xətti Axtarış\" (Linear Search) nədir?",
       "wrong": [
         "Yalnız ortanı yoxlamaq",
         "Yalnız ilk və sonu yoxlamaq",
@@ -4229,12 +3579,10 @@
         "Gizli açardan istifadə etmək"
       ],
       "correct": "Hər bir elementi bir-bir yoxlamaq"
-    }
-  },
-  {
-    "id": 327,
-    "body": "\"Axtarış\" (Searching) nədir?",
-    "questions": {
+    },
+    {
+      "number": 327,
+      "body": "\"Axtarış\" (Searching) nədir?",
       "wrong": [
         "Məlumatları çeşidləmək",
         "Məlumatları şifrələmək",
@@ -4242,12 +3590,10 @@
         "Bütün məlumatları silmək"
       ],
       "correct": "Məlumatda hədəf dəyərin yerini tapmaq"
-    }
-  },
-  {
-    "id": 328,
-    "body": "Hansı daha sürətli böyüyür: n^{100} və ya 1.01^n?",
-    "questions": {
+    },
+    {
+      "number": 328,
+      "body": "Hansı daha sürətli böyüyür: n^{100} və ya 1.01^n?",
       "wrong": [
         "n^{100}",
         "log n",
@@ -4255,12 +3601,10 @@
         "Onlar bərabərdir"
       ],
       "correct": "1.01^n (Eksponentlər polinomialları üstələyir)"
-    }
-  },
-  {
-    "id": 329,
-    "body": "\"Asimptotik olaraq kiçik\" nə deməkdir?",
-    "questions": {
+    },
+    {
+      "number": 329,
+      "body": "\"Asimptotik olaraq kiçik\" nə deməkdir?",
       "wrong": [
         "C dilində yazılıb",
         "Daha az kod sətiri var",
@@ -4268,12 +3612,10 @@
         "Daha az elektrik istifadə edir"
       ],
       "correct": "n sonsuzluğa getdikcə daha yavaş böyüyür"
-    }
-  },
-  {
-    "id": 330,
-    "body": "\"o\" notasiyası f(n)-in nə olduğunu bildirir?",
-    "questions": {
+    },
+    {
+      "number": 330,
+      "body": "\"o\" notasiyası f(n)-in nə olduğunu bildirir?",
       "wrong": [
         "g(n)-ə bərabər",
         "Mənfi ədəd",
@@ -4281,12 +3623,10 @@
         "g(n)-dən böyük"
       ],
       "correct": "g(n) ilə müqayisədə əhəmiyyətsiz"
-    }
-  },
-  {
-    "id": 331,
-    "body": "\"Omega\" notasiyası nə üçün istifadə olunur?",
-    "questions": {
+    },
+    {
+      "number": 331,
+      "body": "\"Omega\" notasiyası nə üçün istifadə olunur?",
       "wrong": [
         "Yuxarı hədlər",
         "Dəqiq hədlər",
@@ -4294,12 +3634,10 @@
         "Qapanışlar"
       ],
       "correct": "Aşağı hədlər"
-    }
-  },
-  {
-    "id": 332,
-    "body": "\"Dəqiq\" artım tempi üçün ən yaxşı notasiya hansıdır?",
-    "questions": {
+    },
+    {
+      "number": 332,
+      "body": "\"Dəqiq\" artım tempi üçün ən yaxşı notasiya hansıdır?",
       "wrong": [
         "Kiçik o",
         "Big O",
@@ -4307,12 +3645,10 @@
         "Kiçik omeqa"
       ],
       "correct": "Big Theta (Theta)"
-    }
-  },
-  {
-    "id": 333,
-    "body": "n^3 = O(n^2) doğrudurmu?",
-    "questions": {
+    },
+    {
+      "number": 333,
+      "body": "n^3 = O(n^2) doğrudurmu?",
       "wrong": [
         "Həmişə",
         "Müəyyən CPU-larda",
@@ -4320,12 +3656,10 @@
         "Bəli"
       ],
       "correct": "Xeyr"
-    }
-  },
-  {
-    "id": 334,
-    "body": "n^2 = O(n^3) doğrudurmu?",
-    "questions": {
+    },
+    {
+      "number": 334,
+      "body": "n^2 = O(n^3) doğrudurmu?",
       "wrong": [
         "Heç vaxt",
         "Xeyr",
@@ -4333,12 +3667,10 @@
         "Yalnız Bazar günləri"
       ],
       "correct": "Bəli"
-    }
-  },
-  {
-    "id": 335,
-    "body": "O(log (log n)) mürəkkəbliyi nədir?",
-    "questions": {
+    },
+    {
+      "number": 335,
+      "body": "O(log (log n)) mürəkkəbliyi nədir?",
       "wrong": [
         "Kvadratik",
         "Xətti",
@@ -4346,12 +3678,10 @@
         "Sabit"
       ],
       "correct": "İkiqat loqarifmik"
-    }
-  },
-  {
-    "id": 336,
-    "body": "Əgər f(n) O(n^2) və g(n) O(n^3) olarsa, f(n)+g(n) nədir?",
-    "questions": {
+    },
+    {
+      "number": 336,
+      "body": "Əgər f(n) O(n^2) və g(n) O(n^3) olarsa, f(n)+g(n) nədir?",
       "wrong": [
         "O(n)",
         "O(1)",
@@ -4359,12 +3689,10 @@
         "O(n^5)"
       ],
       "correct": "O(n^3)"
-    }
-  },
-  {
-    "id": 337,
-    "body": "Hansı mürəkkəblik \"Faktorial\" artımı təmsil edir?",
-    "questions": {
+    },
+    {
+      "number": 337,
+      "body": "Hansı mürəkkəblik \"Faktorial\" artımı təmsil edir?",
       "wrong": [
         "O(2^n)",
         "O(n)",
@@ -4372,12 +3700,10 @@
         "O(n^n)"
       ],
       "correct": "O(n!)"
-    }
-  },
-  {
-    "id": 338,
-    "body": "Asimptotik notasiya nələrə məhəl qoymur?",
-    "questions": {
+    },
+    {
+      "number": 338,
+      "body": "Asimptotik notasiya nələrə məhəl qoymur?",
       "wrong": [
         "Giriş ölçüsünə",
         "n dəyişəninə",
@@ -4385,12 +3711,10 @@
         "Bütün funksiyaya"
       ],
       "correct": "Sabitlər və aşağı dərəcəli hədlər"
-    }
-  },
-  {
-    "id": 339,
-    "body": "Əgər f(n) = Theta(n^2) olarsa, onun Big O-su haqqında nə demək olar?",
-    "questions": {
+    },
+    {
+      "number": 339,
+      "body": "Əgər f(n) = Theta(n^2) olarsa, onun Big O-su haqqında nə demək olar?",
       "wrong": [
         "O(n)-dir",
         "O(sqrt{n})-dir",
@@ -4398,12 +3722,10 @@
         "O(1)-dir"
       ],
       "correct": "O(n^2)-dir"
-    }
-  },
-  {
-    "id": 340,
-    "body": "O və o arasındakı əlaqə nədir?",
-    "questions": {
+    },
+    {
+      "number": 340,
+      "body": "O və o arasındakı əlaqə nədir?",
       "wrong": [
         "o yaddaş üçündür",
         "O zaman üçündür",
@@ -4411,12 +3733,10 @@
         "O, o-dan daha ciddidir"
       ],
       "correct": "o, O-dan daha ciddidir"
-    }
-  },
-  {
-    "id": 341,
-    "body": "Big O-da 3n^2 + 10n nəyə çevrilir?",
-    "questions": {
+    },
+    {
+      "number": 341,
+      "body": "Big O-da 3n^2 + 10n nəyə çevrilir?",
       "wrong": [
         "O(1)",
         "O(10n)",
@@ -4424,12 +3744,10 @@
         "O(n)"
       ],
       "correct": "O(n^2)"
-    }
-  },
-  {
-    "id": 342,
-    "body": "Hansı artım dərəcəsi daha yüksəkdir: O(n) yoxsa O(n log n)?",
-    "questions": {
+    },
+    {
+      "number": 342,
+      "body": "Hansı artım dərəcəsi daha yüksəkdir: O(n) yoxsa O(n log n)?",
       "wrong": [
         "Onlar bərabərdir",
         "O(n)",
@@ -4438,5 +3756,5 @@
       ],
       "correct": "O(n log n)"
     }
-  }
-]
+  ]
+}

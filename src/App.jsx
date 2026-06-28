@@ -1,7 +1,7 @@
 import { useState, useMemo } from "react";
 import "./App.css";
 import Question from "./components/question/Question";
-import questionsData from "./assets/alqo.json";
+import { questions as questionsData } from "./assets/questions.json";
 
 function shuffleOptions(q) {
   const options = [...q.wrong, q.correct].sort(() => Math.random() - 0.5);
