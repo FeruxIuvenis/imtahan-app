@@ -3310,6 +3310,2780 @@
         "Tədbirin keçiriləcəyi yer qeyd edilməlidir."
       ],
       "correct": "Şəxsin öz xətti ilə yazılmalıdır."
+    },
+    {
+      "number": 401,
+      "body": "Elan verilərkən bunlardan hansı qeyd olunmur?",
+      "wrong": [
+        "məlumatın mahiyyəti, məzmunu",
+        "tədbirin keçiriləcəyi yer",
+        "bir və ya bir neçə məlumatın əks olunması",
+        "dəqiq vaxt və məlumatın kim tərəfindən verilməsi"
+      ],
+      "correct": "iştirakçıların sayı"
+    },
+    {
+      "number": 402,
+      "body": "Latın sözü olub “qışqırmaq” mənasını verir:",
+      "wrong": ["annotasiya", "ərizə", "teleqram", "protokol"],
+      "correct": "reklam"
+    },
+    {
+      "number": 403,
+      "body": "Verilmiş sənədi müəyyənləşdirin: May ayının 15-də universitetin iclas zalında şairlərdən Fikrət Qoca və Zahid Xəlillə görüş keçiriləcək. Arzu edənlər iştirak edə bilərlər.",
+      "wrong": ["ərizə", "protokol", "arayış", "akt"],
+      "correct": "bildiriş"
+    },
+    {
+      "number": 404,
+      "body": "Ələt qəsəbəsinin Mərkəzi klubunda Azərbaycan Dövlət Kukla Teatrının qastrolu çərçivəsində bir neçə tamaşanın göstəriləcəyi planlaşdırılır. Qəsəbə sakinlərinə bu barədə məlumat vermək üçün klubun qarşısındakı lövhədə aşağıdakılardan hansını görə bilərik?",
+      "wrong": ["reklam", "annotasiya", "akt", "rəy"],
+      "correct": "afişa"
+    },
+    {
+      "number": 405,
+      "body": "Bunlardan biri elan növü deyil:",
+      "wrong": ["afışa", "anons", "bildiriş", "reklam"],
+      "correct": "hesabat"
+    },
+    {
+      "number": 406,
+      "body": "Hansı sənədin sonunda imzaya ehtiyac duyulmur?",
+      "wrong": ["tərcümeyi-hal", "arayış", "akt", "izahat"],
+      "correct": "afişa"
+    },
+    {
+      "number": 407,
+      "body": "«… bu və ya digər məlumatı insanlara qabaqcadan çatdırmaqla təşkiledici missiyanı yerinə yetirir». Nöqtələrin yerinə hansı işgüzar sənəd uyğun gəlir?",
+      "wrong": ["məktub", "teleqram", "arayış", "rəy"],
+      "correct": "elan"
+    },
+    {
+      "number": 408,
+      "body": "Bir adama şöhrət qazandırmaq, bir məhsulu fərqləndirmək və ya istehlakçı, müştəri, tamaşaçı cəlb etmək məqsədi ilə görülən tədbirlər necə adlanır?",
+      "wrong": ["protokol", "bildiriş", "töhmət", "afişa"],
+      "correct": "reklam"
+    },
+    {
+      "number": 409,
+      "body": "Bu və ya digər məlumatı insanlara qabaqcadan çatdırmaq üçün nəzərdə tutulur:",
+      "wrong": ["müqavilə", "əmr", "töhmət", "təqdimat"],
+      "correct": "elan"
+    },
+    {
+      "number": 410,
+      "body": "Anons, reklam, afişa, bildiriş və s. kimi işgüzar yazı nümunələri hansı sənəd formasına daha yaxındır?",
+      "wrong": ["ərizə", "arayış", "qəbz", "izahat"],
+      "correct": "elan"
+    },
+    {
+      "number": 411,
+      "body": "“Kapital” bank əhalinin nəzərinə çatdırır ki, əmanətlərə verilən orta illik gəlir 8 faizdən 10 faizə qaldırılmışdır. Verilmiş nümunənin hansı əməli yazı növünə aid olduğunu göstərin:",
+      "wrong": ["teleqram", "arayış", "etibarnamə", "rəy"],
+      "correct": "bildiriş"
+    },
+    {
+      "number": 412,
+      "body": "12-28 iyun 2017-ci il tarixində Avropa Oyunlarının keçirilməsi ilə əlaqədar könüllüləri həmin tədbirlərdə iştirak etməyə dəvət edirik. Verilmiş nümunə hansı əməli yazı növünə aiddir?",
+      "wrong": ["arayış", "reklam", "teleqram", "akt"],
+      "correct": "çağırış"
+    },
+    {
+      "number": 413,
+      "body": "Verilənlərdən biri işgüzar sənəddir:",
+      "wrong": ["bəyanat", "fərman", "nota", "sərəncam"],
+      "correct": "reklam"
+    },
+    {
+      "number": 414,
+      "body": "Məzmununa və məqsədinə görə elan xarakterli yazılara aid deyil: 1. Anons, 2. reklam, 3. afişa, 4. bildiriş, 5. akt, 6. tərcümeyi-hal",
+      "wrong": ["1, 2", "2, 4", "1, 6", "4, 5"],
+      "correct": "5, 6"
+    },
+    {
+      "number": 415,
+      "body": "Məzmununa və məqsədinə görə elan xarakterli yazılara aiddir: 1. Anons, 2. reklam, 3. izahat, 4. bildiriş, 5. akt, 6. tərcümeyi-hal",
+      "wrong": ["1, 5, 6", "2, 3, 6", "2, 4, 5", "1, 2, 3"],
+      "correct": "1, 2, 4"
+    },
+    {
+      "number": 416,
+      "body": "Bildirişin dil xüsusiyyətlərinə aid deyil:",
+      "wrong": [
+        "Elmi konfrans, qurultay, elmi şura və s. haqqında bildirişlər rəsmi ədəbi dildə yazılmalıdır.",
+        "Təntənəli gecə, yubiley gecəsi və s. bədiiliyə və emosional ifadələrə yol verilə bilər.",
+        "Bildirişin dili səlis olmalıdır.",
+        "Buradakı fikir aydın olmalıdır."
+      ],
+      "correct": "Dolaşıq ifadələrə rast gəlinir."
+    },
+    {
+      "number": 417,
+      "body": "“Reklam” sözü ilə bağlı deyilənlərdən biri səhvdir:",
+      "wrong": [
+        "Bir adam və ya bir şey haqqında məlumat verilən, diqqəti cəlb edən elan, plakat mənasındadır.",
+        "Reklam tərtib edən, reklam düzəldən şəxs “reklamçı” adlanır.",
+        "Bir adama və ya bir şeyə şöhrət qazandırmaq, yaxud istehlakçı, müştəri, tamaşaçı cəlb etmək məqsədilə görülən tədbirlər anlamını verir.",
+        "Məşhurlaşdırmaq, kütləviləşdirmək məqsədilə bir adam və ya bir şey haqqında məlumat yaymaq mənasını ehtiva edir."
+      ],
+      "correct": "Elmi, bədii tədbir haqqında kollektiv və ya ictimaiyyətə məlumat vermək məqsədilə yazılır."
+    },
+    {
+      "number": 418,
+      "body": "27 oktyabr 2021-ci il tarixində saat 12:00-da universitetin akt zalında Zəfər gününə həsr olunmuş tədbir keçiriləcək. Arzu edənlər iştirak edə bilərlər. Verilmiş nümunə işgüzar sənədlərdən hansına aiddir?",
+      "wrong": ["izahat", "təqdimat", "hesabat", "reklam"],
+      "correct": "bildiriş"
+    },
+    {
+      "number": 419,
+      "body": "Yanvar ayında universitetin Əsas binasının akt zalında tanınmış yazıçı Çingiz Abdullayevlə görüş olacaq. Arzu edənlər iştirak edə bilərlər. Bu nümunə hansı sənədə aiddir?",
+      "wrong": ["hesabat", "arayış", "məktub", "afişa"],
+      "correct": "bildiriş"
+    },
+    {
+      "number": 420,
+      "body": "Noyabr ayının 7-də saat 14:00-da universitetin akt zalında “Zəfər günü”nə həsr olunmuş tədbir keçiriləcəkdir. Verilən nümunənin aid olduğu sənəd növünü göstərin:",
+      "wrong": ["reklam", "məktub", "afişa", "təqdimat"],
+      "correct": "bildiriş"
+    },
+    {
+      "number": 421,
+      "body": "Latın sözü olub “qışqırmaq” mənasını verir, bir neçə anlamda işlənir: bir adama və bir şeyə şöhrət qazandırmaq, məşhurlaşdırmaq, kütləviləşdirmək. Söhbət hansı əməli yazı növündən gedir?",
+      "wrong": ["afişa", "təqdimat", "bildiriş", "protokol"],
+      "correct": "reklam"
+    },
+    {
+      "number": 422,
+      "body": "Mətni iki hissədən ibarət olur. I hissədə sənədin tərtib edilməsinin səbəbi göstərilir. II hissədə isə məqsəd və vəzifələr, aparılmış işin mahiyyəti, faktlar, nəticə və təkliflər ifadə olunur. Bu hansı sənəddir?",
+      "wrong": ["fərman", "reklam", "sərəncam", "müqavilə"],
+      "correct": "akt"
+    },
+    {
+      "number": 423,
+      "body": "Müqavilə sözünün mənası nə deməkdir?",
+      "wrong": [
+        "məzəmmət, danlaq",
+        "aydın, ətraflı",
+        "ərz etmək",
+        "arama, axtarma"
+      ],
+      "correct": "qarşılıqlı razılaşma"
+    },
+    {
+      "number": 424,
+      "body": "Aktın məzmununa görə növlərinə aid deyil: 1. şəxsi akt, 2. cinayət aktı, 3. dövlət aktı, 4. sözlü akt, 5. faktı açmaq üçün müəyyən edilən akt",
+      "wrong": ["2, 3", "3, 4", "1, 5", "1, 2"],
+      "correct": "1, 4"
+    },
+    {
+      "number": 425,
+      "body": "Biri pauzanın nitq prosesindəki xidmətinə aid edilmir:",
+      "wrong": [
+        "ciddi xəbərdarlıq məqsədi ilə",
+        "qarşı tərəfə öz fikrini bildirməyə imkan yaratmağa",
+        "danışanın problem ətrafında fikirləri bitdikdə",
+        "növbəti deyiləcək fikirlərə diqqət cəlb etməyə"
+      ],
+      "correct": "obyektiv və subyektiv məqamları müəyyənləşdirmək tələb olunduqda"
+    },
+    {
+      "number": 426,
+      "body": "Hərbçilərin bir-birilə salamlaşması, islam adətlərinə müvafiq olaraq ziyarətgahlara salam verilməsi və s. hansı jestlərə aiddir?",
+      "wrong": [
+        "emosional jestlər",
+        "təsvirləyən jestlər",
+        "səmtləyici jestlər",
+        "ritmik jestlər"
+      ],
+      "correct": "simvolik jestlər"
+    },
+    {
+      "number": 427,
+      "body": "“Ünsiyyət axarında hadisələrin ardıcıllığını əks etdirməyə xidmət göstərən jestlərdir”. Verilən fikir nəyə aiddir?",
+      "wrong": [
+        "simvolik jestlər",
+        "təsvirləyən jestlər",
+        "səmtləyici jestlər",
+        "emosional jestlər"
+      ],
+      "correct": "ritmik jestlər"
+    },
+    {
+      "number": 428,
+      "body": "Yumruğunu stola vurmaq, ikiəlli başını tutmaq, ayağını yerə vurmaq və s. hansı jestlərə aiddir?",
+      "wrong": [
+        "səmtləyici jestlər",
+        "təsvirləyən jestlər",
+        "simvolik jestlər",
+        "ritmik jestlər"
+      ],
+      "correct": "emosional jestlər"
+    },
+    {
+      "number": 429,
+      "body": "Verilənlərdən biri emosional jestlərə aid edilir:",
+      "wrong": [
+        "kök, arıq, yekə və s. mənasını bildirən jestlər",
+        "dəfn mərasimlərində baş geyiminin çıxarılması və s.",
+        "ünsiyyət axarında hadisələrin ardıcıllığını əks etdirməyə xidmət göstərən jestlər",
+        "sağ, sol, yuxarı, aşağı, irəli, geri jestlər"
+      ],
+      "correct": "yumruğunu stola vurmaq, barmağını silkələməklə hədələmək və s."
+    },
+    {
+      "number": 430,
+      "body": "Ünsiyyətin həm məzmunu, həm də ünsiyyət vasitələri reqlamentləşdirilir; həmsöhbətin şəxsiyyətini öyrənmək əvəzinə onun sosial rolunu öyrənməklə kifayətlənirlər. Bu hansı ünsiyyət növüdür?",
+      "wrong": [
+        "Mənəvi, şəxsiyyətlərarası",
+        "Manipulyasiyaedici",
+        "İşgüzar",
+        "Kübar (ziyalı)"
+      ],
+      "correct": "Formal-rollu"
+    },
+    {
+      "number": 431,
+      "body": "“Nitq prosesində üz əzələlərinin mənalı hərəkətləri adlanır”. Verilən fikir nəyə aiddir?",
+      "wrong": ["jest", "dialoq", "mükalimə", "ritorika"],
+      "correct": "mimika"
+    },
+    {
+      "number": 432,
+      "body": "“Emosional-ekspressiv çalarlıqları əks etdirən səs tonlarının kompleksidir”. Verilən fikir nəyə aiddir?",
+      "wrong": ["pauza", "mimika", "jest", "intonasiya"],
+      "correct": "nitq tembri"
+    },
+    {
+      "number": 433,
+      "body": "Kommunikator kimdir?",
+      "wrong": [
+        "informasiyanı nizamlayan",
+        "informasiyadan istifadə edən",
+        "informasiyanı toplayan",
+        "informasiyanı qəbul edən"
+      ],
+      "correct": "informasiyanı verən"
+    },
+    {
+      "number": 434,
+      "body": "Sadə jestlərə aiddir:",
+      "wrong": [
+        "Əl çalmaq",
+        "Barmaqlarını bir-birinə sürtmək",
+        "Əlini başı üstünə qaldırıb sağa-sola yelləmək",
+        "Yekcins olmayan müxtəlif hərəkətlərin sintezi"
+      ],
+      "correct": "Hərbçilərin bir-birini salamlaması"
+    },
+    {
+      "number": 435,
+      "body": "Pauzanın nitq prosesindəki xidmətinə aid deyil:",
+      "wrong": [
+        "Qarşı tərəfə öz fikrini bildirməyə imkan vermək",
+        "Danışanın problem ətrafında fikirləri bitdikdə",
+        "Öncə söylənilənlərin xüsusi əhəmiyyətli olduğunu diqqətə çatdırmaq tələb olunduqda",
+        "Əlavə şərhə ehtiyac olmadıqda"
+      ],
+      "correct": "Obyektiv və subyektiv məqamları müəyyənləşdirmək tələb olunduqda"
+    },
+    {
+      "number": 436,
+      "body": "Verilənlərdən biri ünsiyyət prosesinin əsas ünsürü deyil:",
+      "wrong": [
+        "kanal - informasiyanın ötürülmə vasitəsi",
+        "informasiyanı qəbul edən",
+        "informasiyanı göndərən",
+        "məlumat - informasiyanın özü"
+      ],
+      "correct": "yerinə yetirilmə haqqında məlumat"
+    },
+    {
+      "number": 437,
+      "body": "“Həmsöhbət haqqında müəyyən təsəvvür formalaşdırmaq, yaxud hansısa informasiyanı almaq ən aparıcı məqsəddir”. Verilən fikir nəyə aiddir?",
+      "wrong": [
+        "vasitəsiz ünsiyyət",
+        "intim-şəxsi ünsiyyət",
+        "tərbiyəvi ünsiyyət",
+        "işgüzar ünsiyyət"
+      ],
+      "correct": "diaqnostik ünsiyyət"
+    },
+    {
+      "number": 438,
+      "body": "Latın mənşəlidir, “şifahi, söz” mənasını ifadə edir:",
+      "wrong": ["nitq", "intonasiya", "pauza", "refleksiya"],
+      "correct": "verbal"
+    },
+    {
+      "number": 439,
+      "body": "Doğru fikri göstərin:",
+      "wrong": [
+        "Natiqlər öz çıxışlarını hansı jest və mimika ilə başlayırlarsa, o cür də tamamlayırlar.",
+        "Bütün natiqlər çıxış zamanı eyni mimikadan istifadə edirlər.",
+        "Natiqlər eyni jestdən istifadə edirlər.",
+        "Jestlə mimika psixoloji aktlardır."
+      ],
+      "correct": "Şifahi ədəbi dil jest və mimikasız təsəvvür etmək mümkün deyil."
+    },
+    {
+      "number": 440,
+      "body": "Düzgün cavabı göstərin:",
+      "wrong": [
+        "Gözəl natiq jestsiz də təsirli nitq söyləyə bilər.",
+        "Natiq nitqində çətin dildə, zəngin terminlərlə danışmalıdır.",
+        "Jestləri natiqlər eyni cür tətbiq edirlər.",
+        "Nitqdə mimikasız da keçinmək olar."
+      ],
+      "correct": "Yersiz jestlər gülüş doğura bilər."
+    },
+    {
+      "number": 441,
+      "body": "“Jest” nədir?",
+      "wrong": [
+        "Aydın, yığcam danışmaqdır.",
+        "Razılıq bildirən nitq etiketidir.",
+        "Nitqin ifadəli və cəlbedici olmasıdır.",
+        "Üz əzələlərinin mənalı hərəkətidir."
+      ],
+      "correct": "Əl-qol hərəkətlərindən məqsədyönlü istifadədir."
+    },
+    {
+      "number": 442,
+      "body": "Verilənlərdən biri mimikaya aiddir:",
+      "wrong": [
+        "Əl-qol hərəkətlərindən məqsədyönlü istifadədir.",
+        "Düzgün nitqə verilən şərtlərdən biridir.",
+        "Aydın, yığcam danışmaqdır.",
+        "Razılıq bildirən nitq etiketləridir."
+      ],
+      "correct": "Üz əzələlərinin mənalı hərəkətidir."
+    },
+    {
+      "number": 443,
+      "body": "Verilənlərdən biri yazılı nitqin xüsusiyyətini özündə əks etdirmir:",
+      "wrong": [
+        "Struktur mürəkkəbliyi mövcuddur.",
+        "Yazılanları bir neçə dəfə götür-qoy etmək mümkündür.",
+        "Aktual üzvlənməyə və söz sırasına görə şifahi nitqdən fərqlidir.",
+        "Adresatla birbaşa əlaqəsi yoxdur."
+      ],
+      "correct": "Adresant və adresat arasında canlı əlaqə labüddür."
+    },
+    {
+      "number": 444,
+      "body": "Biri şifahi nitqə aid deyil:",
+      "wrong": [
+        "Yüksək dərəcədə avtomatlaşmış nitqdir.",
+        "Zəngin intonasiya çalarlıqlarına malikdir.",
+        "Dil vahidlərindən istifadə olunmasında sərbəstlik var.",
+        "Adresant və adresat arasında canlı əlaqə labüddür."
+      ],
+      "correct": "Struktur mürəkkəbliyi mövcuddur."
+    },
+    {
+      "number": 445,
+      "body": "Verilənlərdən biri ünsiyyətin müxtəlif və çoxsaylı tipologiyasına aid deyil:",
+      "wrong": [
+        "işgüzar ünsiyyət",
+        "intim-şəxsi ünsiyyət",
+        "tərbiyəvi ünsiyyət",
+        "diaqnostik ünsiyyət"
+      ],
+      "correct": "situativ ünsiyyət"
+    },
+    {
+      "number": 446,
+      "body": "“Nitq axarında cümlələrin hüdudlarını, bir-birindən ayrıldığını göstərən funksiyadır”. Söhbət intonasiyanın hansı funksiyasından gedir?",
+      "wrong": [
+        "apelyativ funksiya",
+        "kulminitiv (ayırıcı) funksiya",
+        "emosional-ekspressiv funksiya",
+        "kommunikativ funksiya"
+      ],
+      "correct": "delimitativ (hüdudlandırıcı) funksiya"
+    },
+    {
+      "number": 447,
+      "body": "“... insanın uzun müddət başqaları ilə ünsiyyət yarada bilməməsinin nəticəsi kimi özünü göstərir”. Nöqtələrin yerinə uyğun gələn variantı seçin:",
+      "wrong": [
+        "psixoloji tənhalıq",
+        "şəxsi ünsiyyət",
+        "situativ tənhalıq",
+        "keçici tənhalıq"
+      ],
+      "correct": "xroniki tənhalıq"
+    },
+    {
+      "number": 448,
+      "body": "Yazılı nitqin xüsusiyyətlərinə aid olan cavab variantını seçin:",
+      "wrong": [
+        "Çoxsaylı paralinqvistik vasitələrin iştirakı istisna olunmur.",
+        "Yüyrək nitqdir.",
+        "Adresant və adresat arasında canlı əlaqə labüddür.",
+        "Yüksək dərəcədə avtomatlaşmış nitqdir."
+      ],
+      "correct": "Yazılanları bir neçə dəfə götür-qoy etmək, düzəliş aparmaq, lazım olmayanı silmək, yenisi ilə əvəzləmək mümkündür."
+    },
+    {
+      "number": 449,
+      "body": "Şifahi nitqin xüsusiyyətlərinə aid olan cavab variantını seçin:",
+      "wrong": [
+        "Struktur mürəkkəbliyi mövcuddur.",
+        "Adresatla birbaşa əlaqəsi yoxdur.",
+        "Dil vahidlərindən qrammatik qanunauyğunluqlarla istifadə olunmasını tələb edir.",
+        "Zəngin intonasiya çalarlıqlarına malik deyil."
+      ],
+      "correct": "Dil vahidlərindən istifadə olunmasında sərbəstlik var."
+    },
+    {
+      "number": 450,
+      "body": "Jestlər necə qruplaşdırılır:",
+      "wrong": [
+        "mürəkkəb və qarışıq",
+        "birmənalı, mürəkkəb, qarışıq",
+        "sadə, birmənalı, mürəkkəb",
+        "sadə, birmənalı, qarışıq"
+      ],
+      "correct": "sadə, mürəkkəb, qarışıq"
+    },
+    {
+      "number": 451,
+      "body": "Aktın məzmununa görə növlərini seçin:1. şəxsi akt\n2. cinayət aktı\n3. dövlət aktı\n4. sözlü akt\n5. bu və ya digər bir faktı açmaq üçün müəyyən edilən akt.",
+      "wrong": ["1, 4, 5", "1, 2, 3", "1, 3, 5", "3, 4, 5"],
+      "correct": "2, 3, 5"
+    },
+    {
+      "number": 452,
+      "body": "Akademik nitq natiqlik sənətinin bir növü olaraq nə vaxt formalaşmışdır?",
+      "wrong": [
+        "eramızdan əvvəl III əsrdə",
+        "eramızdan əvvəl IV əsrdə",
+        "eramızdan əvvəl II əsrdə",
+        "eramızdan əvvəl VI əsrdə"
+      ],
+      "correct": "antik dövrdə, eramızdan əvvəl V əsrdə"
+    },
+    {
+      "number": 453,
+      "body": "İctimai nitq nədir?",
+      "wrong": [
+        "İnformasiya mübadiləsidir.",
+        "Ünsiyyət naminə(və ya xatirinə) ünsiyyətdir.",
+        "İctimaiyyət içərisində qurulan söhbətdir.",
+        "İki və daha çox insanın dialoqudur."
+      ],
+      "correct": "Çoxsaylı auditoriyaya müraciətlə söylənilən nitqdir."
+    },
+    {
+      "number": 454,
+      "body": "Biri müqaviləyə aid deyil:",
+      "wrong": [
+        "Növündən asılı olaraq terminlərdən istifadə etmək olur.",
+        "İki və çox tərəf ola bilər.",
+        "Ərəb mənşəlidir, “ sözləşmə, razılaşma” mənalarında işlənir.",
+        "Müəyyən şərtlər əsasında bağlanır."
+      ],
+      "correct": "“Hərəkət, hadisə, cinayət işi” deməkdir."
+    },
+    {
+      "number": 455,
+      "body": "“Müqavilə” sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["fars", "türk", "yunan", "latın"],
+      "correct": "ərəb"
+    },
+    {
+      "number": 456,
+      "body": "“...” ərəb mənşəli olub, iki hissədən ibarətdir və sözləşmə, razılaşma mənasındadır:",
+      "wrong": ["izahat", "reklam", "xasiyyətnamə", "elan"],
+      "correct": "müqavilə"
+    },
+    {
+      "number": 457,
+      "body": "“Hər hansı bir iş və hadisəni qanuniləşdirib hüquqi sənəd statusu verir. Tərtib edilən hər hansı bir hadisə, iş, obyekt artıq müəyyən hüquqi məzmun kəsb edir”. Verilənlər hansı sənədin mahiyyətini özündə əks etdirir?",
+      "wrong": ["əqd", "reklam", "raport", "protokol"],
+      "correct": "akt"
+    },
+    {
+      "number": 458,
+      "body": "Akta aid olmayan fikri göstərin:",
+      "wrong": [
+        "Sırf ədəbi dildə yazılmalıdır.",
+        "Sonda tərtib edənlərin imzası qoyulur.",
+        "Yoxlanılan hadisə haqqında dəqiq məlumat verilir.",
+        "Mətni giriş və şərh hissələrindən ibarət olur."
+      ],
+      "correct": "Müraciət hissəsi xitabla başlayır."
+    },
+    {
+      "number": 459,
+      "body": "Latın dilində “aktus” hərəkət və “aktum” sənəd mənalarında işlənir. Söhbət hansı sənəddən gedir?",
+      "wrong": ["izahat", "məktub", "ərizə", "hesabat"],
+      "correct": "akt"
+    },
+    {
+      "number": 460,
+      "body": "Verilmiş fikir hansı əməli yazı nümunəsinə aiddir?“Hər hansı bir iş və hadisəni qanuniləşdirib hüquqi sənəd statusu verir. Tərtib edilən hər hansı bir hadisə, iş, obyekt artıq müəyyən hüquqi məzmun kəsb edir”.",
+      "wrong": ["annotasiya", "protokol", "hesabat", "qəbz"],
+      "correct": "akt"
+    },
+    {
+      "number": 461,
+      "body": "Verilən fikirlərdən biri akta aid deyil:",
+      "wrong": [
+        "Tərtib olunmasında iştirak edən bütün şəxslər tərəfindən imzalanır.",
+        "Bir neçə bənddən ibarət ola bilər.",
+        "Sonunda onun nüsxələri və saxlandığı yer haqqında məlumat verilir.",
+        "Başlığı göstərilən məsələni qısa şəkildə əks etdirməlidir."
+      ],
+      "correct": "Şəxsin öz xətti ilə yazılmalıdır."
+    },
+    {
+      "number": 462,
+      "body": "Verilənlərdən biri aktın hazırlanması və tərtib edilməsinə aid deyil:",
+      "wrong": [
+        "İmza edən şəxslərin vəzifələri göstərilir.",
+        "Mətni giriş və şərh hissələrindən ibarət olur.",
+        "Tərtib olunduğu yer və tarix yazılan hadisənin yerinə və tarixinə uyğun gəlməlidir.",
+        "Tərtib olunmasında iştirak edən bütün şəxslər tərəfindən imzalanır."
+      ],
+      "correct": "Tərəflərin mülki hüquqda bu və ya digər sahədə hüquq və vəzifələrini qarşılıqlı şəkildə tənzimləyir."
+    },
+    {
+      "number": 463,
+      "body": "Ərəb mənşəlidir, “ sözləşmə, razılaşma” mənalarında işlənir. Verilən fikir aiddir:",
+      "wrong": ["protokola", "etibarnaməyə", "hesabata", "töhmətə"],
+      "correct": "müqaviləyə"
+    },
+    {
+      "number": 464,
+      "body": "Verilənlərdən biri elan xarakterli əməli yazılara aid deyil:",
+      "wrong": ["reklam", "bildiriş", "anons", "afişa"],
+      "correct": "müqavilə"
+    },
+    {
+      "number": 465,
+      "body": "Akt haqqında deyilənlərdən biri səhvdir:",
+      "wrong": [
+        "Aktın sonunda ( imzadan əvvəl) onun nüsxələri haqqında məlumat verilir.",
+        "Akt bir neçə bənddən ibarət ola bilər.",
+        "Akt onun tərtib olunmasında iştirak edən bütün şəxslər tərəfindən imzalanır.",
+        "Aktın başlığı həmin aktda göstərilən məsələni qısa şəkildə əks etdirməlidir."
+      ],
+      "correct": "Yalnız komissiyanın sədri tərəfindən imzalanır."
+    },
+    {
+      "number": 466,
+      "body": "“Azərbaycan dilində işgüzar və akademik kommunikasiya” fənninin tədrisinə aid deyil:",
+      "wrong": [
+        "Tələbələrdə şifahi və yazılı işgüzar və akademik kommunikasiya vərdişlərini formalaşdırmaq",
+        "Tələbələrdə kommunikativ bacarıqları inkişaf etdirmək",
+        "İşgüzar kommunikasiyanın ən təsirli üsulları və formalarına əsaslanaraq, gələcəkdə tələbələrə peşəkar fəaliyyətlərini həyata keçirməyə imkan verəcək kommunikativ səlahiyyətləri formalaşdırmaq",
+        "İşgüzar və akademik kommunikasiya nəzəriyyəsi və təcrü-bəsi sahəsində biliklər vermək"
+      ],
+      "correct": "Mülki-hüquqi mülkiyyət münasibətlərini nizamlamaq"
+    },
+    {
+      "number": 467,
+      "body": "İmic anlayışını ilk dəfə işgüzar və elmi mühitə kim daxil etmişdir?",
+      "wrong": [
+        "Leonardo da Vinçi",
+        "Adam Qrant",
+        "De Yager",
+        "Hans Yurgens Ayzenk"
+      ],
+      "correct": "Kennet Bolduinq"
+    },
+    {
+      "number": 468,
+      "body": "“İngiliscədən tərcümədə obraz, zahiri görünüş, təsvir, şəkil mənalarını bildirir”. Verilən fikir aiddir:",
+      "wrong": ["etikaya", "etiketə", "xarakterə", "temperamentə"],
+      "correct": "imicə"
+    },
+    {
+      "number": 469,
+      "body": "Verilən xüsusiyyətlərdən biri fransız tərəfdaşların xarakterinə aiddir:",
+      "wrong": ["ciddilik", "qənaətcil", "az danışmaq", "düşüncə aydınlığı"],
+      "correct": "hazırcavab"
+    },
+    {
+      "number": 470,
+      "body": "\"Bir mədəniyyəti başqa bir mədəniyyətin standartları, dəyərləri və baxış bucağı əsasında qiymətləndirməkdir\". Verilən xüsusiyyət aiddir:",
+      "wrong": ["kommunikasiya", "temperament", "etiket", "reqlament"],
+      "correct": "etnosentrizm"
+    },
+    {
+      "number": 471,
+      "body": "Hansı xüsusiyyət amerikalı tərəfdaşlara aiddir?",
+      "wrong": [
+        "qənaətcil",
+        "xırdaçı",
+        "az danışmaq",
+        "tək işləməyə üstünlük vermək"
+      ],
+      "correct": "fərdi azadlığa dəyər"
+    },
+    {
+      "number": 472,
+      "body": "Tərcüməçi vasitəsilə ünsiyyət qurarkən müəyyən qaydalara riayət etmək lazımdır. Aşağıdakı cavablardan biri yanlışdır:",
+      "wrong": [
+        "Tərəfdaşlarınız sizi düzgün başa düşmürlərsə, onların reaksiyasını nəzərə alıb, dərhal tədbir görmək",
+        "Danışıqlardan əvvəl tərcüməçini müzakirə ediləcək məsələlərlə daha yaxından tanış etmək",
+        "Fikirləri dəqiq formalaşdırmaq və asta sürətlə danışmaq",
+        "Ardıcıl olaraq söylənilənlərin bir və ya iki cümlədən artıq olmamasına çalışmaq"
+      ],
+      "correct": "Nitqdə atalar sözü və məsəllərdən, ideomatik ifadələrdən, xüsusən də şeir parçalarından istifadə etmək"
+    },
+    {
+      "number": 473,
+      "body": "İşgüzar münasibətlər zamanı almanlara xas olmayan xüsusiyyət hansıdır?",
+      "wrong": [
+        "Ciddi, az danışan və təmkinlidirlər.",
+        "Tələskənliyi xoşlamırlar.",
+        "İşgüzar insanları ünsiyyətcil olur.",
+        "Peşəkarlığı yüksək qiymətləndirirlər."
+      ],
+      "correct": "Bütün görüşləri son anda təyin edirlər."
+    },
+    {
+      "number": 474,
+      "body": "Aşağıdakılardan biri amerikalı biznesmenin ən ümdə keyfiyyəti deyil:",
+      "wrong": [
+        "təhlil etmək",
+        "işin icrasını yoxlamaq",
+        "analiz aparmaq",
+        "vəzifə bölgüsü aparmaq"
+      ],
+      "correct": "xırdaçılığa yol vermək"
+    },
+    {
+      "number": 475,
+      "body": "Verilənlərdən biri etnosentrizm təzahürünə aid deyil:",
+      "wrong": [
+        "tərəfdaşı gözdən salmaq",
+        "işgüzar nüfuza qara ləkə salmaq",
+        "tərəfdaşlıq münasibətlərini dağıtmaq",
+        "tərəfdaşların etibarını korlamaq"
+      ],
+      "correct": "səmərəli əməkdaşlıq"
+    },
+    {
+      "number": 476,
+      "body": "Xüsusiyyətlərdən biri alman tərəfdaşları xarakterizə etmir?",
+      "wrong": ["təmkinlilik", "ciddilik", "az danışan", "dəqiqlik"],
+      "correct": "güclü yumor hissi"
+    },
+    {
+      "number": 477,
+      "body": "\"Coşqun təbiətli, alicənab, comərd, güvəncli insanlardır. Riskli maliyyə əməliyyatlarından qaçmağa çalışırlar\". Verilən xüsusiyyətlər hansı ölkənin iş adamına aiddir?",
+      "wrong": ["İngiltərə", "Amerika", "İspaniya", "İtaliya"],
+      "correct": "Fransa"
+    },
+    {
+      "number": 478,
+      "body": "İşgüzar protokolun vətəni hansı ölkə sayılır?",
+      "wrong": ["İngiltərə", "Türkiyə", "Amerika", "Rusiya"],
+      "correct": "Fransa"
+    },
+    {
+      "number": 479,
+      "body": "Verilən xüsusiyyətlər hansı ölkənin iş adamına aiddir? “Ünsiyyətcil olmalarına baxmayaraq, tək işləməyə üstünlük verirlər. Başqalarını mühakimə etməyi sevirlər, amma öz ünvanlarına tənqid qəbul etmirlər”.",
+      "wrong": ["İngilis", "Almaniya", "Pakistan", "Hindistan"],
+      "correct": "Fransız"
+    },
+    {
+      "number": 480,
+      "body": "“... biznesmenlər danışıqların hazırlanması prosesinə az vaxt ayırırlar. Onlar belə hesab edirlər ki, məhz danışıqlar prosesində məsələnin ən yaxşı həlli yolu tapıla bilər”. Nöqtələrin yerinə hansı millətin adı yazılmalıdır?",
+      "wrong": ["Hindistan", "Pakistan", "Amerika", "Fransız"],
+      "correct": "İngilis"
+    },
+    {
+      "number": 481,
+      "body": "“Hər bir millət başqa millətlərdən çox şey öyrənə bilər və öyrənməlidir”. Verilən fikir aiddir?",
+      "wrong": ["Devid Yuma", "Adam Qrantaa", "Mark Tulli Siseron", "De Yager"],
+      "correct": "Karl Marksa"
+    },
+    {
+      "number": 482,
+      "body": "“Dünya ölkələrinin öyrənilməsi və dərk edilməsi insan zəkasının bəzəyi və qidasıdır”. Verilən fikri aiddir:",
+      "wrong": [
+        "Mark Tulli Siserona",
+        "Karl Marksa",
+        "Adam Qranta",
+        "De Yagerə"
+      ],
+      "correct": "Leonardo da Vinçiyə"
+    },
+    {
+      "number": 483,
+      "body": "Fransız, latın mənşəli söz olub “oyandırmaq, həyəcanlandırmaq” deməkdir.",
+      "wrong": ["şəxsiyyət", "imic", "xarakter", "temperament"],
+      "correct": "emosiya"
+    },
+    {
+      "number": 484,
+      "body": "Temperamentin neçə əsas tipi var?",
+      "wrong": ["2", "3", "6", "5"],
+      "correct": "4"
+    },
+    {
+      "number": 485,
+      "body": "\"Temperament\" sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["yunan", "türk", "ərəb", "fars"],
+      "correct": "latın"
+    },
+    {
+      "number": 486,
+      "body": "Şəxsiyyət kommunikasiya subyekti kimi hansı elmdə tədqiq edilir?",
+      "wrong": [
+        "sosiologiya və sosial psixologiyada",
+        "fiziologiyada",
+        "etikada",
+        "pedaqogikada"
+      ],
+      "correct": "kommunikasiya nəzəriyyəsində"
+    },
+    {
+      "number": 487,
+      "body": "Şəxsiyyətin sosial keyfiyyətləri hansı elmdə tədqiq edilir?",
+      "wrong": [
+        "fiziologiyada",
+        "kommunikasiya nəzəriyyəsində",
+        "etikada",
+        "pedaqogikada"
+      ],
+      "correct": "sosiologiya və sosial psixologiyada"
+    },
+    {
+      "number": 488,
+      "body": "Şəxsiyyət həm pedaqoji təsirin yönəldiyi obyekt, həm də bu prosesin subyekti kimi hansı elmdə tədqiq edilir?",
+      "wrong": [
+        "fiziologiyada",
+        "kommunikasiya nəzəriyyəsində",
+        "etikada",
+        "sosiologiya və sosial psixologiyada"
+      ],
+      "correct": "pedaqogikada"
+    },
+    {
+      "number": 489,
+      "body": "Temperamentin tipləri haqqında təlimin banisi kim olmuşdur?",
+      "wrong": ["Sokrat", "Siseron", "Demosfen", "Aristotel"],
+      "correct": "Hippokrat"
+    },
+    {
+      "number": 490,
+      "body": "Yunancadan tərcümədə “...” sözü “möhür”, “naxış” mənasını bildirir. Nöqtələrin yerinə hansı söz uyğun gəlir?",
+      "wrong": ["temperament", "etiket", "imic", "kommunikasiya"],
+      "correct": "xarakter"
+    },
+    {
+      "number": 491,
+      "body": "Verilənlərdən biri xarakterin tamlığına aiddir:",
+      "wrong": [
+        "Mürəkkəb situasiyalarda uzun müddət gərginliyə, çətinliklərin dəf edilməsinə dözmək bacarığının olmasıdır.",
+        "Şəxsiyyətin emosional-iradi dözümlülüyüdür.",
+        "Şəxsiyyətin prinsipiallığı ilə xarakterin gücünün bir araya gəlməsidir.",
+        "Davranışın düzgünlüyü, təmkinliliyidir."
+      ],
+      "correct": "Müxtəlif situasiyalarda mövqe və baxışların sabitliyi, söz və əməlin bir-biri ilə uzlaşmasıdır."
+    },
+    {
+      "number": 492,
+      "body": "Sanqvinikin zəif tərəflərini göstərin:",
+      "wrong": [
+        "Ətrafda olan heç nə onların diqqətindən kənarda qalmır.",
+        "Hər şeyə maraq göstərirlər və onların maraq obyektləri tez-tez dəyişir.",
+        "Ekstravertdir, güclü, tarazlı, hərəki sinir sisteminə malikdir.",
+        "Yeni şəraitə asanlıqla uyğunlaşır, maraq göstərdiyi işdə məhsuldardır."
+      ],
+      "correct": "Son dərəcə emosional olsalar da yaddaşları zəifdir."
+    },
+    {
+      "number": 493,
+      "body": "Xarakterin iradi xüsusiyyətlərinə daxil deyil:",
+      "wrong": [
+        "şəxsiyyətin məqsədyönlülüyü",
+        "dözümlülük",
+        "inadkarlıq",
+        "qətiyyətlilik"
+      ],
+      "correct": "səbirsizlik"
+    },
+    {
+      "number": 494,
+      "body": "“İnsan bir sirrdir. Bu sirri açmaq lazımdır və əgər bütün həyatın boyu bu sirri açmaqla məşğul olsan belə, söyləmə ki, vaxt itirmisən\". Verilən fikir hansı tanınmış şəxsə aiddir?",
+      "wrong": ["J.Büffon", "Sokrat", "De Yager", "C.Uebster"],
+      "correct": "F. Dostoyevski"
+    },
+    {
+      "number": 495,
+      "body": "Sanqvinikin əsas xüsusiyyətlərinə aiddir:",
+      "wrong": [
+        "Tündməcaz insan kimi tanıyırlar.",
+        "Özlərinə tənqidi yanaşırlar.",
+        "İnadkar deyil, tez yorulurlar.",
+        "Mehriban, istiqanlıdırlar."
+      ],
+      "correct": "Zirək və diribaş olurlar."
+    },
+    {
+      "number": 496,
+      "body": "Temperamentin hansı tipləri var?\n1. sanqvinik\n2. xolerik\n3. fleqmatik\n4. ekstraversiya\n5. introversiya\n6. melanxolik",
+      "wrong": ["3, 4, 5, 6", "1, 2, 3, 4", "1, 2, 4, 6", "2, 3, 4, 5"],
+      "correct": "1, 2, 3, 6"
+    },
+    {
+      "number": 497,
+      "body": "Verilən fikir hansı çətin dinləyiciyə aiddir: \"Öz daxili dünyası, daxili problemləri ilə yaşayır, daim bu problemləri götür-qoy eddir\".",
+      "wrong": ["məntiqli", "yalançı", "asılı", "sözkəsən"],
+      "correct": "xəyalpərəst"
+    },
+    {
+      "number": 498,
+      "body": "Aşağıdakılardan biri refleksiv dinləməyə aid deyil:",
+      "wrong": [
+        "ifadəni dəyişmə",
+        "hisslərin əks olunması",
+        "həmsöhbətlə əks əlaqə qurmaq",
+        "aydınlaşdırma"
+      ],
+      "correct": "qeyri-verbal reaksiya"
+    },
+    {
+      "number": 499,
+      "body": "\"Bu tipli dinləyicilər elə təsəvvür yaradırlar ki, guya qarşı tərəfi çox diqqətlə dinləyirlər\". Söhbət hansı çətin dinləyicidən gedir?",
+      "wrong": ["sözkəsən", "məntiqli", "xəyalpərəst", "asılı"],
+      "correct": "yalançı"
+    },
+    {
+      "number": 500,
+      "body": "Qeyri-refleksiv dinləmə nədir?",
+      "wrong": [
+        "Uğurlu ünsiyyətin açarıdır.",
+        "Xəbərin həqiqi əhəmiyyətinin aşkar edilməsidir.",
+        "Mesajların mənasını açmaq və həmsöhbətlə fəal şəkildə əks əlaqə qurmaq prosesidir.",
+        "Hisslərin əks olunmasıdır."
+      ],
+      "correct": "Həmsöhbətin nitqinə replikaları və rəylərı ilə mane olmadan maksimal dərəcədə fikrin cəmlənməsidir."
+    },
+    {
+      "number": 501,
+      "body": "Verilənlərdən biri işgüzar kommunikasiyaya aid deyil:",
+      "wrong": [
+        "Funksional xarakter daşıyır.",
+        "Reqlamentləşdirilir.",
+        "İyerarxik xarakter daşıyır.",
+        "Müəyyən bir fəaliyyət növünü: istehsal, kommersiya və s. təşkil edir."
+      ],
+      "correct": "Çoxsaylı auditoriyaya müraciətlə söylənilən nitqdir."
+    },
+    {
+      "number": 502,
+      "body": "Verilənlərdən biri ictimai nitqin janrına aid deyil:",
+      "wrong": [
+        "tənqidi çıxış",
+        "vəsatət xarakterli çıxış",
+        "təbliğat yönümlü çıxış",
+        "mühazirə"
+      ],
+      "correct": "akademik nitq"
+    },
+    {
+      "number": 503,
+      "body": "“Natiq nitqinin ifadəliliyini tədqiq edən ritorika sahəsidir”. Verilən fikir Ritorik qanun sisteminin hansı mərhələsinə aiddir?",
+      "wrong": ["yadda saxlama", "invensiya", "tələffüz", "dispozisiya"],
+      "correct": "elokusiya"
+    },
+    {
+      "number": 504,
+      "body": "İnformasiyanın məzmununun qəbuledici tərəfindən başa düşülməsi şərtilə verilməsi və qəbul edilməsi hansı kommunikasiyanın xüsusiyyətidir?",
+      "wrong": ["praqmatik", "təcrübi", "tətbiqi", "texniki"],
+      "correct": "semantik"
+    },
+    {
+      "number": 505,
+      "body": "Verilənlərdən biri qrupdaxili kommunikasiyanın xüsusiyyətlərinə aiddir:",
+      "wrong": [
+        "yazılı və şifahi nitq",
+        "anlama, rəğbət, empatiya",
+        "məqsədlər, maraqlar və vəzifələr",
+        "verbal və qeyri-verbal vasitələr"
+      ],
+      "correct": "rollar, normalar və liderlik"
+    },
+    {
+      "number": 506,
+      "body": "Kommunikativ situasiyanın komponentlərinə daxil deyil:",
+      "wrong": [
+        "kommunikativ niyyət (intensiya)",
+        "nitqin mövzusu (predmeti)",
+        "nitq adresatının obrazı",
+        "nitq müəllifinin obrazı"
+      ],
+      "correct": "İştirakçıların təlimatlandırılması"
+    },
+    {
+      "number": 507,
+      "body": "İctimai nitqin növlərinə daxildir: 1. akademik nitq 2. diplomatik nitq 3. məhkəmə nitqi 4. məruzə 5. mühazirə 6. tənqidi çıxış",
+      "wrong": ["3, 4, 5", "4, 5, 6", "1, 2, 5", "2, 3, 4"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 508,
+      "body": "\"Peşəkar ictimai nitqin yaradılması qanunauyğunluqları və onun effektivliyinin şərtləri haqqında bilik sahəsidir\". Verilən fikir aiddir:",
+      "wrong": [
+        "Kommunikativ niyyət",
+        "Kommunikativ situasiya",
+        "Reqlament",
+        "İşgüzar kommunikasiya"
+      ],
+      "correct": "Akademik kommunikasiya"
+    },
+    {
+      "number": 509,
+      "body": "İşgüzar kommunikasiyanın reqlamentləşdirilməsi nə deməkdir?",
+      "wrong": [
+        "Müdiriyyət və işçilər arasındakı münasibətlərdə subordinasiyanın qorunması",
+        "Qəbul edilmiş rolun tələblərinə uyğun davranılması",
+        "İştirakçıların zahiri görünüşünə və danışma tərzinə müəyyən tələblərin qoyulması",
+        "Rolun ampluasına əməl olunması"
+      ],
+      "correct": "Müəyyən edilmiş qaydalara və məhdudiyyətlərə tabe olunması"
+    },
+    {
+      "number": 510,
+      "body": "Kommunikativ niyyət (intensiya) nədir?",
+      "wrong": [
+        "Ünsiyyətin müəyyən komponentlərinin və şərtlərinin məcmusudur.",
+        "İşgüzar kommunikasiya emosionallığıdır.",
+        "Təşkilatın fəaliyyət qaydasını müəyyən edən qaydalar məcmusudur.",
+        "Kommunikasiyanın funksional xarakter daşımasıdır."
+      ],
+      "correct": "Kommunikasiya prosesində nəticəyə nail olmaq səyidir."
+    },
+    {
+      "number": 511,
+      "body": "“Azərbaycan dilində işgüzar və akademik kommunikasiya” fənni nəyi tədqiq etmir?",
+      "wrong": [
+        "dinləyicilərə məqsədyönlü təsir göstərməyi",
+        "kommunikasiya prosesinin ümumi nəzəri əsaslarını",
+        "akademik, elmi fəaliyyətdə ictimai nitq ünsiyyətinin xüsusiyyətlərini",
+        "peşəkar ictimai nitqin yaradılması qanunauyğunluqlarını"
+      ],
+      "correct": "fəlsəfi kateqoriyaları"
+    },
+    {
+      "number": 512,
+      "body": "Akademik nitqdə etos nədir?",
+      "wrong": [
+        "mövzu sahəsinə maraq",
+        "empirik əsas",
+        "tərəqqiyə inam",
+        "professional təşəbbüskarlıq"
+      ],
+      "correct": "akademik nitqin mənəvi dəyər komponenti"
+    },
+    {
+      "number": 513,
+      "body": "Akademik nitqdə pafos nədir?",
+      "wrong": [
+        "elmi birlik",
+        "qanunauyğunluqlar",
+        "yaradıcılıq",
+        "sosial ideallar"
+      ],
+      "correct": "hisslərin ifadə üsulu ilə bağlı ritorik kateqoriya, emosiyalara müraciət"
+    },
+    {
+      "number": 514,
+      "body": "Aşağıdakılardan biri kommunikativ situasiyanın komponentlərinə aid deyil:",
+      "wrong": [
+        "kommunikativ niyyət (intensiya)",
+        "nitq adresatının obrazı",
+        "nitq müəllifinin obrazı",
+        "nitqin mövzusu (predmeti)"
+      ],
+      "correct": "ünsiyyətin qeyri-müəyyən şərtləri"
+    },
+    {
+      "number": 515,
+      "body": "İnformasiyanın mübadilə prosesi neçə cəhətdən fərqləndirilir?",
+      "wrong": ["2", "6", "5", "4"],
+      "correct": "3"
+    },
+    {
+      "number": 516,
+      "body": "Natiqliyin nəzəri cəhətdən dərk edilməsi ilə bağlı yazılmış ilk əsərlər hansı dövrə aiddir?",
+      "wrong": ["IV əsrə", "III əsrə", "orta əsrlərə", "müasir dövrə"],
+      "correct": "antik dövrə"
+    },
+    {
+      "number": 517,
+      "body": "Nitqdə özünəməxsusluqdur, bir şəxsin başqalarından fərqli danışması və yazmasıdır. Verilən xüsusiyyətlər nitqin hansı keyfiyyətinə aiddir?",
+      "wrong": [
+        "nitqin ifadəliliyi",
+        "nitqin sadəliyi",
+        "nitqin ahəngdarlığı",
+        "nitqin dəqiqliyi"
+      ],
+      "correct": "nitqin orijinallığı"
+    },
+    {
+      "number": 518,
+      "body": "Biri emosionallıq yaradan başlıca dil vahidlərinə aid deyil:",
+      "wrong": [
+        "məcazi mənalı sözlər və birləşmələr",
+        "sintaktik və morfoloji ekspressiv vasitələr",
+        "hiss adları olan sözlər",
+        "deyilən fikrə danışanın emosional münasibətini ifadə edən səciyyələndirici sözlər"
+      ],
+      "correct": "fərdi tələffüz tərzi"
+    },
+    {
+      "number": 519,
+      "body": "Alimin nitqi hansı natiqliyə aiddir?",
+      "wrong": [
+        "Diplomatik natiqliyə",
+        "İctimai-siyasi natiqliyə",
+        "Məişət natiqliyinə",
+        "Məhkəmə natiqliyinə"
+      ],
+      "correct": "Akademik natiqliyə"
+    },
+    {
+      "number": 520,
+      "body": "Azərbaycan Respublikası Prezidentinin Beynəlxalq forumda Qarabağ məsələsi ilə bağlı çıxışı natiqliyin hansı sahəsinə aiddir?",
+      "wrong": ["işgüzar", "bədii", "akademik", "inzibati-idarə"],
+      "correct": "siyasi"
+    },
+    {
+      "number": 521,
+      "body": "Nitqin səlisliyi, gözəlliyi, axıcılığı, rəvanlığı gözlənilməklə materialın alçaq tondan başlayaraq, uca tona doğru yüksəlməsi, eyni zamanda avazın, tempin dəyişməsi və s. Verilənlər aiddir:",
+      "wrong": [
+        "nitqin dəqiqliyi",
+        "nitqin ifadəliliyi",
+        "nitqin zənginliyi",
+        "nitqin sadəliyi"
+      ],
+      "correct": "nitqin ahəngdarlığı"
+    },
+    {
+      "number": 522,
+      "body": "Verilənlərdən biri nitqin rabitəliliyinə aid deyil:",
+      "wrong": [
+        "Hər hansı bir məsələ barəsində danışılarkən müəyyən məntiqi ardıcıllığa riayət olunmalıdır.",
+        "Natiq öz sözü, cümləsi, düşüncəsi, üslubu ilə danışmalıdır.",
+        "Danışan (yazan) əsas və ikinci dərəcəli məsələləri bir-birindən ayırmağı bacarmalıdır.",
+        "Məzmunca dolğun olmalıdır."
+      ],
+      "correct": "Yerli şivə və məhəlli dialekt sözlər işlədilməlidir."
+    },
+    {
+      "number": 523,
+      "body": "1) Nitqdə məhəlli dialektlərə, yerli şivələrə məxsus danışıq tərzinə yol verilməməlidir. 2) Əcnəbi sözlər lüzumsuz işlədilməməlidir. 3) Tüfeyli sözlərlə bağlı qüsurlar aradan qaldırılmalıdır. 4) Jarqon sözlərin və ifadələrin işlədilməsi məqbul sayılmamalıdır. Verilən tələblər nitqin hansı keyfiyyətinə aiddir?",
+      "wrong": [
+        "nitqin zənginliyi",
+        "nitqin ahəngdarlığı",
+        "nitqin dəqiqliyi",
+        "nitqin sadəliyi"
+      ],
+      "correct": "nitqin təmizliyi"
+    },
+    {
+      "number": 524,
+      "body": "Biri nitqin zənginliyinə aid deyil:",
+      "wrong": [
+        "məzmun cəhətdən dolğun olması",
+        "məcazlardan, üslubi vasitələr və s.-dən məharətlə istifadə olunması",
+        "danışanın (yazanın) geniş söz ehtiyatına malik olması",
+        "intonasiyanın olması"
+      ],
+      "correct": "tələffüzlə sıx bağlı olması"
+    },
+    {
+      "number": 525,
+      "body": "Natiqlik sənətinə verilən tələblərdən biri yanlışdır:",
+      "wrong": [
+        "mimika və jestlərdən düzgün istifadə",
+        "səlis və aydın danışmaq",
+        "düzgün, dəqiq və gözəl danışmaq",
+        "mümkün qədər yığcam danışmaq"
+      ],
+      "correct": "kifayət qədər mürəkkəb cümlələrdən istifadə etmək"
+    },
+    {
+      "number": 526,
+      "body": "Nitq nə zaman təmiz hesab olunur?",
+      "wrong": [
+        "Nitqdə məhəlli dialektlər, yerli şivələr olanda",
+        "Jarqon sözlər olanda",
+        "Aydın olmayan terminlər çox olanda",
+        "Lüzumsuz əcnəbi sözlər olanda"
+      ],
+      "correct": "Danışıq normalarından kənara çıxmayan, yararsız yad ünsürlərdən uzaq olanda"
+    },
+    {
+      "number": 527,
+      "body": "Biri nitqin sadəliyi üçün əsas şərt deyil:",
+      "wrong": ["yığcamlıq", "cümlənin qısalığı", "anlaşıqlıq", "aydınlıq"],
+      "correct": "sünilik"
+    },
+    {
+      "number": 528,
+      "body": "Verilənlər nitqin hansı keyfiyyətinə aiddir? 1) Mümkün olduğu halda öz fikrini yığcam ifadə etməyi; 2) Fikrini çatdırarkən dinləyicinin diqqətini nitqin predmetinə yönəltməyi.",
+      "wrong": [
+        "nitqin düzgünlüyü",
+        "nitqin aydınlığı",
+        "nitqin ifadəliliyi",
+        "nitqin zənginliyi"
+      ],
+      "correct": "nitqin məntiqliliyi"
+    },
+    {
+      "number": 529,
+      "body": "Sosial şəbəkələr bizə hansı imkanları verir? Səhv cavabı göstərin:",
+      "wrong": [
+        "Əhəmiyyətli olan materialları bölüşmək",
+        "Avtomatlaşdırılmış sosial mühit şəraitində özümüzə aid olan məlumatları paylaşmaq",
+        "Şəbəkə iştirakçıları ilə fikir mübadiləsi aparmaq",
+        "Şəbəkə daxilində maraqlar üzrə müxtəlif birliklər formalaşdırmaq"
+      ],
+      "correct": "Digər şəbəkə iştirakçıları ilə ünsiyyəti məhdudlaşdırmaq"
+    },
+    {
+      "number": 530,
+      "body": "Biri plagiatçılıq deyil:",
+      "wrong": [
+        "Özgənin elmi, ədəbi, bədii və ya digər növ əsərini öz adı ilə nəşr etdirmək",
+        "Başqalarına məxsus hər hansı mətni olduğu kimi, istinad vermədən yazınızda qeyd etmək",
+        "Mənbəyi və müəllifi göstərilmədən əsəri və ya onun bir hissəsini köçürməklə yeni əsər yaratmaq",
+        "Başqalarının əsərlərini və ideyalarını tam rəsmi bəyanat vermədən öz əsərinə köçürmək və ya parafraz etmək"
+      ],
+      "correct": "Öz əsərini elmi jurnalda nəşr etdirmək"
+    },
+    {
+      "number": 531,
+      "body": "Alimlərin akademik sosial şəbəkələrdən (ASŞ) istifadəsini zəruri edən səbəblərdən biri yanlışdır:",
+      "wrong": [
+        "Müxtəlif coğrafi uzaqlıqla olan tədqiqatçıları bir araya gətirir.",
+        "Alimlərin akademik həyatda iştirakının yeni forma və perspektivlərini açır.",
+        "ASŞ beynəlxalq miqyasda ölkənin və elmi müəssisələrin elmi reytinqinin artmasını təmin edir.",
+        "Alimlərin elmi əsərlərinin dünya elmi ictimaiyyəti arasında yayılmasına şərait yaradır."
+      ],
+      "correct": "Elmin populyarlığının azalmasında mühüm rol oynayır."
+    },
+    {
+      "number": 532,
+      "body": "Tələbələrin plagiatçılığa yolvermə səbəblərindən biri yanlışdır:",
+      "wrong": [
+        "İnternet mənbələrinin dəyərləndirilməsi ilə bağlı problemlər",
+        "Termin çatışmazlığı",
+        "Düzgün istinad formalarını bilməmək",
+        "Yazı bacarıqlarının yetərincə olmaması"
+      ],
+      "correct": "Araşdırma bacarıqlarının yetərincə olması"
+    },
+    {
+      "number": 533,
+      "body": "Plagiatçılığın hansı formaları fərqləndirilir? Səhv cavabı göstərin:",
+      "wrong": [
+        "ideya plagiatçılığı",
+        "sözbəsöz plagiatçılıq",
+        "maskalanmış və ört-basdır edilmiş plagiatçılıq",
+        "struktur plagiatçılıq"
+      ],
+      "correct": "açıq-aşkar plagiatçılıq"
+    },
+    {
+      "number": 534,
+      "body": "ResearchGate akademik sosial şəbəkəsinə göstərilən xidmətlərdən biri daxil deyil:",
+      "wrong": [
+        "Statistik məlumatlar – elmi nəşrlərin oxunma sayı, istinadlar və s.",
+        "Əməkdaşlıq və birgə fəaliyyət üçün əlaqələrin qurulması",
+        "Sual-cavab",
+        "Nəşr olunmuş əsərlərin paylaşılması (ictimailəşdirilməsi)"
+      ],
+      "correct": "İş axtarmaq imkanının olmaması"
+    },
+    {
+      "number": 535,
+      "body": "Texniki cəhətdən sosial şəbəkələrin neçə tipi var?",
+      "wrong": ["4", "5", "3", "1"],
+      "correct": "2"
+    },
+    {
+      "number": 536,
+      "body": "Bəşəriyyət yeni bir kommunikasiya dövrünə nə vaxt qədəm qoydu?",
+      "wrong": [
+        "XIX əsrin sonlarında",
+        "XIX əsrin əvvəllərində",
+        "XX əsrin ortalarında",
+        "XX əsrin əvvəllərində"
+      ],
+      "correct": "XXI əsrin əvvəllərində"
+    },
+    {
+      "number": 537,
+      "body": "ResearchGate akademik sosial şəbəkəsinə hansı xidmət daxil deyil?",
+      "wrong": [
+        "Statistik məlumatlar – elmi nəşrlərin oxunma sayı, istinadlar və s.",
+        "İş axtarmaq imkanı – elmi istiqamətlərə və qabiliyyətlərə uyğun işlərin elan olunması və tapılması",
+        "Əməkdaşlıq və birgə fəaliyyət üçün əlaqələrin qurulması",
+        "Nəşr olunmuş əsərlərin paylaşılması (ictimailəşdirilməsi)."
+      ],
+      "correct": "Şəxsi şəkil və videoların paylaşılması"
+    },
+    {
+      "number": 538,
+      "body": "1. Nəşr olunmuş əsərlərin paylaşılması 2. Statistik məlumatlar – elmi nəşrlərin oxunma sayı, istinadlar və s. 3. Əməkdaşlıq və birgə fəaliyyət üçün əlaqələrin qurulması. 4. Sual-cavab Verilən xidmətlər hansı akademik sosial şəbəkəyə aiddir?",
+      "wrong": ["Inomics", "Linkedin", "Google scholar", "Academia.edu"],
+      "correct": "ResearchGate"
+    },
+    {
+      "number": 539,
+      "body": "\"Problemin konkret həlli, işin əsas məzmunu, hətta onun təkmilləşdirilməsi yolları da göstərilə bilər\". Verilənlər aiddir:",
+      "wrong": ["Nəticə", "Əlavələr", "Mündəricat", "Birinci fəsil"],
+      "correct": "İkinci fəsil"
+    },
+    {
+      "number": 540,
+      "body": "\"Əlavələr\" haqqında verilənlərdən biri yanlışdır:",
+      "wrong": [
+        "Əlavələr işin məzmununu tamamlayır.",
+        "“Əlavələr” çox olduqda onu ayrıca qovluqda və ya cildlənmiş şəkildə “Dissertasiyaya əlavələr” adı ilə də təqdim etmək olar.",
+        "Vərəqin üst sağ tərəfində “Əlavə 1”, “Əlavə 2“ və s. yazılmalıdır.",
+        "Hər bir əlavə yeni səhifədə verilməlidir."
+      ],
+      "correct": "Əlavələrdə fəsillər əks olunur."
+    },
+    {
+      "number": 541,
+      "body": "Bütün fəsillərin, yarımfəsillərin adları və başlanğıc nömrəsi harada əks olunur?",
+      "wrong": ["Ədəbiyyat", "Nəticə", "Sxemlər", "Titul vərəqi"],
+      "correct": "Mündəricat"
+    },
+    {
+      "number": 542,
+      "body": "Buraxılış işinin ədəbiyyat siyahısı nədən sonra verilir?",
+      "wrong": [
+        "titul vərəqindən sonra",
+        "sonuncu fəsildən sonra",
+        "əlavədən sonra",
+        "mündəricatdan sonra"
+      ],
+      "correct": "nəticədən sonra"
+    },
+    {
+      "number": 543,
+      "body": "Aşağıdakılardan biri buraxılış işinin giriş hissəsinin mahiyyətini düzgün əks etdirmir:",
+      "wrong": [
+        "aktuallığı, elmi yeniliyi",
+        "metod və metodologiyası",
+        "praktik əhəmiyyəti",
+        "tədqiqatın məqsədi və vəzifələri"
+      ],
+      "correct": "ədəbiyyat siyahısı"
+    },
+    {
+      "number": 544,
+      "body": "Titul – üz vərəqinin xüsusiyyətlərindən biri yanlışdır:",
+      "wrong": [
+        "Vərəqin aşağı hissəsində buraxılış işinin yazıldığı yer və il göstərilir.",
+        "Buraxılış işinin birinci səhifəsidir.",
+        "Vərəqin ortasında buraxılış işinin mövzusu yazılır.",
+        "Mövzunun altında ixtisasın şifri və adı göstərilməklə - Buraxılış işi yazılır."
+      ],
+      "correct": "Nömrələnir."
+    },
+    {
+      "number": 545,
+      "body": "Spesifik terminologiyadan istifadə edildikdə, onların siyahısı hansı başlıq altında verilə bilər?",
+      "wrong": ["nəticədə", "girişdə", "fəslin sonunda", "fəslin əvvəlində"],
+      "correct": "\"ixtisar siyahısı” başlığı altında"
+    },
+    {
+      "number": 546,
+      "body": "Aşağıdakılardan biri buraxılış işinin struktur hissəsinin başlığı kimi qəbul edilmir:",
+      "wrong": ["nəticə", "əlavələr", "giriş", "mündəricat"],
+      "correct": "istifadə edilmiş qrafiklər"
+    },
+    {
+      "number": 547,
+      "body": "Verilənlərdən biri buraxılış işinin \"Əlavələr\" hissəsində verilmir?",
+      "wrong": ["təlimat", "nümunəvi plan", "proqram", "protokol"],
+      "correct": "işarələr"
+    },
+    {
+      "number": 548,
+      "body": "Buraxılış işinin giriş hissəsi neçə səhifə ola bilər?",
+      "wrong": ["2 səhifə", "9 səhifə", "10 səhifəyə qədər", "1 səhifə"],
+      "correct": "4-5 səhifəyə qədər"
+    },
+    {
+      "number": 549,
+      "body": "Titul vərəqi buraxılış işinin neçənci səhifəsidir?",
+      "wrong": ["IV", "V", "III", "II"],
+      "correct": "I"
+    },
+    {
+      "number": 550,
+      "body": "Nitq səhvləri nədir?",
+      "wrong": [
+        "Müxtəlif çalara malik, əsaslandırılmamış sözlərdən istifadə zamanı meydana gəlir.",
+        "Nitqdə mahiyyəti üzrə bir-birinə yaxın olan sözlərdən istifadədir.",
+        "Mənaca yaxın olan sözlərin cümlədə təkrarıdır.",
+        "Məntiqi səhvdir."
+      ],
+      "correct": "Ədəbi dil normalarından özünü doğrultmayan kənaraçıxma hallarıdır."
+    },
+    {
+      "number": 551,
+      "body": "İcmalın hazırlanmasına verilən tələblərdən biri yanlışdır:",
+      "wrong": [
+        "Müqayisə edilən obyekt və parametrlərin sayı çox olduqda, verilənlərdən cədvəl və qrafik formasında istifadə etmək tövsiyə olunur.",
+        "Təhlil olunan problemə aid bütün məsələlər icmalda öz əksini tapmalıdır.",
+        "Mənbələrdə olan ziddiyyətli məlumatlar qeyd edilməli və fərqləndirilməlidir.",
+        "Yeni problemlərə və onların həlli yollarına xüsusi diqqət yetirilməlidir."
+      ],
+      "correct": "Köhnəlmiş və ya şübhə döğuran məlumatların istifadəsinə yer verilməlidir."
+    },
+    {
+      "number": 552,
+      "body": "Alqolizm nədir?",
+      "wrong": [
+        "Bir köklü sözlərin mənasını düzgün ifadə etməkdir.",
+        "Mənaca yaxın olan sözlərin cümlədə təkrarıdır.",
+        "Nitqdə mahiyyəti üzrə bir-birinə yaxın olan sözlərdən istifadədir.",
+        "Müxtəlif çalara malik, əsaslandırılmamış sözlərdən istifadə zamanı meydana gəlir."
+      ],
+      "correct": "Məntiqi səhvdir."
+    },
+    {
+      "number": 553,
+      "body": "Tavtalogiya nədir?",
+      "wrong": [
+        "Bir köklü sözlərin (paronim) mənasını düzgün ifadə etməkdir.",
+        "Nitqdə mahiyyət əks olunmur.",
+        "Məntiqi səhvdir.",
+        "Müxtəlif çalara malik, əsasalandırılmamış sözlərdən istifadə zamanı meydana gəlir."
+      ],
+      "correct": "Mənaca yaxın olan sözlərin cümlədə təkrarıdır."
+    },
+    {
+      "number": 554,
+      "body": "“Biblioqrafiya” mənşəcə hansı dilə mənsubdur?",
+      "wrong": ["rus", "fransız", "latın", "ingilis"],
+      "correct": "yunan"
+    },
+    {
+      "number": 555,
+      "body": "Bir mövzu tədqiq edərkən istifadə etdiyimiz kitablar, veb-saytlar və s. mənbələr necə adlanır?",
+      "wrong": ["etnoqrafiya", "icmal məqalə", "monoqrafiya", "esse"],
+      "correct": "bibloqrafiya"
+    },
+    {
+      "number": 556,
+      "body": "Nitqdə rast gələn məntiqi səhvlər necə adlanır?",
+      "wrong": ["pleonazm", "parafraz", "tavtalogiya", "paronim"],
+      "correct": "alqolizm"
+    },
+    {
+      "number": 557,
+      "body": "Nitqdə mahiyyəti üzrə bir-birinə yaxın olan sözlərin ifadəsi necə adlanır?",
+      "wrong": ["alqolizm", "parafraz", "paronim", "tavtologiya"],
+      "correct": "pleonazm"
+    },
+    {
+      "number": 558,
+      "body": "Cümlədə mənaca yaxın olan sözlərin təkrarı necə adlanır?",
+      "wrong": ["alqolizm", "parafraz", "paronim", "pleonazm"],
+      "correct": "tavtalogiya"
+    },
+    {
+      "number": 559,
+      "body": "Niyə beynəlxalq akademik yazı qaydalarından istifadə edilir? Səhv cavabı göstərin:",
+      "wrong": [
+        "Fərqli ölkələrdən olan elm adamlarının yazı vasitəsilə bir-birini anlamasına yardım edir.",
+        "Beynəlxalq standartlar “ümumi dil” rolunu oynayır.",
+        "Vahid standartlar üzrə yazılmış mətndə hansı məlumatın harada olduğu əvvəlcədən bilindiyinə görə, zəruri informasiyanı tapmaq da asan olur.",
+        "Beynəlxalq akademik yazı qaydaları müəyyən nəticənin əldə edilməsinə yönəlmiş bir mexanizmdir."
+      ],
+      "correct": "Beynəlxalq yazı qaydaları oxunu mürəkkəbləşdirir."
+    },
+    {
+      "number": 560,
+      "body": "Biri akademik məqalənin xüsusiyyətlərinə uyğun deyil:",
+      "wrong": [
+        "Həcmi 7-8 səhifədən (A4) çox olmamalıdır.",
+        "Məqalə akademik dildə yazılmalıdır.",
+        "Başlıqdan sonra xülasə yazılmalıdır.",
+        "Xülasədən sonra açar sözlər verilməlidir."
+      ],
+      "correct": "Fikirlərinizi dəstəkləyəcək etibarlı mənbələrdən sitatgətirmə vacib deyil."
+    },
+    {
+      "number": 561,
+      "body": "\"Söz strukturunda rast gəlinir. Bunlar mübtəda və xəbər arasında əlaqələrin pozulması, söz ardıcıllığı ilə əlaqədardır\". Verilən fikir aiddir:",
+      "wrong": ["Nitq səhvləri", "Tavtalogiya", "Üslubi səhvlər", "Alqolizm"],
+      "correct": "Sintaktik səhvlər"
+    },
+    {
+      "number": 562,
+      "body": "Aşağıdakılardan biri müəllifə istinadetməyə aid deyil:",
+      "wrong": [
+        "müvafiq müəllifləri elmi yazı işinə daxil etmək",
+        "müvafiq ədəbiyyatları araşdırmaq",
+        "istinadetmələrlə elmi işə yenilik gətirmək",
+        "müəlliflərin fikirlərini qeyd etmək"
+      ],
+      "correct": "öz fikirlərinizi əsaslandırmağa xidmət etməyən sitatlar gətirmək"
+    },
+    {
+      "number": 563,
+      "body": "Aşağıdakılardan biri akademik yazı növlərinin quruluşuna aid deyil:",
+      "wrong": ["fəsillər", "mündəricat", "titul vərəqi", "abstrakt"],
+      "correct": "qısa başlıq"
+    },
+    {
+      "number": 564,
+      "body": "Aşağıdakılardan biri akademik mühitdə etibarlı mənbə hesab edilmir:",
+      "wrong": [
+        "nəşr edilmiş digər materiallar",
+        "kitablar",
+        "jurnal məqalələri",
+        "nəşr edilmiş hesabatlar"
+      ],
+      "correct": "şəxsi fikirlər"
+    },
+    {
+      "number": 565,
+      "body": "İkinci dərəcəli sitatgətirmə nə zaman baş verir?",
+      "wrong": [
+        "Məruzələrdən sitat verəndə",
+        "İlkin mənbədən sitat veriləndə",
+        "Qəzetlərdəki köşə yazarlarının rəylərindən istifadə edərkən",
+        "Vacib məlumat olmayanda"
+      ],
+      "correct": "İlkin mənbədən deyil, bir başqa mənbədən gətirilən sitata istinad etdikdə"
+    },
+    {
+      "number": 566,
+      "body": "Akademik mühitdə etibarlı mənbə dedikdə nə başa düşülür?",
+      "wrong": [
+        "İstənilən elmi mənbələr",
+        "Məruzələr",
+        "Televiziya proqramları",
+        "Vikipediya"
+      ],
+      "correct": "Nəşr edilmiş məqalə, hesabat və elmi kitablar"
+    },
+    {
+      "number": 567,
+      "body": "\"Daha çox səhnə sənəti, bədii qiraət vending s. hallarda təzahür edir\". Qeyd olunan fikir intonasiyanın hansı funksiyasına aiddir?",
+      "wrong": [
+        "apelyativ funksiya",
+        "emosional-ekspressiv funksiya",
+        "kommunikativ funksiya",
+        "delimitativ (hüdudlandırıcı) funksiya"
+      ],
+      "correct": "estetik funksiya"
+    },
+    {
+      "number": 568,
+      "body": "Xudahafiz! Əlvida! Salamat qalın! Sağ olun! Allah amanında! Bunlar hansı nitq etiketinə aiddir?",
+      "wrong": [
+        "qeyri-rəsmi müraciət etiketləri",
+        "təbrik etiketləri",
+        "görüşmə etiketləri",
+        "rəsmi müraciət etiketləri"
+      ],
+      "correct": "ayrılma etiketləri"
+    },
+    {
+      "number": 569,
+      "body": "Verilənlərdən biri intonasiyaya aid deyil:",
+      "wrong": [
+        "Danışanın məqsədi, istək və arzuları ilə əlaqədar olur.",
+        "Oxu və danışıq sürətinin normadan bir qədər yavaş olması intonasiya ilə bağlı qüsurdur.",
+        "İntonasiya cümlə üzvlərinin düzgün qruplaşdırılmasını təmin edir.",
+        "Məntiqi vurğunun, ara sözlərin müəyyənləşdirilməsinə imkan yaradır."
+      ],
+      "correct": "Davranış və ünsiyyət normalarına əməl edilməsini nəzərdə tutur."
+    },
+    {
+      "number": 570,
+      "body": "Xoş gəlmişsiniz! Axşamınız xeyir! Sabahınız xeyir! Bunlar hansı nitq etiketlərinə aiddir?",
+      "wrong": [
+        "ayrılma etiketləri",
+        "təbrik etiketləri",
+        "rəsmi müraciət etiketləri",
+        "qeyri-rəsmi müraciət etiketləri"
+      ],
+      "correct": "görüşmə etiketləri"
+    },
+    {
+      "number": 571,
+      "body": "Oğlum! Qadan alım! Göstərilənlər etiketin hansı növünə aiddir?",
+      "wrong": [
+        "ayrılma etiketləri",
+        "rəsmi müraciət etiketləri",
+        "təbrik etiketləri",
+        "görüşmə etiketləri"
+      ],
+      "correct": "qeyri-rəsmi müraciət etiketləri"
+    },
+    {
+      "number": 572,
+      "body": "Apelyativ funksiyaya aid olan xüsusiyyəti göstərin:",
+      "wrong": [
+        "Daha çox səhnə sənəti, bədii qiraət və s. hallarda təzahür edir.",
+        "Nitq axarında cümlələrin (cümlə daxilində həmcins üzvlərin, ara sözlərin və s.) hüdüdlarını, bir-birindən ayrıldığını göstərir.",
+        "İntonasiyanın ümumi funksiyası olmaqla, əslində bütün digər funksiyaları özündə birləşdirir.",
+        "İntonasiya vasitəsi ilə danışanın emosional vəziyyəti əks olunmaqla yanaşı, habelə nitqin məzmununa və adresata münasibətdə öz ifadəsini tapır."
+      ],
+      "correct": "Adresat ilə əlaqədar olan funksiya kimi danışanın nitq mədəniyyətini özündə əks etdirir."
+    },
+    {
+      "number": 573,
+      "body": "Verilən xüsusiyyətlərdən biri pauzaya aid deyil:",
+      "wrong": [
+        "Bəzən nitqdə yaranan dolaşıqlığı aradan qaldırır.",
+        "Cümlədə vahid məna bütövlüyündə birləşən qrupları həm ayırır, həm də birləşdirir.",
+        "Həm məntiqi, həm də psixoloji funksiya daşıyır.",
+        "Tələffüz prosesində nəfəs və səsin düzgün tənzim edilməsini şərtləndirir."
+      ],
+      "correct": "Nitq axını zamanı danışanın ifadə edəcəyi fikirdən asılı olaraq formalaşan ritmik-metodik səs quruluşudur."
+    },
+    {
+      "number": 574,
+      "body": "Mənşəyinə görə “...” fransız sözüdür. Nöqtələrin yerinə uyğun gələn variantı seçin:",
+      "wrong": ["temperament", "imic", "kommunikasiya", "xarakter"],
+      "correct": "etiket"
+    },
+    {
+      "number": 575,
+      "body": "Biri intonasiyanın fonosintaktik mənalarına aid deyil:",
+      "wrong": [
+        "nəqli, sual, əmr və nida cümlələrini formalaşdıran intonasiya",
+        "cümlə daxilində xitabları, ara sözləri və s. ayıran intonasiya",
+        "sadalama, qarşılaşdırma bildirən intonasiya",
+        "arzu, xahiş məzmunu ifadə edən intonasiya"
+      ],
+      "correct": "təskinlik vermək, razı salmaq məqamında işlənən intonasiya"
+    },
+    {
+      "number": 576,
+      "body": "Nitq axını zamanı danışanın ifadə edəcəyi fikirdən asılı olaraq formalaşan ritmik-metodik səs quruluşuna ... deyilir. Nöqtələrin yerinə uyğun gələni seçin:",
+      "wrong": ["jest", "tələffüz", "mimika", "etiket"],
+      "correct": "intonasiya"
+    },
+    {
+      "number": 577,
+      "body": "İntonasiya haqqında verilən fikirlərdən biri yanlışdır:",
+      "wrong": [
+        "Səs tonunun alçalıb-ucalmasıdır.",
+        "Apelyativ, delimitativ, kommunikativ və s. funksiyaları var.",
+        "Melodika, vurğu, ritm, pauza, temp və tembr kimi akustik vahidlərin vəhdətidir.",
+        "Bədii üslubda mühüm yer tutur."
+      ],
+      "correct": "İntonasiyanın 2 funksiyası var."
+    },
+    {
+      "number": 578,
+      "body": "Estetik funksiyaya aid olan xüsusiyyəti göstərin:",
+      "wrong": [
+        "Nitq axarında cümlələrin (cümlə daxilində həmcins üzvlərin, ara sözlərin və s.) hüdüdlarını, bir-birindən ayrıldığını göstərir.",
+        "Bu, intonasiyanın ümumi funksiyası olmaqla, əslində bütün digər funksiyaları özündə birləşdirir.",
+        "İntonasiya vasitəsi ilə danışanın emosional vəziyyəti əks olunmaqla yanaşı, habelə nitqin məzmununa və adresata münasibətdə öz ifadəsini tapır.",
+        "Adresat ilə əlaqədar olan funksiya kimi danışanın nitq mədəniyyətini özündə əks etdirir."
+      ],
+      "correct": "Daha çox səhnə sənəti, bədii qiraət və s. hallarda təzahür edir."
+    },
+    {
+      "number": 579,
+      "body": "Nitq etiketlərinin hansı məqamda işləndiyini müəyyənləşdirin: Bir qədər ətraflı düşünün; Darıxmayın; İcazə verin danışım; İmkan verin fikrimi izah edim",
+      "wrong": [
+        "hal-əhval tutmaq məqamında",
+        "qarşılama məqamında",
+        "məmnun olmaq məqamında",
+        "vidalaşma məqamında"
+      ],
+      "correct": "təskinlik vermək, razı salmaq məqamında"
+    },
+    {
+      "number": 580,
+      "body": "Nitq etiketləri ilə bağlı səhv fikri göstərin:",
+      "wrong": [
+        "Bir çox etiketlərdən istifadə ünsiyyət üçün daha səmimi şərait yaradır.",
+        "Xalqın dilində milli təfəkkürünə, etnoqrafiyasın uyğun forma və ifadələrdir.",
+        "Nitq etiketləri bəzən nitq yarlıqları da adlanır.",
+        "Dilimizdə müraciət etiketləri daha işləkdir."
+      ],
+      "correct": "Nitq etiketi cəmiyyətin onun əxlaqi dayaqlarını müəyyənləşdirmir."
+    },
+    {
+      "number": 581,
+      "body": "Mübahisədən qaçma və eyni zamanda imtina situasiyasında hansı etiketlərdən istifadə edə bilərsiniz?",
+      "wrong": [
+        "“Sizə məmnuniyyətlə cavab verməyə hazıram”.",
+        "“Çalışaram bu məsələ aydınlıq gətirəm”",
+        "“İndi dəqiqləşdirib məlumat verərəm”",
+        "“Bağışlayın, bu barədə öyrənmək istəyirəm”,"
+      ],
+      "correct": "“Üzrlü sayın, sizin kimi düşünmürəm."
+    },
+    {
+      "number": 582,
+      "body": "İntonasiyanın delimitativ (hüdudlandırıcı) funksiyası nədir?",
+      "wrong": [
+        "Bu adresat ilə əlaqədar olan funksiya kimi danışanın nitq mədəniyyətini özündə əks etdirir.",
+        "Bu funksiya daha çox səhnə sənəti, bədii qiraət və s. hallarda təzahür edir.",
+        "Bu intonasiyanın ümumi funksiyası olmaqla əslində bütün digər funksiyaları özündə birləşdirir.",
+        "İntonasiya vasitəsi ilə danışanın emosional vəziyyəti, nitqin məzmununa və adresata münasibət öz ifadəsini tapır."
+      ],
+      "correct": "Nitq axarında cümlələrin hüdudlarını, bir-birindən ayrıldığını göstərən funksiyadır."
+    },
+    {
+      "number": 583,
+      "body": "Nitq texnikasının mahiyyəti nədir?",
+      "wrong": [
+        "İnsanlara məxsus ümumi mədəniyyət müxtəlif komponentlərin məcmusudur.",
+        "Nitq axını zamanı danışanın ifadə edəcəyi fikirdən asılı olaraq formalaşan ritmik-metodik səs quruluşudur.",
+        "Tənəffüs məqsədilə danışıq və oxu prosesində edilən dayanacaqdır.",
+        "Bədii əsərin strukturuna daxil olan komponentlərdən biridir."
+      ],
+      "correct": "Tələffüz normalarına əməl edilməsi zamanı nəfəsin, səsin, artikulyasiyanın əlaqələndirilməsidir."
+    },
+    {
+      "number": 584,
+      "body": "Salamlaşma etiketinə aiddir:",
+      "wrong": [
+        "Xudahafiz!",
+        "Görüşənədək!",
+        "Gəlişinizə şadıq!",
+        "Yenə gözləyirik!"
+      ],
+      "correct": "Hər vaxtınız xeyir!"
+    },
+    {
+      "number": 585,
+      "body": "Verilənlərdən biri tembrin qüsurlarına aid deyil:",
+      "wrong": ["burunda danışmaq", "sərtlik", "xırıltılılıq", "təngnəfəslik"],
+      "correct": "təmiz vibrasiya"
+    },
+    {
+      "number": 586,
+      "body": "Verilənlərdən biri nitq etiketinin xüsusiyyətlərinə aid deyil:",
+      "wrong": [
+        "Cəmiyyətin mənəvi vəziyyətini, onun əxlaqi dayaqlarını əks etdirir.",
+        "Nüfuz qazanılmasına kömək edir, inam və hörmət yaradır.",
+        "Nitq davranışının qaydaları, ünsiyyətin nitq formulları sistemi başa düşülür.",
+        "İşgüzar münasibətlərə daxil olmuş tərəfdaşların xüsusiyyətləri, peşəsi, xarakteri və s. nəzərə alınmaqla qurulur."
+      ],
+      "correct": "Bədii əsərin strukturuna daxil olan komponentlərdən biridir."
+    },
+    {
+      "number": 587,
+      "body": "Uğurlu ünsiyyətin qaydalarından biri yanlışdır:",
+      "wrong": [
+        "Danışarkən göz kontaktı qurun.",
+        "Danışmağa müsbət tərəflərlə başlayın.",
+        "İstək və ehtiyaclarınız mövzusunda dürüst, sadə və aydın ünsiyyət qurun.",
+        "Uzun və ətraflı bir danışıq lazımdırsa, mətninizi hissələrə ayırın, nümunələr gətirməklə danışın."
+      ],
+      "correct": "Daha ucadan danışın."
+    },
+    {
+      "number": 588,
+      "body": "Nitqin əsas xüsusiyyətlərinə aşağıdakılardan biri aid deyil:",
+      "wrong": [
+        "nitqin dəqiqliyi",
+        "nitqin aydınlığı",
+        "nitqin sadəliyi",
+        "nitqin düzgünlüyü"
+      ],
+      "correct": "nitqin genişliyi"
+    },
+    {
+      "number": 589,
+      "body": "\"Nitqin ahəngi, melodik səs quruluşu, ritmi, tempi və s.\" Verilənlər aiddir:",
+      "wrong": ["mimika", "təbəssüm", "jest", "məsafə"],
+      "correct": "intonasiya"
+    },
+    {
+      "number": 590,
+      "body": "Latınca \"ucadan tələffüz etmək\" mənasını verir və şifahi nitqə yardım edən vasitələrdən biridir. Verilən fikir aiddir:",
+      "wrong": ["tembr", "vurğu", "fasilə", "temp"],
+      "correct": "intonasiya"
+    },
+    {
+      "number": 591,
+      "body": "“İntonasiya” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["yunan", "fars", "rus", "türk"],
+      "correct": "latın"
+    },
+    {
+      "number": 592,
+      "body": "Müştəri ilə ünsiyyət texnikalarına aşağıdakılardan biri aid deyil:",
+      "wrong": [
+        "səmimi maraq",
+        "düzgün davranış",
+        "təbəssüm sənəti",
+        "kompliment demək"
+      ],
+      "correct": "neqativ münasibət"
+    },
+    {
+      "number": 593,
+      "body": "Kollektiv ünsiyyəti səmərəli edən vasitələrdən biri yanlışdır:",
+      "wrong": [
+        "səbr və tənqidə dözümlülük",
+        "danışarkən mövzuya bələd olmaq",
+        "salamlaşmaq",
+        "bir-birinə “siz” deyə müraciət etmək"
+      ],
+      "correct": "qarşınızdakı insanın reaksiyasına əhəmiyyət verməmək"
+    },
+    {
+      "number": 594,
+      "body": "Şifahi nitqə yardım edən vasitələrə aid deyil:",
+      "wrong": ["bədən dili", "intonasiya", "mimika", "jestlər"],
+      "correct": "poliloq"
+    },
+    {
+      "number": 595,
+      "body": "Verilən fikir peşəkar ünsiyyətin hansı formadına aid edilir? \"Fikirlərin, mövqelərin kəsişməsidir, tərəflər öz mövqeyini müdafiə edərək, rəqibin dəlillərini təkzib etməyə çalışır\".",
+      "wrong": [
+        "mətbuat konfransı",
+        "işgüzar söhbət",
+        "işgüzar müşavirə",
+        "kütlə qarşısında çıxış"
+      ],
+      "correct": "mübahisə"
+    },
+    {
+      "number": 596,
+      "body": "Verilən fikir peşəkar ünsiyyətin hansı formasına aid edilir? \"Problemlərin mütəxəssislər qrupu tərəfindən kollektiv müzakirə üsuludur\".",
+      "wrong": [
+        "diskussiya",
+        "işgüzar danışıqlar",
+        "polemika",
+        "işgüzar məktublaşma"
+      ],
+      "correct": "işgüzar müşavirə"
+    },
+    {
+      "number": 597,
+      "body": "Biri peşəkar ünsiyyət formalarına aid deyil:",
+      "wrong": [
+        "debat",
+        "kütlə qarşısında çıxış",
+        "işgüzar danışıqlar",
+        "işgüzar müşavirə"
+      ],
+      "correct": "davranış qaydaları"
+    },
+    {
+      "number": 598,
+      "body": "Aşağıdakılardan biri peşəkar etikanın struktur komponentlərinə aid deyil:",
+      "wrong": ["səbirlilik", "düzgünlük", "vicdanlılıq", "nəzakət"],
+      "correct": "ədalətsizlik"
+    },
+    {
+      "number": 599,
+      "body": "Verilənlərdən biri peşəkar ünsiyyətin formalarına aid deyil:",
+      "wrong": [
+        "mübahisə",
+        "işgüzar məktublaşma",
+        "polemika",
+        "telefon danışıqları"
+      ],
+      "correct": "mühazirə"
+    },
+    {
+      "number": 600,
+      "body": "Aşağıdakılardan biri peşəkar ünsiyyətin formalarına aid deyil:",
+      "wrong": ["müşavirə", "işgüzar məktublaşma", "mübahisə", "polemika"],
+      "correct": "etiket"
+    },
+    {
+      "number": 601,
+      "body": "\"Elmi mövzular üzrə tamaşaçılar qarşısında açıq çəkişmələrdir\". Verilən fikir aiddir:",
+      "wrong": ["debat", "müşavirə", "işgüzar söhbət", "danışıqlar"],
+      "correct": "disput"
+    },
+    {
+      "number": 602,
+      "body": "Ünsiyyət neçə formada xarakterizə olunur?",
+      "wrong": ["5", "6", "3", "4"],
+      "correct": "2"
+    },
+    {
+      "number": 603,
+      "body": "Aşağıdakılardan biri ünsiyyət zamanı istifadə edilən nitq bacarığına aid deyil:",
+      "wrong": ["yazı", "danışma", "dinləmə", "oxu"],
+      "correct": "görmə"
+    },
+    {
+      "number": 604,
+      "body": "Ünsiyyət zamanı neçə nitq bacarığından istifadə edirik?",
+      "wrong": ["6", "3", "2", "5"],
+      "correct": "4"
+    },
+    {
+      "number": 605,
+      "body": "Mənşəcə yunan dilinə məxsus sözdür, “bir şəxsin nitqi” deməkdir:",
+      "wrong": ["çıxış", "poliloq", "dialoq", "mühazirə"],
+      "correct": "monoloq"
+    },
+    {
+      "number": 606,
+      "body": "Verilənlərdən biri mühazirənin ümumi şərtlərinə aid deyil:",
+      "wrong": [
+        "Forma və məzmun vəhdəti",
+        "Məlumatların dəqiq mənbələrə və faktlara əsaslanması",
+        "Məntiqi ardıcıllıq",
+        "Auditoriyanın yaş və bilik səviyyəsinin nəzərə alınması"
+      ],
+      "correct": "Çox vaxt müzakirə edilməsi"
+    },
+    {
+      "number": 607,
+      "body": "Yunanca \"iki adamın nitqi, iki şəxsin söhbəti\" deməkdir:",
+      "wrong": ["poliloq", "monoloq", "çıxış", "mühazirə"],
+      "correct": "dialoq"
+    },
+    {
+      "number": 608,
+      "body": "\"Söhbətdə iştirak edən çox adamın nitqidir, mükaliməsidir\". Verilən fikir aiddir:",
+      "wrong": ["mühazirə", "dialoq", "monoloq", "çıxış"],
+      "correct": "poliloq"
+    },
+    {
+      "number": 609,
+      "body": "Biri dialoqa aid deyil:",
+      "wrong": [
+        "İki şəxsin söhbəti deməkdir.",
+        "İctimai- siyasi həyatda istifadə olunur.",
+        "Ünsiyyətin başlıca növüdür.",
+        "Peşəkar ünsiyyətdə geniş istifadə olunur."
+      ],
+      "correct": "Bir şəxsin nitqidir."
+    },
+    {
+      "number": 610,
+      "body": "\"Hər kəsin müəyyən bir təşkilatda, müəssisədə olan rəsmi statusu ilə şərtlənən ünsiyyətidir\". Verilən xüsusiyyət aiddir?",
+      "wrong": [
+        "kütlə qarşısında çıxış",
+        "peşəkar ünsiyyət",
+        "qeyri-formal ünsiyyət",
+        "işgüzar ünsiyyət"
+      ],
+      "correct": "formal ünsiyyət"
+    },
+    {
+      "number": 611,
+      "body": "\"Saxtakarlıq etmədən, tərəfdaşa “kələk gəlmədən” irəli hərəkət etmək və münasibətləri inkişaf etdirmək üçün qarşılıqlı faydalı razılıq bağlamaq münasibətlərin bütün tərəflər üçün xeyirli olmasına çalışmaqdır\". Verilən xüsusiyyət peşəkar etikanın struktur komponentlərindən hansına aiddir?",
+      "wrong": ["Ədalətlilik", "Nəzakətlilik", "Düzlük", "Səbirlilik"],
+      "correct": "Vicdanlılıq"
+    },
+    {
+      "number": 612,
+      "body": "\"Xalq danışıq dilinin cilalanmış forması olub ciddi fonetik, leksik, morfoloji və sintaktik normalar əsasında təzahür edir\". Verilən xüsusiyyət aiddir:",
+      "wrong": ["mühazirə", "intonasiya", "fasilə", "kommunikasiya"],
+      "correct": "şifahi ədəbi dil"
+    },
+    {
+      "number": 613,
+      "body": "Cümlə strukturlarını dəyişmək metodlarından biri səhv göstərilmişdir:",
+      "wrong": [
+        "fərqli fikirləri əlaqələndirmək üçün müxtəlif bağlayıcı sözlər və frazalardan istifadə etmək",
+        "müəllifə istinad edərək, məlumatı yenidən ifadə etmək",
+        "cümlənin əvvəlində, ortasında və ya sonunda müəllifi göstərmək",
+        "tezarusun - sinonimlərin köməyindən istifadə etmək"
+      ],
+      "correct": "hadisələrin və ya bəndlərin ardıcıllığını, sırasını dəyişməmək"
+    },
+    {
+      "number": 614,
+      "body": "Verilənlərdən biri cümlə strukturlarını dəyişmək metodlarına aiddir:",
+      "wrong": [
+        "Əsas fikirləri bir daha yoxlamaq",
+        "Şərhlər əsasında akademik yazınıza düzəlişlər etmək",
+        "Yazınızı oxumaq və ilkin strukturu nəzərdən keçirmək",
+        "Lazımi düzəlişləri etmək və yenidən oxumaq üçün kiməsə vermək"
+      ],
+      "correct": "Müəllifə istinad edərək, məlumatı yenidən ifadə etmək"
+    },
+    {
+      "number": 615,
+      "body": "Biri akademik yazının redaktəsinə aid deyil:",
+      "wrong": [
+        "məntiqi ardıcıllığın gözlənilməsi",
+        "şərhlər əsasında düzəlişlər",
+        "düzgün əsaslandırma",
+        "ilkin strukturu nəzərdən keçirmək"
+      ],
+      "correct": "nəşr edilməyə tövsiyə"
+    },
+    {
+      "number": 616,
+      "body": "Verilənlərdən biri akademik yazının redaktəsinə aiddir:",
+      "wrong": [
+        "Hadisələrin və ya bəndlərin ardıcıllığını, sırasını dəyişmək",
+        "Cümləyə başlamaq üçün istifadə edilən ifadələrlə ideyanı yenidən formalaşdırmaq",
+        "İdeyaları fərqli yollarla demək üçün tezarusun – sinonimlərin köməyindən istifadə etmək",
+        "Müəllifə istinad edərək, məlumatı yenidən ifadə etmək"
+      ],
+      "correct": "Yazınızı oxumaq və ilkin strukturu nəzərdən keçirmək"
+    },
+    {
+      "number": 617,
+      "body": "Məqaləyə tənqidi rəy aşağıdakı məqamları özündə ehtiva etməlidir. Səhv variantı göstərin:",
+      "wrong": [
+        "məqalənin tam adı, müəllifin adı, soyadı, atasının adı, vəzifəsi",
+        "nəşr edilməyə tövsiyə və rəyçinin adı, vəzifəsi, elmi dərəcəsi, imza",
+        "toxunulan problemin həlli ilə bağlı müəllifin nail olduğu vacib məqamlar",
+        "məqalənin həsr edildiyi problemin geniş şərhi"
+      ],
+      "correct": "məqalənin həsr edildiyi problemin geniş şərhi"
+    },
+    {
+      "number": 618,
+      "body": "“Mətnin bir sıra əsas məqamlarını seçməklə, onu qısa şəkildə şərh etmək deməkdir”. Verilən fikir aiddir:",
+      "wrong": [
+        "müəllifə istinad etmək",
+        "vasitəli nitq",
+        "parafraz etmək",
+        "sitat gətirmək"
+      ],
+      "correct": "xülasə etmək"
+    },
+    {
+      "number": 619,
+      "body": "“Başqa müəllifin ideyalarını öz sözlərinlə ifadə etməkdir”. Verilən fikir aiddir:",
+      "wrong": [
+        "müəllifə istinad etmək",
+        "vasitəsiz nitq",
+        "xülasə etmək",
+        "sitat gətirmək"
+      ],
+      "correct": "parafraz etmək"
+    },
+    {
+      "number": 620,
+      "body": "Akademik yazının redaktəsində nəzərdə tutulmur:",
+      "wrong": [
+        "şərhlər əsasında düzəliş",
+        "yazının ilkin strukturunun nəzərdən keçirilməsi",
+        "əsas fikirlərin yoxlanılması",
+        "lazımi düzəlişlərin edilməsi"
+      ],
+      "correct": "ilkin strukturun nəzərdən keçirilməməsi"
+    },
+    {
+      "number": 621,
+      "body": "Parafraz etmək nədir?",
+      "wrong": [
+        "Nəsri nəzmə çevirməkdir.",
+        "Söz sırasını dəyişməkdir.",
+        "Hansısa məqalədən istinad verməkdir.",
+        "Mətni olduğu kimi köçürməkdir."
+      ],
+      "correct": "Müxtəlif sözlərdən istifadə etməklə məlumatı yenidən ifadə etmək deməkdir."
+    },
+    {
+      "number": 622,
+      "body": "Biri analitik icmalın yaradılması mərhələlərinə aid deyil:",
+      "wrong": [
+        "məlumatın axtarışı",
+        "icmalın planının yaradılması",
+        "ilkin sənədlərin axtarışı və niiden ilkin analitik emalı",
+        "məlumat aparatının hazırlanması"
+      ],
+      "correct": "icmal mövzusunun morfoloji təhlili"
+    },
+    {
+      "number": 623,
+      "body": "Aşağıdakılardan biri essenin əsas əlamətlərinə aid deyil:",
+      "wrong": [
+        "kiçik həcm (əlyazma ilə 3-4 səhifə);",
+        "konkretlik",
+        "kompozisiya sərbəstliyi",
+        "üslub aydınlığı"
+      ],
+      "correct": "böyük həcm"
+    },
+    {
+      "number": 624,
+      "body": "Analitik icmalın yaradılması mərhələsinə aid olmayanı göstərin:",
+      "wrong": [
+        "Məlumat aparatının hazırlanması",
+        "Kartoteka (faylın və s) və rubrikatorun yaradılması",
+        "Sənəd mətninin fraqmentlərinin sintezi",
+        "Mətnin ədəbi redaktəsi"
+      ],
+      "correct": "İstifadə olunmuş ədəbiyyat siyahısı"
+    },
+    {
+      "number": 625,
+      "body": "Verilənlərdən biri analitik icmalın yaradılması mərhələsinə aiddir:",
+      "wrong": [
+        "İstifadə olunmuş ədəbiyyat siyahısı",
+        "İxtisarların siyahısı",
+        "Çıxış məlumatları",
+        "Köməkçi göstəricilər"
+      ],
+      "correct": "Sənəd mətninin fraqmentlərinin sintezi"
+    },
+    {
+      "number": 626,
+      "body": "Biri biblioqrafik icmalın qurluşuna aiddir:",
+      "wrong": [
+        "Kartoteka (faylın və s) və rubrikatorun yaradılması",
+        "İlkin sənədlərin mətninin təhlili",
+        "Məlumat aparatının hazırlanması",
+        "İcmal planının yaradılması"
+      ],
+      "correct": "İcmal mövzusu üzrə informasiya mənbələrinin axtarışı"
+    },
+    {
+      "number": 627,
+      "body": "Verilənlərdən biri referativ icmalın quruluşuna aid deyil:",
+      "wrong": [
+        "Nəticələr",
+        "İxtisarların siyahısı",
+        "Əsas hissə",
+        "Titul vərəqi"
+      ],
+      "correct": "Mətnin ədəbi redaktəsi"
+    },
+    {
+      "number": 628,
+      "body": "Məzmun. Ön söz. Əsas hissə. Köməkçi göstəricilər. Verilənlər aiddir:",
+      "wrong": [
+        "analitik və referativ icmal",
+        "ədəbiyyat icmalı",
+        "analitik icmal",
+        "referativ icmal"
+      ],
+      "correct": "biblioqrafik icmal"
+    },
+    {
+      "number": 629,
+      "body": "Esse haqqında fikirlərdən biri səhvdir:",
+      "wrong": [
+        "İlkin mənası “götür-qoy edərək mühakimə yürütmək” deməkdir.",
+        "Əslən latın sözüdür, oradan fransız dilinə keçib.",
+        "Əsas hissəsi tezis-arqument formasında qurulur.",
+        "Kiçik həcmli, sərbəst kompozisiyalı əsərdir."
+      ],
+      "correct": "Giriş hissəsi 3-5 səhifə həcmində olur."
+    },
+    {
+      "number": 630,
+      "body": "Verilən bölmələrdən biri metodoloji hissəyə daxil deyil:",
+      "wrong": [
+        "Əsas anlayışların interpretasiyası",
+        "Problemin və ya mövzunun formulə edilməsi",
+        "Tədqiqat obyektlərinin və predmetinin təyini",
+        "Tədqiqatın məqsədi və problemin qoyuluşu"
+      ],
+      "correct": "Araşdırma ərəfəsində həlli tələb olunan məsələlər"
+    },
+    {
+      "number": 631,
+      "body": "Biri metodoloji hissəyə aid deyil:",
+      "wrong": [
+        "İşçi hipotezlərin formulə edilməsi",
+        "Tədqiqat obyektlərinin və predmetinin təyini",
+        "Əsas anlayışların interpretasiyası",
+        "Tədqiqatın məqsədi və problemin qoyuluşu"
+      ],
+      "correct": "Planlama və təşkiletmə"
+    },
+    {
+      "number": 632,
+      "body": "Aşağıdakılardan biri icmalın funksiyalarına aid deyil:",
+      "wrong": [
+        "informasiya funksiyası",
+        "yekunlaşdırıcı funksiya",
+        "siqnal funksiyası",
+        "qiymətləndirici funksiya"
+      ],
+      "correct": "kommunikativ funksiya"
+    },
+    {
+      "number": 633,
+      "body": "Biri metodoloji hissəyə aiddir:",
+      "wrong": [
+        "Mövzuya aid mətnin strukturlaşdırılması",
+        "Protokolun tərtibi",
+        "Planlama və təşkiletmə",
+        "Öyrənmə, imtahana hazırlıq"
+      ],
+      "correct": "İşçi hipotezlərin formulə edilməsi"
+    },
+    {
+      "number": 634,
+      "body": "“Bu icmal informasiya mənbəyi kimi ilkin sənədlərin müəyyən dövr ərzində və yaxud hər hansı birləşmiş ortaq əlamət üzrə xülasəsi yaranmış xarakteristikasını əks etdirir”. Verilən fikir aiddir:",
+      "wrong": ["analitik icmal", "esse", "adi icmal", "referativ icmal"],
+      "correct": "biblioqrafik icmal"
+    },
+    {
+      "number": 635,
+      "body": "Biblioqrafik icmalın quruluşuna aid deyil:",
+      "wrong": ["titul vərəqi", "əsas hissə", "ön söz", "məzmun"],
+      "correct": "planın yaradılması"
+    },
+    {
+      "number": 636,
+      "body": "İcmalın xarakterik xüsusiyyətləri neçə qrupa bölünür?",
+      "wrong": ["2", "6", "5", "4"],
+      "correct": "3"
+    },
+    {
+      "number": 637,
+      "body": "İcmalların xarakterik xüsusiyyətlərinə daxildir:1. problem xarakterli; 2. orijinal xarakterli; 3. sistematik xarakterli; 4. elmi xarakterli 5. məişət xarakterli",
+      "wrong": ["2, 3, 4", "1, 3, 5", "3, 4, 5", "1, 2, 5"],
+      "correct": "1, 2, 3"
+    },
+    {
+      "number": 638,
+      "body": "Essenin əsas əlamətlərinə aid deyil:",
+      "wrong": [
+        "Kompozisiya sərbəstliyi var.",
+        "Üslub aydınlığı var.",
+        "Kiçik həcmlidir.",
+        "Konkretdir."
+      ],
+      "correct": "Mövzuda problemə müəllifin öz fikri yoxdur."
+    },
+    {
+      "number": 639,
+      "body": "İcmal məqalə nədir?",
+      "wrong": [
+        "Bədii mətndir.",
+        "Dissertasiyanın sonuncu hissəsidir.",
+        "Mətbuatda dərc olanan publisistik məqalədir.",
+        "Yaddaş xəritəsidir."
+      ],
+      "correct": "Elmi dövriyyədə qəbul edilmiş quruluşa malik olan elmi məqalədir."
+    },
+    {
+      "number": 640,
+      "body": "Verilənlərdən biri esseyə aiddir:",
+      "wrong": [
+        "İstənilən elmi işin tərkib hissələrindən biridir.",
+        "Elmi dövriyyədə qəbul edilmiş quruluşa malik olan elmi məqalədir.",
+        "Sənəd mətninin fraqmentlərinin sintezidir.",
+        "İcmal mövzusunun struktur- semantik təhlili."
+      ],
+      "correct": "Kiçik və ya orta həcmdə olan, bir çox elmi sahəyə müraciət olunan nəsr janrıdır."
+    },
+    {
+      "number": 641,
+      "body": "“Bu icmal onun müəllifi tərəfindən tənqidi qiymətləndirmə aparılmadan məsələnin vəziyyəti barədə sistemləşdirilmiş fakt və məlumatların ümumiləşdirilmiş xülasəsidir”. Verilən xüsusiyyət aiddir:",
+      "wrong": [
+        "ədəbiyyat icmalı",
+        "adi icmal",
+        "biblioqrafik icmal",
+        "analitik icmal"
+      ],
+      "correct": "referativ icmal"
+    },
+    {
+      "number": 642,
+      "body": "Arqumentlərə aid xüsusiyyətlərdən biri yanlışdır:",
+      "wrong": [
+        "Bir çox akademik yazılarda əsaslandırılmış arqumentin olması vacib şərtdir.",
+        "Yazanın mövzuya dair fikri və ya mülahizəsidir.",
+        "Mövzu və ya qoyulan sualla bilavasitə əlaqələndirilməlidir.",
+        "Aydın, məntiqi və inandırıcı olmalıdır."
+      ],
+      "correct": "Əsaslandırılmır və məntiqi ardıcıllığı gözlənilmir."
+    },
+    {
+      "number": 643,
+      "body": "\"Tezisin yekunu olub, akademik işin bütün əsas məqamlarını qısa şəkildə göstərir\". Verilən xüsusiyyət aiddir:",
+      "wrong": ["giriş paraqrafı", "esse", "mündəricat", "nəticə"],
+      "correct": "abstrakt"
+    },
+    {
+      "number": 644,
+      "body": "Hansı variantda tezis cümləsi elmi yazı işinin əsas ideyasını təqdim etmir?",
+      "wrong": [
+        "Əsas mövzunun yarımmövzularını sadalaya bilər.",
+        "Struktur metodu barədə məlumat verir.",
+        "Elmi işin sualına cavab verdiyinə görə başlanğıc üçün ən uyğun məqamdır.",
+        "Girişin sonuncu cümləsi olmalıdır."
+      ],
+      "correct": "Yazının konkret mövzusunu göstərmir."
+    },
+    {
+      "number": 645,
+      "body": "Biri akademik yazının fəsillərinin quruluşuna aid deyil:",
+      "wrong": [
+        "Arqumentlərinizin məntiqi ardıcıllığı gözlənilməlidir.",
+        "Mövzu fəsillərə və yarımfəsillərə bölünməlidir.",
+        "Əsaslandırma olaraq cədvəl və diaqramlar qoyulmalı və izah edilməlidir.",
+        "Hər bir cədvəl və ya diaqram nömrələnməlidir."
+      ],
+      "correct": "Tədqiqat metodu göstərilməlidir."
+    },
+    {
+      "number": 646,
+      "body": "Hansılar akademik mənbə hesab edilmir? 1. nəşr edilmiş hesabatlar 2. məşhur bir insanın düşüncələri 3. kitablar və jurnal məqalələri 4. tarihi sənədlər 5. şəxsi fikirlər",
+      "wrong": ["1.40", "1.30", "3.50", "2.40"],
+      "correct": "2.50"
+    },
+    {
+      "number": 647,
+      "body": "Akademik yazıya aid xüsusiyyətlərdən biri səhvdir:",
+      "wrong": [
+        "Rəylərinizi formalaşdırmağa imkan verir.",
+        "Cümlələrinizin mümkün qədər aydın olmağını tələb edir.",
+        "Fikirlərinizi aydın şəkildə təqdim edə biləcəyiniz arqumentlərə çevirməyi tələb edir.",
+        "Düşünmə və planlaşdırma tələb edir."
+      ],
+      "correct": "Ədəbiyyata əsaslanmır, ondan istiqamət götürmür."
+    },
+    {
+      "number": 648,
+      "body": "Akademik yazıya verilən tələblərdən biri yanlışdır:",
+      "wrong": [
+        "sitatgətirmə",
+        "orfoqrafiya qaydaları, punktuasiya və qrammatik standartlara riayət",
+        "arqumentlərin əsaslandırılması",
+        "etibarlı mənbələrə istinadetmə"
+      ],
+      "correct": "konkret olmayan yazı strukturu"
+    },
+    {
+      "number": 649,
+      "body": "Bir qayda olaraq, abstraktın həcmi nə qədər olur?",
+      "wrong": [
+        "4 paraqraf (800-1000 söz)",
+        "5 paraqraf (200-700 söz)",
+        "6 paraqraf (600-900 söz)",
+        "3 paraqraf (300-700 söz)"
+      ],
+      "correct": "1-2 paraqraf (100-500 söz)"
+    },
+    {
+      "number": 650,
+      "body": "Aşağıdakılardan hansı variant akademik mənbə hesab olunur?",
+      "wrong": [
+        "şəxsi fikirlər",
+        "dostlar və ya qohumlarla bir mövzu üzrə aparılan müzakirənin nəticələri",
+        "qəzetlərdəki köşə yazarlarının rəyləri",
+        "məşhur bir insanın düşüncələri"
+      ],
+      "correct": "kitablar, jurnal məqalələri, nəşr edilmiş hesabatlar"
+    },
+    {
+      "number": 651,
+      "body": "Abstraktın quruluşunu əks etdirmir:",
+      "wrong": [
+        "problemin bildirilməsi",
+        "tapılan həll yolu ilə nəyə nail olmağın mümkünlüyü",
+        "problemi həll etməyin əhəmiyyəti",
+        "tapıntıdan sonra nəyin əldə edilə biləcəyini"
+      ],
+      "correct": "cədvəl, sxem və qrafiklər göstərilir"
+    },
+    {
+      "number": 652,
+      "body": "Titul vərəqi üçün səciyyəvi deyil:",
+      "wrong": [
+        "Yazıda səhifənin yuxarısında yazılan qısaldılmış başlıqdır və 50 hərfi keçməməlidir.",
+        "Yazı müəllifinin adı; əgər yazı digər şəxslərlə birgə yazılırsa, onların da adları daxil edilməlidir.",
+        "Qısa olmalıdır; ikinci dərəcəli deyil, əsas sözlər böyük hərflərlə yazılmalıdır.",
+        "İnstitusional bağlılıq olmalıdır."
+      ],
+      "correct": "Ədəbiyyat siyahısı da burada əksini tapır."
+    },
+    {
+      "number": 653,
+      "body": "Şəxsi məzmunlu yazı ilə akademik yazı arasında olan fərqlərdən biri səhv göstərilib:",
+      "wrong": [
+        "Şəxsi məzmunlu yazışmada orfoqrafiya qaydaları gözlənilməyə bilər, akademik yazıda isə bu, mütləqdir.",
+        "Şəxsi məzmunlu yazılardan fərqli olaraq, akademik yazılar elmi araşdırmalara dayanır.",
+        "Şəxsi məzmunlu yazılarda xülasəyə ehtiyac yoxdur, akademik yazılarda isə xülasə olunur.",
+        "Şəxsi məzmunlu yazılar istənilən strukturda ola bilər, akademik yazıda isə konkret yazı strukturu tələb olunur."
+      ],
+      "correct": "Şəxsi məzmunlu yazılarda sitat olur, akademik yazıda olmur."
+    },
+    {
+      "number": 654,
+      "body": "Mövzunun aktuallığı necə olmalıdır?",
+      "wrong": [
+        "İstənilən həcmdə ola bilər.",
+        "Tədqiqat işindən çıxan nəticələr orada əks olunmalıdır.",
+        "Mövzunun ümumi məsələləri, öyrənilmə səviyyəsi, pedaqoji ədəbiyyatda, dərsliklərdə, tədqiqat işlərində məsələnin qoyuluşu təhlil edilməlidir.",
+        "Əlifba sırasına əsaslanmaldır."
+      ],
+      "correct": "Konkret faktlarla, məntiqi təfəkkürlə əsaslandırılmalıdır."
+    },
+    {
+      "number": 655,
+      "body": "Tezis növü ilə bağlı verilən fikirlərdən biri yanlışdır:",
+      "wrong": [
+        "Əsas mövzunun yarım mövzularını sadalanır.",
+        "Struktur metodu barədə məlumat verir.",
+        "Aydın və səlis şəkildə yazılmalıdır.",
+        "Yazınızın konkret mövzusunu göstərir."
+      ],
+      "correct": "Müddəalar irəli sürülmür."
+    },
+    {
+      "number": 656,
+      "body": "Xülasə ilə bağlı deyilənlərdən biri doğrudur:",
+      "wrong": [
+        "100-500 sözdən ibarət olur.",
+        "Bir qayda olaraq 1-2 paraqrafdan ibarət olur.",
+        "Həcmi mövzu və nəşriyyat tələblərindən asılı olaraq dəyişə bilər.",
+        "Görülən elmi işi yekunlaşdırmağa xidmət edir."
+      ],
+      "correct": "Tezis və ya dissertasiyanın sonuncu hissələrindəndir."
+    },
+    {
+      "number": 657,
+      "body": "Xülasə ilə bağlı deyilənlərdən biri yanlışdır:",
+      "wrong": [
+        "Tapıntılar qısa şəkildə verilməlidir.",
+        "Seçmə dizaynından bəhs edən qısa cümlələrdən ibarət olmalıdır.",
+        "Vacib tapıntılar daxil edilməlidir.",
+        "Tədqiqatın əsas məqsədi və vəzifələri əks olunmalıdır."
+      ],
+      "correct": "Görülən elmi işi yekunlaşdırmağa xidmət edir."
+    },
+    {
+      "number": 658,
+      "body": "Akademik yazılarda istinaddan nə üçün istifadə edirlər?",
+      "wrong": [
+        "fəsillərin ardıcıllığı üçün",
+        "elmi işin həcmini artırmaq üçün",
+        "mövzuya uyğun mənbələri bir yerə toplamaq üçün",
+        "digər müəlliflərə olan hörməti göstərmək üçün"
+      ],
+      "correct": "müəllifin öz fikirlərini əsaslandırması üçün"
+    },
+    {
+      "number": 659,
+      "body": "Akademik mənbədir:",
+      "wrong": [
+        "məşhur gündəlik həyat jurnallarından məqalələr",
+        "qəzetlərdəki köşə yazarlarının rəyləri",
+        "telefon danışıqları",
+        "məşhur bir insanın düşüncələri"
+      ],
+      "correct": "nəşr edilmiş hesabatlar"
+    },
+    {
+      "number": 660,
+      "body": "Akademik yazı növlərinin quruluşuna daxildir:1. Xülasə 2. Titul vərəq 3. Plagiat 4. Mündəricat 5. Xəbərdarlıq",
+      "wrong": ["1, 4, 5", "1, 2, 5", "3, 4, 5", "2, 3, 4"],
+      "correct": "1, 2, 4"
+    },
+    {
+      "number": 661,
+      "body": "Akademik mənbə deyil:",
+      "wrong": [
+        "elmi saytlar",
+        "nəşr edilmiş hesabatlar",
+        "qəzetlər",
+        "kitablar"
+      ],
+      "correct": "şəxsi fikirlər"
+    },
+    {
+      "number": 662,
+      "body": "Akademik yazılarda mündəricat harada yerləşir?",
+      "wrong": [
+        "ədəbiyyat siyahısından əvvəl",
+        "nəticədən əvvəl",
+        "III fəsildə",
+        "fəsillərdə"
+      ],
+      "correct": "titul vərəqindən sonra ikinci səhifədə"
+    },
+    {
+      "number": 663,
+      "body": "Polemika nədir?",
+      "wrong": [
+        "Böyük və aktual elmi problemləri müzakirə etmək məqsədilə elmi təşkilatların nümayəndələrinin yığıncağıdır.",
+        "Fikirlərin, mövqelərin kəsişməsidir.",
+        "Hər hansı bir məsələnin birlikdə müzakirəsidir, iclasdır.",
+        "Müəyyən elmi problemin müzakirəsi ilə əlaqədar bir və ya bir neçə sahənin alimlərinin, mütəxəssislərinin beynəlxalq elmi idarələr tərəfikdən təşkil edilmiş yığıncağıdır."
+      ],
+      "correct": "Hansısa konkret sahədə (siyasətdə, incəsənətdə, dində, fəlsəfədə və s.) aparılan söz və fikir çəkişməsidir."
+    },
+    {
+      "number": 664,
+      "body": "\"Elmi mövzular üzrə tamaşaçılar qarşısında açıq çəkişmələrdir\". Verilən fikir peşəkar ünsiyyətin hansı formasına aiddir:",
+      "wrong": ["mübahisə", "müşavirə", "debat", "polemika"],
+      "correct": "disput"
+    },
+    {
+      "number": 665,
+      "body": "Biri konflikt zamanı davranış taktikasının əsas növlərinə aid deyil:",
+      "wrong": [
+        "Koalisiya taktikası",
+        "Gözlənilməzlik effektinin yaradılması",
+        "Səmərəli inandırma",
+        "Dostyana münasibət"
+      ],
+      "correct": "Dəqiq mövqelərin olmaması"
+    },
+    {
+      "number": 666,
+      "body": "Biri elmi konfransın quruluşuna aid deyil:",
+      "wrong": [
+        "Qeyri-rezident qonaqlar üçün mədəni proqramlar (ekskursiyalar)",
+        "Elmi məqalələr toplusunun və iştirakçı sertifikatının nəşri",
+        "Açılış və plenar iclas",
+        "Konfransın ortasında qəhvə fasiləsi, sonunda ziyafət"
+      ],
+      "correct": "Bütün iştirakçıların mövqelərinin bərabərliyi"
+    },
+    {
+      "number": 667,
+      "body": "\"Debat\" sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["yunan", "ərəb", "fars", "latın"],
+      "correct": "ingilis"
+    },
+    {
+      "number": 668,
+      "body": "Mübahisə nədir?",
+      "wrong": [
+        "Böyük və aktual elmi problemlərin müzakirəsi məqsədilə elmi təşkilatların nümayəndələrinin yığıncağıdır.",
+        "Elmi mövzular üzrə tamaşaçılar önündə açıq çəkişmələrdir.",
+        "Hər hansı bir məsələnin birlikdə müzakirəsidir, iclasdır.",
+        "Müəyyən elmi problemi müzakirə etmək məqsədilə bir və ya bir neçə sahənin alimlərinin beynəlxalq elmi idarələr tərəfindən təşkil edilmiş yığıncağıdır."
+      ],
+      "correct": "Fikirlərin, mövqelərin kəsişməsidir."
+    },
+    {
+      "number": 669,
+      "body": "Elmi konqres nədir?",
+      "wrong": [
+        "Bir məsələni götür-qoy etməkdir, məsləhət, məşvərətdir.",
+        "Müəyyən bir məsələ barədə fikir mübadiləsi, mübahisə, müzakirədir.",
+        "Böyük və aktual elmi problemləri müzakirə etmək məqsədilə elmi təşkilatların nümayəndələrinin yığıncağıdır.",
+        "Hər hansı bir məsələnin birlikdə müzakirəsidir."
+      ],
+      "correct": "Müəyyən elmi problemin müzakirəsi ilə əlaqədar bir və ya bir neçə sahənin alimlərinin, mütəxəssislərinin beynəlxalq elmi idarələr tərəfindən təşkil edilmiş yığıncağıdır."
+    },
+    {
+      "number": 670,
+      "body": "Elmi konfrans nədir?",
+      "wrong": [
+        "Bir məsələni götür-qoy etməkdir, məsləhət, məşvərətdir.",
+        "Müəyyən bir məsələ barədə fikir mübadiləsi, mübahisə, müzakirədir.",
+        "Müəyyən elmi problemi müzakirə etmək məqsədilə bir və ya bir neçə sahənin alimlərinin, yaxud mütəxəssislərinin beynəlxalq elmi idarələr tərəfindən təşkil edilmiş yığıncağıdır.",
+        "Hər hansı bir məsələnin birlikdə müzakirəsidir."
+      ],
+      "correct": "Böyük və aktual elmi problemlərin müzakirəsi məqsədilə elmi təşkilatların nümayəndələrinin yığıncağıdır."
+    },
+    {
+      "number": 671,
+      "body": "“Diskussiya” sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["yunan", "ingilis", "italyan", "türk"],
+      "correct": "latın"
+    },
+    {
+      "number": 672,
+      "body": "“Polemika” sözü mənşəcə hansı dilə aiddir?",
+      "wrong": ["ərəb", "rus", "italyan", "ingilis"],
+      "correct": "yunan"
+    },
+    {
+      "number": 673,
+      "body": "Biri mübahisə növü deyil:",
+      "wrong": ["polemika", "diskussiya", "debat", "disput"],
+      "correct": "məruzə"
+    },
+    {
+      "number": 674,
+      "body": "Beyin həmləsi (hücumu) nədir?",
+      "wrong": [
+        "Gözlənilməzlik effektinin yaradılmasıdır.",
+        "Koalisiya taktikasıdır.",
+        "Problemlərin mütəxəssislər qrupu tərəfindən kollektiv müzakirə üsuludur.",
+        "İştirakçıların mövqelərinin bərabərliyidir."
+      ],
+      "correct": "İnsanların yaradıcılıq fəallığının operativ olaraq stimullaşdırılması əsasında problemlərin həlli metodudur."
+    },
+    {
+      "number": 675,
+      "body": "Replika nədir?",
+      "wrong": ["mühakimə", "polemika", "dialoq", "mübahisə"],
+      "correct": "atmaca"
+    },
+    {
+      "number": 676,
+      "body": "Mübahisənin növlərinə aid deyil:",
+      "wrong": ["disput", "debat", "polemika", "diskusssiya"],
+      "correct": "müşavirə"
+    },
+    {
+      "number": 677,
+      "body": "Verilənlərdən biri diskussiyanın strategiyasına aid deyil:",
+      "wrong": [
+        "Kompromis",
+        "Maraqların mərkəzləşdirilməsi",
+        "Yarış",
+        "Uyğunlaşma"
+      ],
+      "correct": "Məqam"
+    },
+    {
+      "number": 678,
+      "body": "Biri elmi konfransın növlərinə aid edilmir:",
+      "wrong": [
+        "elmi-nəzəri konfrans",
+        "tədqiqat konfransı",
+        "elmi-texniki konfrans",
+        "elmi-praktik konfrans"
+      ],
+      "correct": "diskussiya"
+    },
+    {
+      "number": 679,
+      "body": "“ Konfrans” sözü mənşəcə hansı dilə məxsusdur?",
+      "wrong": ["ərəb", "türk", "fars", "yunan"],
+      "correct": "latın"
+    },
+    {
+      "number": 680,
+      "body": "Mübahisənin neçə növü var?",
+      "wrong": ["5", "6", "2", "3"],
+      "correct": "4"
+    },
+    {
+      "number": 681,
+      "body": "Jestlərdən istifadə edərkən, hansı qaydalara əməl edilməlidir? Yanlış cavabı göstərin:",
+      "wrong": [
+        "öz təyinatına müvafiq olması",
+        "qeyri-iradi, təbii olması",
+        "idarə edilən olması",
+        "tələbat yarandığını hiss etdikdə istifadə olunması"
+      ],
+      "correct": "bütün cümlələri jestlərlə müşayiət etməyə daha çox ehtiyacın olması"
+    },
+    {
+      "number": 682,
+      "body": "Nitq fəaliyyətinin ünsürlərinə aid olmayan variant hansıdır?",
+      "wrong": ["davranış tərzi", "duruş", "jestlər", "xarici görkəm"],
+      "correct": "tənəffüs"
+    },
+    {
+      "number": 683,
+      "body": "Aşağıdakılardan biri nitq aparatının akustik xüsusiyyətlərinin yaradılmasında iştirak etmir:",
+      "wrong": ["tembr", "tələffüzün aydınlığı", "həcm", "temp"],
+      "correct": "qavrayış"
+    },
+    {
+      "number": 684,
+      "body": "Aşağıdakılardan biri tələffüz aparatını xarakterizə etmir:",
+      "wrong": ["artikulyator", "vibrator", "tənəffüs orqanları", "rezonator"],
+      "correct": "qan -damar sistemi"
+    },
+    {
+      "number": 685,
+      "body": "Biri tembrin qüsurlarına aid edilmir:",
+      "wrong": [
+        "burunda danışıq",
+        "təngnəfəslik",
+        "boğaz səsi olması",
+        "sərtlik"
+      ],
+      "correct": "səs telləri"
+    },
+    {
+      "number": 686,
+      "body": "Nitq texnikası dedikdə, neçə cəhət nəzərdə tutulur?",
+      "wrong": ["2", "4", "6", "5"],
+      "correct": "3"
+    },
+    {
+      "number": 687,
+      "body": "İntonasiya hansı funksiyaları yerinə yetirir? 1. semantik 2. sintaktik 3. leksik 4. stilistik 5. fonoloji",
+      "wrong": ["1, 2, 3", "2, 3, 4", "1, 3, 5", "3, 4, 5"],
+      "correct": "1, 2, 4"
+    },
+    {
+      "number": 688,
+      "body": "Tələffüz aparatı nələrdən ibarətdir?1. tənəffüs orqanları 2. vibrator 3. rezonator 4. artikulyator 5. həcm 6. temp",
+      "wrong": ["3, 4, 5, 6", "2, 3, 4, 5", "1, 2, 3, 6", "1, 3, 4 , 5"],
+      "correct": "1, 2, 3, 4"
+    },
+    {
+      "number": 689,
+      "body": "Jestlərin xüsusiyyətlərinə aid deyil:",
+      "wrong": [
+        "Heç vaxt qüvvətləndirdiyi sözdən geri qalmamalıdır.",
+        "Öz təyinatına müvafiq olmalıdır.",
+        "Qeyri-iradi, təbii olmalıdır.",
+        "Tələbat yarandığını hiss etdikdə istifadə etmək lazımdır."
+      ],
+      "correct": "Əl-qol hərəkətləri arasıkəsilməz olmalıdır."
+    },
+    {
+      "number": 690,
+      "body": "Nitq texnikasına aiddir: 1. tənəffüs 2. cümlə 3. səs 4. söz 5. tələffüz",
+      "wrong": ["3, 4, 5", "1, 4, 5", "1, 2, 4", "1, 2, 3"],
+      "correct": "1, 3, 5"
+    },
+    {
+      "number": 691,
+      "body": "Nitqin yığcamlılığı dedikdə, nə nəzərdə tutulur? Yanlış cavabı göstərin:",
+      "wrong": [
+        "Ən zəruri sözlərlə, söz birləşmələri və cümlələrlə ifadə olunmasıdır.",
+        "Danışandan dərin bilik, həssas düşüncə, zəngin lüğət ehtiyatı tələb edir.",
+        "Uzunçuluğa qarşı qoyulan bir anlayışdır.",
+        "Qısa və aydın, lakonik şəkildə ifadə olunması nəzərdə tutulur."
+      ],
+      "correct": "Başlıca meyar danışanın (yazanın) geniş söz ehtiyatına malik olmasıdır."
+    },
+    {
+      "number": 692,
+      "body": "Ünsiyyət mühiti ilə dilin struktur sahələri və üslub sistemi ilə şərtlənir”. Verilən fikir aiddir:",
+      "wrong": [
+        "nitqin yığcamlığına",
+        "nitqin dəqiqliyinə",
+        "nitqin zənginliyinə",
+        "nitqin ahəngdarlığına"
+      ],
+      "correct": "nitqin ifadəliliyinə"
+    },
+    {
+      "number": 693,
+      "body": "\"Diksiya\" sözü mənşəcə hansı dilə mənsubdur?",
+      "wrong": ["yunan", "ingilis", "rus", "fransız"],
+      "correct": "latın"
+    },
+    {
+      "number": 694,
+      "body": "Biri dilin təmizliyini qoruyub saxlayan amillərə aid deyil:",
+      "wrong": [
+        "Əcnəbi sözlər lüzumsuz işlədilməməlidir.",
+        "Tüfeyli sözlərlə bağlı qüsurlar aradan qaldırılmalıdır.",
+        "Jarqon sözlərin və ifadələrin işlədilməsi məqbul sayılmamalıdır.",
+        "Başqasını heysiyyətinə toxunmaq məqsədi daşıyan ədəbsiz, qeyri-etik sözlərə və s. yer verilməməlidir."
+      ],
+      "correct": "Nitqdə məhəlli dialektlərdən daha çox istifadə olunmalıdır."
+    },
+    {
+      "number": 695,
+      "body": "Biri nitqin məntiqliliyi ilə əlaqədar deyil:",
+      "wrong": [
+        "Nitqin ən mühüm keyfiyyətidir.",
+        "Dəqiqliklə əlaqədardır.",
+        "İki qanunauyğun şərti var: dilxarici və dildaxili",
+        "Obyektiv gerçəkliyi doğru, dürüst əks etdirən hökm, fikirdir."
+      ],
+      "correct": "Nitqin obrazlığı, emosional keyfiyyəti, təsirliliyi deməkdir."
+    },
+    {
+      "number": 696,
+      "body": "Fikirlərdən biri nitqin ifadəliliyinə aid deyil:",
+      "wrong": [
+        "Düzgün, dəqiq, təmiz, məntiqi, təsirli, ifadəli və s. olmalıdır.",
+        "Ünsiyyət mühiti, dilin struktur sahələri və üslub sistemi ilə şərtlənir.",
+        "Təfəkkürlə, dili yaxşı bilməklə və onun ifadəlilik imkanlarını qiymətləndirməklə əlaqədardır.",
+        "Dilin bütün sistemləri ─ fonetika, leksika, intonasiya, üslubiyyat və s. iştirak edir."
+      ],
+      "correct": "Başlıca meyar danışanın (yazanın) geniş söz ehtiyatına malik olmasıdır."
+    },
+    {
+      "number": 697,
+      "body": "Nitqin aydınlığı nədir? Səhv cavabı göstərin:",
+      "wrong": [
+        "Əsas amil danışanın nitq obyekti haqqında mükəmməl məlumata malik olmasıdır.",
+        "Diksiya əsas amillərdən biridir.",
+        "Tələffüzlə sıx bağlı olmasıdır.",
+        "Dinleyici və oxucunun nitqi asanlıqla anlaması, başa düşməsidir."
+      ],
+      "correct": "Nitqdə dialektizm və varvarizmlərdən istifadə edilməsidir."
+    },
+    {
+      "number": 698,
+      "body": "Nitqin zənginliyi nədir? Cavablardan biri yanlışdır:",
+      "wrong": [
+        "Başlıca meyar danışanın (yazanın) geniş söz ehtiyatına malik olmasıdır.",
+        "Dil və nitq əlaqəsi əsasında meydana gəlir.",
+        "Bütün üslublar üçün səciyyəvidir.",
+        "Nitqdə müxtəlif və təkrarlanmayan dil vahidlərinin işlədilməsidir."
+      ],
+      "correct": "Ən zəruri sözlərlə, söz birləşmələri və cümlələrlə ifadə olunmasıdır."
+    },
+    {
+      "number": 699,
+      "body": "Verilənlərdən biri nitqin sadəliyi üçün əsas şərt deyil:",
+      "wrong": [
+        "cümlənin qısalığı",
+        "anlaşıqlı olması",
+        "yığcamlıq",
+        "aydınlıq"
+      ],
+      "correct": "yalançı pafos"
+    },
+    {
+      "number": 700,
+      "body": "Dilin təmizliyini qoruyub saxlamaq üçün nələrə əməl etmək lazımdır? Səhv cavabı göstərin:",
+      "wrong": [
+        "Nitqdə məhəlli dialektlərə, yerli şivələrə məxsus danışıq tərzinə yol verilməməlidir.",
+        "Mədəni danışıqda söyüş və qarğışlara, ədəbsiz, təhqiramiz, qeyri-etik sözlərə və ifadələrə yer verilməməlidir.",
+        "Jarqon sözlərin və ifadələrin işlədilməsi məqbul sayılmamalıdır.",
+        "Əcnəbi sözlər lüzumsuz işlədilməməlidir."
+      ],
+      "correct": "Tüfeyli sözlərlə bağlı qüsurlar aradan qaldırılmamalıdır."
+    },
+    {
+      "number": 701,
+      "body": "Nitqin təmizliyi üçün əsas şərt sayılır:",
+      "wrong": [
+        "Arxaik sözlərdən istifadə edilməlidir.",
+        "Jarqon sözlərin və ifadələrin işlədilməsi məqbul sayılmalıdır.",
+        "Əcnəbi sözlər çox işlədilməlidir.",
+        "Mədəni danışıqda başqasını təhqir etmək, heysiyyətinə toxunmaq məqsədi daşıyan söyüş və qarğışlara, qeyri-etik sözlərə və s. yer verilməlidir."
+      ],
+      "correct": "Məhəlli dialektlərə, yerli şivələrə məxsus danışıq tərzinə yol verilməməlidir."
+    },
+    {
+      "number": 702,
+      "body": "Nitqin yığcamlılığı nədir?",
+      "wrong": [
+        "Nitqin məzmunca dolğun olmasıdır.",
+        "Danışanın (yazanın) geniş söz ehtiyatına malik olmasıdır.",
+        "Fikrin dil vasitələri ilə düzgün verilməsinin göstəricisidir.",
+        "Nitqin aydın, asan, anlaşıqlı, düzgün olmasıdır."
+      ],
+      "correct": "Ən zəruri sözlərlə, söz birləşmələri və cümlələrlə ifadə olunmasıdır."
+    },
+    {
+      "number": 703,
+      "body": "Nitqin zənginliyi ilə bağlı yazılanlardan biri səhvdir:",
+      "wrong": [
+        "Nitqdə geniş söz ehtiyatının olması",
+        "Nitqdə müxtəlif, təkrarlanmayan dil vahidlərinin işlədilməsi",
+        "Dil və nitq əlaqəsi əsasında meydana gəlməsi",
+        "Nitqdə eyni işarələr və sözlərin az təkrarlanması"
+      ],
+      "correct": "Nitqdə eyni dil ünsürlərinin yersiz təkrarlanması, şablon ifadə vasitələrinə tez-tez müraciət edilməsi"
+    },
+    {
+      "number": 704,
+      "body": "Biri natiqliyin sahəsi deyil:",
+      "wrong": [
+        "diplomatik natiqlik",
+        "akademik natiqlik",
+        "işgüzar natiqlik",
+        "siyasi natiqlik"
+      ],
+      "correct": "fəlsəfi natiqlik"
     }
   ]
 }
