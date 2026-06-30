@@ -1,6 +1,11 @@
+import { useState } from "react";
+
 const LABELS = ["A", "B", "C", "D", "E"];
 
 const Question = ({ number, body, options, selected, onSelect, correct, reviewMode }) => {
+  const [revealed, setRevealed] = useState(false);
+  const correctLabel = LABELS[options.indexOf(correct)];
+
   return (
     <div className="question">
       <div className="text">
@@ -13,8 +18,8 @@ const Question = ({ number, body, options, selected, onSelect, correct, reviewMo
           if (reviewMode) {
             if (option === correct) className += " correct";
             else if (option === selected) className += " wrong";
-          } else {
-            if (option === selected) className += " selected";
+          } else if (option === selected) {
+            className += " selected";
           }
 
           return (
@@ -32,6 +37,15 @@ const Question = ({ number, body, options, selected, onSelect, correct, reviewMo
           );
         })}
       </div>
+      {!reviewMode && (
+        <button
+          type="button"
+          className="btn-reveal"
+          onClick={() => setRevealed((prev) => !prev)}
+        >
+          {revealed ? `Hide Answer: ${correctLabel}` : "Reveal Answer"}
+        </button>
+      )}
     </div>
   );
 };

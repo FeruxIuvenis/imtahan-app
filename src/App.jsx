@@ -1,6 +1,7 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useRef } from "react";
 import "./App.css";
 import Question from "./components/question/Question";
+import Timer from "./components/Timer";
 import { questions as alqoQuestions } from "./assets/alqo.json";
 import { questions as adiakQuestions } from "./assets/adiak.json";
 
@@ -18,6 +19,14 @@ function shuffleArray(arr) {
   return [...arr].sort(() => Math.random() - 0.5);
 }
 
+function formatTime(totalSeconds) {
+  const minutes = Math.floor(totalSeconds / 60)
+    .toString()
+    .padStart(2, "0");
+  const seconds = (totalSeconds % 60).toString().padStart(2, "0");
+  return `${minutes}:${seconds}`;
+}
+
 function App() {
   const [questionSet, setQuestionSet] = useState("adiak");
   const [range, setRange] = useState("1-700");
@@ -25,6 +34,10 @@ function App() {
   const [answers, setAnswers] = useState({});
   const [score, setScore] = useState(null);
   const [started, setStarted] = useState(false);
+  const [finalTime, setFinalTime] = useState(0);
+
+  const elapsedRef = useRef(0);
+  const examRunning = started && score === null;
 
   const questions = useMemo(() => {
     const [min, max] = range.split("-").map(Number);
@@ -45,6 +58,7 @@ function App() {
   const handleStart = () => {
     setAnswers({});
     setScore(null);
+    elapsedRef.current = 0;
     setStarted(true);
   };
 
@@ -52,6 +66,7 @@ function App() {
     const correct = questions.filter(
       (q) => answers[q.number] === q.correct,
     ).length;
+    setFinalTime(elapsedRef.current);
     setScore({ correct, total: questions.length });
   };
 
@@ -113,6 +128,7 @@ function App() {
             {score.correct} / {score.total}
           </p>
           <p className="percentage">{percentage}%</p>
+          <p className="time-taken">Time: {formatTime(finalTime)}</p>
           <p className={percentage >= 70 ? "pass" : "fail"}>
             {percentage >= 70 ? "Pass ✓" : "Fail ✗"}
           </p>
@@ -148,6 +164,12 @@ function App() {
         <span className="progress">
           {answeredCount} / {questions.length} answered
         </span>
+        <Timer
+          running={examRunning}
+          onTick={(s) => {
+            elapsedRef.current = s;
+          }}
+        />
         <button
           className="btn-finish"
           onClick={handleFinish}
