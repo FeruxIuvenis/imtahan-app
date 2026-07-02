@@ -2,7 +2,15 @@ import { useState } from "react";
 
 const LABELS = ["A", "B", "C", "D", "E"];
 
-const Question = ({ number, body, options, selected, onSelect, correct, reviewMode }) => {
+const Question = ({
+  number,
+  body,
+  options,
+  selected,
+  onSelect,
+  correct,
+  reviewMode,
+}) => {
   const [revealed, setRevealed] = useState(false);
   const correctLabel = LABELS[options.indexOf(correct)];
 
@@ -21,6 +29,9 @@ const Question = ({ number, body, options, selected, onSelect, correct, reviewMo
           } else if (option === selected) {
             className += " selected";
           }
+          if (!reviewMode && revealed && option === correct) {
+            className += " revealed-correct";
+          }
 
           return (
             <button
@@ -31,8 +42,12 @@ const Question = ({ number, body, options, selected, onSelect, correct, reviewMo
             >
               <span className="option-label">{LABELS[i]}</span>
               <span className="option-text">{option}</span>
-              {reviewMode && option === correct && <span className="option-correct">✓</span>}
-              {reviewMode && option === selected && option !== correct && <span className="option-wrong">✗</span>}
+              {reviewMode && option === correct && (
+                <span className="option-correct">✓</span>
+              )}
+              {reviewMode && option === selected && option !== correct && (
+                <span className="option-wrong">✗</span>
+              )}
             </button>
           );
         })}

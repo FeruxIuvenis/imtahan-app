@@ -139,7 +139,7 @@ function App() {
 
         {/* Wrong answers review */}
         <div className="review">
-          <h3>Wrong Answers</h3>
+          <p>Wrong Answers</p>
           {questions
             .filter((q) => answers[q.number] !== q.correct)
             .map((q) => (
@@ -153,6 +153,11 @@ function App() {
                 reviewMode
               />
             ))}
+
+            {questions
+            .filter((q) => answers[q.number] !== q.correct).length === 0 && (
+              <h3>Good job, keep up!</h3>
+            )}
         </div>
       </div>
     );
@@ -186,6 +191,7 @@ function App() {
             body={q.body}
             options={q.options}
             selected={answers[q.number] ?? null}
+            correct={q.correct}
             onSelect={(option) => handleSelect(q.number, option)}
           />
         ))}
